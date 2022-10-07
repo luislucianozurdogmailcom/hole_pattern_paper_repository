@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "00822ec0e3b80abe",
+        "id": "2994b14b40852e57",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hole Pattern/Concepts/Construction aplications.md",
+            "file": "COMANDOS GIT.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hole Pattern/Concepts/Construction aplications.md",
+                "file": "COMANDOS GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hole Pattern/Concepts/Construction aplications.md",
+                "file": "COMANDOS GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hole Pattern/Concepts/Construction aplications.md"
+                "file": "COMANDOS GIT.md"
               }
             }
           },
@@ -136,17 +136,17 @@
     "direction": "horizontal",
     "width": 299.5
   },
-  "active": "00822ec0e3b80abe",
+  "active": "2994b14b40852e57",
   "lastOpenFiles": [
+    "aasdasd.md",
     "COMANDOS GIT.md",
-    "Excalidraw/Drawing 2022-10-06 22.40.05.excalidraw.md",
-    "Hole Pattern/Concepts/Construction aplications.md",
-    "Hole Pattern/Concepts/Thermal agressive enviroments.md",
-    "Hole Pattern/Concepts/Moore's Law.md",
     "Hole Pattern/Concepts/Thermal systems or devices.md",
-    "Hole Pattern/Concepts/Industrial aplications.md",
-    "Hole Pattern/Pappers/@baoReviewSimulationMethods2018.md",
+    "Hole Pattern/Concepts/Moore's Law.md",
     "Hole Pattern/Concepts/Manipulation heat flux.md",
-    "Hole Pattern/Pappers/@fachinottiOptimizationbasedDesignEasytomake2018.md"
+    "Hole Pattern/Concepts/Industrial aplications.md",
+    "asdasdas.md",
+    "Hole Pattern/Concepts/Construction aplications.md",
+    "Excalidraw/Drawing 2022-10-06 22.40.05.excalidraw.md",
+    "Hole Pattern/Concepts/Thermal agressive enviroments.md"
   ]
 }

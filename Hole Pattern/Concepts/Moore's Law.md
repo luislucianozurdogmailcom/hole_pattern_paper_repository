@@ -1,3 +1,3 @@
 # Moore's Law
 
-The moore's law is a concept developed by 
+The Moore's law is a concept developed by 
