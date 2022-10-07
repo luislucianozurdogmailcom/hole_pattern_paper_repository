@@ -59,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 285.5
   },
   "right": {
     "id": "a7e33999e0369be2",
@@ -134,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11daf3974040fcbd",
+  "active": "ca2bcfb9f96b2462",
   "lastOpenFiles": [
-    "Hole Pattern/Concepts/Moore's Law.md",
-    "Hole Pattern/Concepts/Manipulation heat flux.md",
+    "Excalidraw/Frecuencia calculo auxiliar.md",
+    "Tareas Paper.md",
+    "Audios/Recording 20221007061500.webm",
+    "Hole Pattern/Recording 20221007061226.webm",
     "Hole Pattern/Concepts/Thermal agressive enviroments.md",
     "Hole Pattern/Concepts/Thermal systems or devices.md",
-    "Tareas Paper.md",
-    "Excalidraw/Frecuencia calculo auxiliar.md",
-    "Excalidraw/Drawing 2022-10-07 02.27.19.excalidraw.md",
-    "Hole Pattern/Pasted image 20221007033856.png",
-    "REPOSITORIO.md",
+    "Hole Pattern/Concepts/Moore's Law.md",
+    "Hole Pattern/Concepts/Manipulation heat flux.md",
+    "Hole Pattern/Concepts/Industrial aplications.md",
     "Hole Pattern/Concepts/Construction aplications.md"
   ]
 }
