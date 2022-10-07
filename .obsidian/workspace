@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "COMANDOS GIT.md",
+            "file": "Hole Pattern/Concepts/Construction aplications.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COMANDOS GIT.md",
+                "file": "Hole Pattern/Concepts/Construction aplications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COMANDOS GIT.md",
+                "file": "Hole Pattern/Concepts/Construction aplications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COMANDOS GIT.md"
+                "file": "Hole Pattern/Concepts/Construction aplications.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "00822ec0e3b80abe",
   "lastOpenFiles": [
+    "COMANDOS GIT.md",
     "Excalidraw/Drawing 2022-10-06 22.40.05.excalidraw.md",
     "Hole Pattern/Concepts/Construction aplications.md",
     "Hole Pattern/Concepts/Thermal agressive enviroments.md",
@@ -146,7 +147,6 @@
     "Hole Pattern/Concepts/Industrial aplications.md",
     "Hole Pattern/Pappers/@baoReviewSimulationMethods2018.md",
     "Hole Pattern/Concepts/Manipulation heat flux.md",
-    "Hole Pattern/Pappers/@fachinottiOptimizationbasedDesignEasytomake2018.md",
-    "Hole Pattern/Pappers/@al-tamimiEffectGeometryHoles2017.md"
+    "Hole Pattern/Pappers/@fachinottiOptimizationbasedDesignEasytomake2018.md"
   ]
 }
