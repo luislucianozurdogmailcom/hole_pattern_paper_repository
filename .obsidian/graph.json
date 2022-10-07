@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Hole Pattern/Concepts\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Hole Pattern/Pappers\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:IA/Concepts",
+      "color": {
+        "a": 1,
+        "rgb": 5979632
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.56458333333333,
+  "lineSizeMultiplier": 2.15625,
+  "collapse-forces": true,
+  "centerStrength": 0.318452380952381,
+  "repelStrength": 10.5982905982906,
+  "linkStrength": 0.324786324786325,
+  "linkDistance": 353,
+  "scale": 0.36288740672039854,
+  "close": false
+}
