@@ -7,9 +7,9 @@
         "id": "ca2bcfb9f96b2462",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "kanban",
           "state": {
-            "file": "Excalidraw/Frecuencia calculo auxiliar.md"
+            "file": "Tareas Paper.md"
           }
         }
       }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Frecuencia calculo auxiliar.md",
+                "file": "Tareas Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Frecuencia calculo auxiliar.md",
+                "file": "Tareas Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Frecuencia calculo auxiliar.md"
+                "file": "Tareas Paper.md"
               }
             }
           }
@@ -134,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca2bcfb9f96b2462",
+  "active": "11daf3974040fcbd",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-10-07 02.27.19.excalidraw.md",
-    "Excalidraw/Frecuencia calculo auxiliar.md",
+    "Hole Pattern/Concepts/Moore's Law.md",
+    "Hole Pattern/Concepts/Manipulation heat flux.md",
+    "Hole Pattern/Concepts/Thermal agressive enviroments.md",
+    "Hole Pattern/Concepts/Thermal systems or devices.md",
     "Tareas Paper.md",
+    "Excalidraw/Frecuencia calculo auxiliar.md",
+    "Excalidraw/Drawing 2022-10-07 02.27.19.excalidraw.md",
     "Hole Pattern/Pasted image 20221007033856.png",
     "REPOSITORIO.md",
-    "Hole Pattern/Concepts/Construction aplications.md",
-    "Hole Pattern/Concepts/Archivo nuevo para prueba.md",
-    "Hole Pattern/Concepts/Industrial aplications.md",
-    "Hole Pattern/Concepts/Manipulation heat flux.md",
-    "Hole Pattern/Concepts/Moore's Law.md"
+    "Hole Pattern/Concepts/Construction aplications.md"
   ]
 }
