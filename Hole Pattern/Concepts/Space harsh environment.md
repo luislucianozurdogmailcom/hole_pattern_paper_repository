@@ -1,0 +1,3 @@
+# Space harsh environment
+Space devices have to operate under extreme environmental conditions, as high energy incident radiation and the extremely high temperature resulting from this, significant vibration at the lauching spacecraft procces, cryogenic environments, vacuum or plasma according to the location or the height above sea level at which it is operating. [[@cardinalettiOrganicPerovskiteSolar2018]] [[@wongReviewStateArt2021]]
+For example, at 32 km of altitude the total incident irradiance that have to support the devices is aprox. $1350 W/m^2$ and $1360 W/m^2$ outside Earth's atmospere.

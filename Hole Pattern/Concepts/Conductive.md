@@ -1,0 +1,3 @@
+# Conductive (thermal diode)
+In our system, the [[Thermal diode]] operate under a thermal conduction mechanism. For this cases, the [[thermal rectification]] can be product of the [[Assymetry]] in it's differnet forms,  as well as asymmetric thermal conductivity and asymetric phonon propagation which occurs subordinated on material properties and device structure [[@wongReviewStateArt2021]].
+**In contrat to radiative thermal diodes, the conductive thermal diodes can't operate under some [[Space harsh environment]] conditions, like vaccum.**

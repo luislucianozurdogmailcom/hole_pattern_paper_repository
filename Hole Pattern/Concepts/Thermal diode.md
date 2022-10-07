@@ -1,0 +1,2 @@
+# Thermal diode
+In order to obtain a [[Heat flux]] control in electronics devices, the phenomenon of electronic diode is replicate in the form of a thermal diode, whos principle function is allow heat flow easily in one direction and hinder it in the opposite direction ([[thermal rectification]] effect). A typical use of this [[Thermal management]] situation consist in isolate the system from a external heat sink and facilitates the evacuation of the heat flow.  [[@wongReviewStateArt2021]]

@@ -1,0 +1,16 @@
+---
+title: Effect of Geometry of Holes on Heat Transfer of Concrete Masonry Bricks Using Numerical Analysis
+authors: Ahmed S. Al-Tamimi, Mohammed A. Al-Osta, Omar S. Baghabra Al-Amoudi, Rached Ben-Mansour
+year: 2017
+abstract: The population growth and harsh weather conditions in Saudi Arabia increase the demand for electricity due to the overwhelming usage of air-conditioning system for cooling during the excessively hot weather summer conditions. Therefore, the demand to produce efficient insulation materials for building construction has recently increased for energy and environment conservation, particularly with the recent increase in the electricity tariffs. In this paper, finite element analysis using ABAQUS software was used to determine the optimum geometry of holes for concrete bricks that would increase the thermal resistance of the wall, thereby reducing the consumption of electrical power. The analysis was carried out for 23 models with different configurations of holes for masonry concrete bricks. Regular and staggered cavities arrangements were analyzed. The conduction, convection and thermal radiation phenomena were considered for solid and hollow masonry bricks. The results demonstrated that 51% hollow ratio could reduce the average inner surface temperature $$(T_\mathrm{i})$$of the concrete brick by $$7.18\,{^{\circ }}\hbox {C}$$. For bricks with the same hollow ratio, it was observed that there is an effect of the shape of holes in reducing the thermal flow through the bricks, while the number of holes has a marginal effect on the average inner surface temperature $$(T_\mathrm{i})$$. Further, the staggered arrangement for circular holes has considerable effect in reducing $$T_\mathrm{i}$$for bricks with four cavities, while the rectangular cavities have negative impact on $$T_\mathrm{i}$$. Moreover, for the models with circular and rectangular eight cavities, the staggered arrangement has an advantage in reducing $$(T_\mathrm{i})$$.
+doi: 10.1007/s13369-017-2482-6
+---
+
+# Annotations:
+1. Therefore, the demand to produce efficient insulation materials for building construction has recently increased for energy and environment conservation, particulary with the recent increase in the electricity tariffs.
+2. The results demostrated that 51% hollow ratio could reduce the average inner surface temperature (Ti) of the concrete brick by 7.18°C. For bricks with the same hollow ratio, it was observed that there is an effect of the shape of holes in reducing the thermal flow through the bricks.
+3. The number of holes has a marginal effect on the average inner surface temperature (Ti).
+4. The staggered arrangement has an advantage in reducing (Ti).
+5. The hollow ratio (HR) is defined as the total area of the holes in a model divided by the cross-sectional area of the brick.
+6. The reduction in the average inner surface temperature of the bricks was conkointly affected by other factors in addition to HR.
+7. For bricks with the same hollow ratio, there was an effect of the shape of holes in reducing the thermal flow through the bricks. Further, results showed that rectangular shapes were more efficient than circular from thermal point of view.

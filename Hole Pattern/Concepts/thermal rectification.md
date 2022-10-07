@@ -1,0 +1,2 @@
+# Thermal rectification
+The thermal rectification can occur by two mainly conditions, in one hand are the devices fabricated with different materials searchiny and assymetric structure and in the other hand there are the devices where the heat transfer efficiency change with position and temperature product of [[Assymetry]] heat transfer mechanisms, among others. [[@wongReviewStateArt2021]][[@wongReviewStateArt2021]]

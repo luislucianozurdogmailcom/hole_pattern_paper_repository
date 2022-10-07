@@ -1,0 +1,2 @@
+# Oscillating temperature
+In order to emulate a real electronic device operating situation where the heat source next the device to be refrigerated have a non continuos high temperature and the device is operating with a lower and in principle constant temperature, in our case and in different studies [[@lohThermalRectificationReversal2012]], [[@zhangReversalThermalRectification2009]], one of the heat baths is left with a fixed temperature, named cold temperature (T_{c}) and the other is varying T_{h}.
