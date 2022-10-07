@@ -7,8 +7,10 @@
         "id": "ca2bcfb9f96b2462",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "Tareas Paper.md"
+          }
         }
       }
     ],
@@ -57,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 173.5
+    "width": 307.5
   },
   "right": {
     "id": "a7e33999e0369be2",
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tareas Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tareas Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tareas Paper.md"
+              }
             }
           }
         ]
@@ -128,8 +134,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11daf3974040fcbd",
+  "active": "ca2bcfb9f96b2462",
   "lastOpenFiles": [
+    "Hole Pattern/Pasted image 20221007033856.png",
+    "Tareas Paper.md",
+    "REPOSITORIO.md",
     "Hole Pattern/Concepts/Construction aplications.md",
     "Hole Pattern/Concepts/Archivo nuevo para prueba.md",
     "Hole Pattern/Concepts/Industrial aplications.md",
