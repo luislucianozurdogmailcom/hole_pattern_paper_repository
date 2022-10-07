@@ -7,9 +7,9 @@
         "id": "ca2bcfb9f96b2462",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "excalidraw",
           "state": {
-            "file": "Tareas Paper.md"
+            "file": "Excalidraw/Frecuencia calculo auxiliar.md"
           }
         }
       }
@@ -59,7 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 213.5
   },
   "right": {
     "id": "a7e33999e0369be2",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas Paper.md",
+                "file": "Excalidraw/Frecuencia calculo auxiliar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas Paper.md",
+                "file": "Excalidraw/Frecuencia calculo auxiliar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas Paper.md"
+                "file": "Excalidraw/Frecuencia calculo auxiliar.md"
               }
             }
           }
@@ -136,14 +136,15 @@
   },
   "active": "ca2bcfb9f96b2462",
   "lastOpenFiles": [
-    "Hole Pattern/Pasted image 20221007033856.png",
+    "Excalidraw/Drawing 2022-10-07 02.27.19.excalidraw.md",
+    "Excalidraw/Frecuencia calculo auxiliar.md",
     "Tareas Paper.md",
+    "Hole Pattern/Pasted image 20221007033856.png",
     "REPOSITORIO.md",
     "Hole Pattern/Concepts/Construction aplications.md",
     "Hole Pattern/Concepts/Archivo nuevo para prueba.md",
     "Hole Pattern/Concepts/Industrial aplications.md",
     "Hole Pattern/Concepts/Manipulation heat flux.md",
-    "Hole Pattern/Concepts/Moore's Law.md",
-    "Excalidraw/Drawing 2022-10-07 02.27.19.excalidraw.md"
+    "Hole Pattern/Concepts/Moore's Law.md"
   ]
 }
