@@ -13,7 +13,7 @@ kanban-plugin: basic
 
 ## En proceso
 
-- [ ] Definir frecuencia caracteristica y explicar bien eso
+- [ ] Definir frecuencia caracteristica y explicar bien eso<br><br>[[Frecuencia calculo auxiliar]]
 
 
 ## Hecho

@@ -5600,27 +5600,27 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 			]
 		},
 		{
-			"id": "bT6ym3E4C1rdUcFMBVUa6",
 			"type": "freedraw",
-			"x": -942.392857142858,
-			"y": -50.00000000000006,
-			"width": 31.428571428571445,
-			"height": 62.85714285714295,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 1419489332,
+			"isDeleted": false,
+			"id": "bT6ym3E4C1rdUcFMBVUa6",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -942.392857142858,
+			"y": -50.00000000000006,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 31.428571428571445,
+			"height": 62.85714285714295,
+			"seed": 399826484,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 399826484,
-			"version": 25,
-			"versionNonce": 1419489332,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125755933,
 			"link": null,
 			"locked": false,
@@ -5722,6 +5722,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					58.571428571428726
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.025390625,
 				0.0810546875,
@@ -5747,35 +5749,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.236328125,
 				0.2099609375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.285714285714334,
-				58.571428571428726
 			]
 		},
 		{
-			"id": "kJCFxrYiZNVEC5FNIuv7v",
 			"type": "freedraw",
-			"x": -948.1071428571438,
-			"y": -20,
-			"width": 22.85714285714289,
-			"height": 8.571428571428555,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1051654452,
+			"isDeleted": false,
+			"id": "kJCFxrYiZNVEC5FNIuv7v",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -948.1071428571438,
+			"y": -20,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.85714285714289,
+			"height": 8.571428571428555,
+			"seed": 408788236,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 408788236,
-			"version": 12,
-			"versionNonce": 1051654452,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125756299,
 			"link": null,
 			"locked": false,
@@ -5825,6 +5822,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-8.571428571428555
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0478515625,
 				0.0966796875,
@@ -5837,35 +5836,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.197265625,
 				0.1044921875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				22.85714285714289,
-				-8.571428571428555
 			]
 		},
 		{
-			"id": "jvhxuu8V0EADcyCjH7cEI",
 			"type": "freedraw",
-			"x": -948.1071428571438,
-			"y": -48.57142857142861,
-			"width": 25.71428571428578,
-			"height": 4.285714285714278,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1286125748,
+			"isDeleted": false,
+			"id": "jvhxuu8V0EADcyCjH7cEI",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -948.1071428571438,
+			"y": -48.57142857142861,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 25.71428571428578,
+			"height": 4.285714285714278,
+			"seed": 46097420,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 46097420,
-			"version": 10,
-			"versionNonce": 1286125748,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125756621,
 			"link": null,
 			"locked": false,
@@ -5907,6 +5901,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-4.285714285714278
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0478515625,
 				0.1318359375,
@@ -5917,35 +5913,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1455078125,
 				0.02734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				25.71428571428578,
-				-4.285714285714278
 			]
 		},
 		{
-			"id": "EFQ0ZmtovsmWtFTwICZ34",
 			"type": "freedraw",
-			"x": -892.3928571428579,
-			"y": -17.14285714285711,
-			"width": 34.28571428571445,
-			"height": 31.428571428571445,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 689659276,
+			"isDeleted": false,
+			"id": "EFQ0ZmtovsmWtFTwICZ34",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -892.3928571428579,
+			"y": -17.14285714285711,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 34.28571428571445,
+			"height": 31.428571428571445,
+			"seed": 971201676,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 971201676,
-			"version": 21,
-			"versionNonce": 689659276,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125757453,
 			"link": null,
 			"locked": false,
@@ -6031,6 +6022,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					24.285714285714334
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0400390625,
 				0.080078125,
@@ -6052,35 +6045,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1318359375,
 				0.0966796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14.285714285714334,
-				24.285714285714334
 			]
 		},
 		{
-			"id": "J-rGg2ZhpqX8DGKPb1bqx",
 			"type": "freedraw",
-			"x": -870.9642857142865,
-			"y": -11.428571428571388,
-			"width": 20,
-			"height": 28.571428571428612,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 1687219084,
+			"isDeleted": false,
+			"id": "J-rGg2ZhpqX8DGKPb1bqx",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -870.9642857142865,
+			"y": -11.428571428571388,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 28.571428571428612,
+			"seed": 251400500,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 251400500,
-			"version": 24,
-			"versionNonce": 1687219084,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125759815,
 			"link": null,
 			"locked": false,
@@ -6178,6 +6166,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-2.8571428571428896
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0341796875,
 				0.1083984375,
@@ -6202,35 +6192,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2216796875,
 				0.2197265625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18.57142857142867,
-				-2.8571428571428896
 			]
 		},
 		{
-			"id": "bCkIIC4f8GzgAHE1HgRLM",
 			"type": "freedraw",
-			"x": -828.1071428571436,
-			"y": -12.857142857142833,
-			"width": 20,
-			"height": 30.000000000000057,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 23,
+			"versionNonce": 191974324,
+			"isDeleted": false,
+			"id": "bCkIIC4f8GzgAHE1HgRLM",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -828.1071428571436,
+			"y": -12.857142857142833,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 30.000000000000057,
+			"seed": 435053364,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 435053364,
-			"version": 23,
-			"versionNonce": 191974324,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125760776,
 			"link": null,
 			"locked": false,
@@ -6324,6 +6309,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					30.000000000000057
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.025390625,
 				0.0966796875,
@@ -6347,35 +6334,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2021484375,
 				0.189453125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-20,
-				30.000000000000057
 			]
 		},
 		{
-			"id": "wB4hyQYl65GgWORp6rOaq",
 			"type": "freedraw",
-			"x": -833.8214285714292,
-			"y": -12.857142857142833,
-			"width": 18.571428571428555,
-			"height": 28.571428571428612,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 1075834636,
+			"isDeleted": false,
+			"id": "wB4hyQYl65GgWORp6rOaq",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -833.8214285714292,
+			"y": -12.857142857142833,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18.571428571428555,
+			"height": 28.571428571428612,
+			"seed": 400652684,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 400652684,
-			"version": 15,
-			"versionNonce": 1075834636,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125761461,
 			"link": null,
 			"locked": false,
@@ -6437,6 +6419,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					28.571428571428612
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.041015625,
 				0.0927734375,
@@ -6452,35 +6436,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2001953125,
 				0.115234375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18.571428571428555,
-				28.571428571428612
 			]
 		},
 		{
-			"id": "P6a7zlMBIZFJd1zg41dEo",
 			"type": "freedraw",
-			"x": -836.6785714285721,
-			"y": 2.8571428571428896,
-			"width": 18.571428571428555,
-			"height": 5.714285714285722,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 2133843380,
+			"isDeleted": false,
+			"id": "P6a7zlMBIZFJd1zg41dEo",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -836.6785714285721,
+			"y": 2.8571428571428896,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18.571428571428555,
+			"height": 5.714285714285722,
+			"seed": 1164138420,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1164138420,
-			"version": 9,
-			"versionNonce": 2133843380,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125761835,
 			"link": null,
 			"locked": false,
@@ -6518,6 +6497,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-5.714285714285722
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03125,
 				0.0751953125,
@@ -6527,35 +6508,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1640625,
 				0.1064453125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18.571428571428555,
-				-5.714285714285722
 			]
 		},
 		{
-			"id": "mnfWL_ak29P5zmQPG9wfu",
 			"type": "freedraw",
-			"x": -786.678571428572,
-			"y": -10,
-			"width": 21.42857142857156,
-			"height": 27.142857142857167,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 530582708,
+			"isDeleted": false,
+			"id": "mnfWL_ak29P5zmQPG9wfu",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -786.678571428572,
+			"y": -10,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 21.42857142857156,
+			"height": 27.142857142857167,
+			"seed": 848103308,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 848103308,
-			"version": 20,
-			"versionNonce": 530582708,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125763007,
 			"link": null,
 			"locked": false,
@@ -6637,6 +6613,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					21.428571428571445
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0439453125,
 				0.087890625,
@@ -6657,35 +6635,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.240234375,
 				0.1064453125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				1.4285714285714448,
-				21.428571428571445
 			]
 		},
 		{
-			"id": "kqpE_wi3tYTs7OaPtNBCx",
 			"type": "freedraw",
-			"x": -775.2500000000006,
-			"y": -1.428571428571388,
-			"width": 4.285714285714221,
-			"height": 11.428571428571388,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 712811148,
+			"isDeleted": false,
+			"id": "kqpE_wi3tYTs7OaPtNBCx",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -775.2500000000006,
+			"y": -1.428571428571388,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 4.285714285714221,
+			"height": 11.428571428571388,
+			"seed": 867911820,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 867911820,
-			"version": 9,
-			"versionNonce": 712811148,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125763307,
 			"link": null,
 			"locked": false,
@@ -6723,6 +6696,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					11.428571428571388
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0634765625,
 				0.1005859375,
@@ -6732,35 +6707,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1796875,
 				0.107421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4.285714285714221,
-				11.428571428571388
 			]
 		},
 		{
-			"id": "q6lL61lXsH8HPjUag_3sW",
 			"type": "freedraw",
-			"x": -776.678571428572,
-			"y": -18.571428571428555,
-			"width": 0,
-			"height": 1.4285714285714448,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 5,
+			"versionNonce": 1875058484,
+			"isDeleted": false,
+			"id": "q6lL61lXsH8HPjUag_3sW",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -776.678571428572,
+			"y": -18.571428571428555,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 1.4285714285714448,
+			"seed": 1123916852,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1123916852,
-			"version": 5,
-			"versionNonce": 1875058484,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125763573,
 			"link": null,
 			"locked": false,
@@ -6778,39 +6748,36 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0361328125,
 				0.0791015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				-1.4285714285714448
 			]
 		},
 		{
-			"id": "119NJSycYbPS7VFwIiKk3",
 			"type": "freedraw",
-			"x": -750.9642857142862,
-			"y": -12.857142857142833,
-			"width": 24.285714285714334,
-			"height": 28.571428571428612,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 27,
+			"versionNonce": 564136588,
+			"isDeleted": false,
+			"id": "119NJSycYbPS7VFwIiKk3",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -750.9642857142862,
+			"y": -12.857142857142833,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24.285714285714334,
+			"height": 28.571428571428612,
+			"seed": 954768908,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 954768908,
-			"version": 27,
-			"versionNonce": 564136588,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125764270,
 			"link": null,
 			"locked": false,
@@ -6916,6 +6883,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.029296875,
 				0.11328125,
@@ -6942,35 +6911,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.21484375,
 				0.107421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-10.000000000000114,
-				2.857142857142833
 			]
 		},
 		{
-			"id": "NC0iMFnoZsarm69MwjSEu",
 			"type": "freedraw",
-			"x": -722.3928571428577,
-			"y": 8.571428571428669,
-			"width": 28.57142857142867,
-			"height": 30.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 34,
+			"versionNonce": 1501380876,
+			"isDeleted": false,
+			"id": "NC0iMFnoZsarm69MwjSEu",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -722.3928571428577,
+			"y": 8.571428571428669,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28.57142857142867,
+			"height": 30.000000000000114,
+			"seed": 1344582708,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1344582708,
-			"version": 34,
-			"versionNonce": 1501380876,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125765527,
 			"link": null,
 			"locked": false,
@@ -7108,6 +7072,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-30.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.052734375,
 				0.08203125,
@@ -7142,35 +7108,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.193359375,
 				0.08984375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.285714285714334,
-				-30.000000000000114
 			]
 		},
 		{
-			"id": "z9p5YSNNaBqolewPrNtML",
 			"type": "freedraw",
-			"x": -742.3928571428577,
-			"y": -24.285714285714278,
-			"width": 14.285714285714334,
-			"height": 17.142857142857167,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1834424716,
+			"isDeleted": false,
+			"id": "z9p5YSNNaBqolewPrNtML",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -742.3928571428577,
+			"y": -24.285714285714278,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 14.285714285714334,
+			"height": 17.142857142857167,
+			"seed": 2025596340,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2025596340,
-			"version": 10,
-			"versionNonce": 1834424716,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125765909,
 			"link": null,
 			"locked": false,
@@ -7212,6 +7173,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-17.142857142857167
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.046875,
 				0.1015625,
@@ -7222,35 +7185,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1396484375,
 				0.0439453125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14.285714285714334,
-				-17.142857142857167
 			]
 		},
 		{
-			"id": "64xmx7uItbee8BA-LizNC",
 			"type": "freedraw",
-			"x": -619.5357142857147,
-			"y": -25.714285714285722,
-			"width": 22.85714285714289,
-			"height": 31.4285714285715,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 316859444,
+			"isDeleted": false,
+			"id": "64xmx7uItbee8BA-LizNC",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -619.5357142857147,
+			"y": -25.714285714285722,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.85714285714289,
+			"height": 31.4285714285715,
+			"seed": 174724404,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 174724404,
-			"version": 21,
-			"versionNonce": 316859444,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125767045,
 			"link": null,
 			"locked": false,
@@ -7336,6 +7294,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					24.285714285714334
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0283203125,
 				0.1064453125,
@@ -7357,35 +7317,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.208984375,
 				0.1376953125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18.57142857142867,
-				24.285714285714334
 			]
 		},
 		{
-			"id": "gABCW6or33_93yDfv5RfL",
 			"type": "freedraw",
-			"x": -616.6785714285718,
-			"y": -15.714285714285722,
-			"width": 8.571428571428555,
-			"height": 2.857142857142833,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 1145383476,
+			"isDeleted": false,
+			"id": "gABCW6or33_93yDfv5RfL",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -616.6785714285718,
+			"y": -15.714285714285722,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 8.571428571428555,
+			"height": 2.857142857142833,
+			"seed": 743680268,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 743680268,
-			"version": 8,
-			"versionNonce": 1145383476,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125767319,
 			"link": null,
 			"locked": false,
@@ -7415,6 +7370,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.029296875,
 				0.048828125,
@@ -7422,35 +7379,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.130859375,
 				0.13671875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				8.571428571428555,
-				-2.857142857142833
 			]
 		},
 		{
-			"id": "9e9lyE_us0VrFKo0tlRsU",
 			"type": "freedraw",
-			"x": -622.3928571428575,
-			"y": -21.428571428571445,
-			"width": 18.571428571428555,
-			"height": 7.14285714285711,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 445701388,
+			"isDeleted": false,
+			"id": "9e9lyE_us0VrFKo0tlRsU",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -622.3928571428575,
+			"y": -21.428571428571445,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18.571428571428555,
+			"height": 7.14285714285711,
+			"seed": 1839252236,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1839252236,
-			"version": 9,
-			"versionNonce": 445701388,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125767606,
 			"link": null,
 			"locked": false,
@@ -7488,6 +7440,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-7.14285714285711
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.02734375,
 				0.0791015625,
@@ -7497,35 +7451,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.14453125,
 				0.041015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18.571428571428555,
-				-7.14285714285711
 			]
 		},
 		{
-			"id": "W2NhTWPB-xMbFxoGedNrF",
 			"type": "freedraw",
-			"x": -586.6785714285718,
-			"y": 2.8571428571428896,
-			"width": 24.285714285714334,
-			"height": 32.85714285714289,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 34,
+			"versionNonce": 454738828,
+			"isDeleted": false,
+			"id": "W2NhTWPB-xMbFxoGedNrF",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -586.6785714285718,
+			"y": 2.8571428571428896,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24.285714285714334,
+			"height": 32.85714285714289,
+			"seed": 960514484,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 960514484,
-			"version": 34,
-			"versionNonce": 454738828,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125768559,
 			"link": null,
 			"locked": false,
@@ -7663,6 +7612,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-31.428571428571445
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.029296875,
 				0.0498046875,
@@ -7697,35 +7648,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.240234375,
 				0.0888671875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				21.42857142857156,
-				-31.428571428571445
 			]
 		},
 		{
-			"id": "dgLaoyf9mN-cDFAMG3ExM",
 			"type": "freedraw",
-			"x": -493.8214285714288,
-			"y": -25.714285714285722,
-			"width": 21.428571428571445,
-			"height": 28.571428571428612,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 354981684,
+			"isDeleted": false,
+			"id": "dgLaoyf9mN-cDFAMG3ExM",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -493.8214285714288,
+			"y": -25.714285714285722,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 21.428571428571445,
+			"height": 28.571428571428612,
+			"seed": 1267600180,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1267600180,
-			"version": 17,
-			"versionNonce": 354981684,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125769529,
 			"link": null,
 			"locked": false,
@@ -7795,6 +7741,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					28.571428571428612
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0302734375,
 				0.0908203125,
@@ -7812,35 +7760,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1298828125,
 				0.0654296875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4.285714285714334,
-				28.571428571428612
 			]
 		},
 		{
-			"id": "01JouTdKtkMb3s9KYlLgl",
 			"type": "freedraw",
-			"x": -469.53571428571445,
-			"y": -20,
-			"width": 20,
-			"height": 25.71428571428578,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 71428404,
+			"isDeleted": false,
+			"id": "01JouTdKtkMb3s9KYlLgl",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -469.53571428571445,
+			"y": -20,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 25.71428571428578,
+			"seed": 548840972,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 548840972,
-			"version": 24,
-			"versionNonce": 71428404,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125770123,
 			"link": null,
 			"locked": false,
@@ -7934,6 +7877,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0615234375,
 				0.1298828125,
@@ -7957,35 +7902,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2587890625,
 				0.2412109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-5.714285714285666,
-				-5.714285714285722
 			]
 		},
 		{
-			"id": "X9agmUV4M52MH6C7bVGso",
 			"type": "freedraw",
-			"x": -460.9642857142858,
-			"y": -38.57142857142861,
-			"width": 7.14285714285711,
-			"height": 8.571428571428555,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 1870245684,
+			"isDeleted": false,
+			"id": "X9agmUV4M52MH6C7bVGso",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -460.9642857142858,
+			"y": -38.57142857142861,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 7.14285714285711,
+			"height": 8.571428571428555,
+			"seed": 1209234444,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1209234444,
-			"version": 8,
-			"versionNonce": 1870245684,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125770379,
 			"link": null,
 			"locked": false,
@@ -8015,6 +7955,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.029296875,
 				0.10546875,
@@ -8022,35 +7964,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1552734375,
 				0.1376953125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.14285714285711,
-				-8.571428571428555
 			]
 		},
 		{
-			"id": "0Xq-NjC7zLluD4iUp-O-f",
 			"type": "freedraw",
-			"x": -442.3928571428572,
-			"y": -14.285714285714278,
-			"width": 2.8571428571428896,
-			"height": 18.571428571428612,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1510059700,
+			"isDeleted": false,
+			"id": "0Xq-NjC7zLluD4iUp-O-f",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -442.3928571428572,
+			"y": -14.285714285714278,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2.8571428571428896,
+			"height": 18.571428571428612,
+			"seed": 564334092,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 564334092,
-			"version": 10,
-			"versionNonce": 1510059700,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125771017,
 			"link": null,
 			"locked": false,
@@ -8092,6 +8029,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					18.571428571428612
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0361328125,
 				0.1337890625,
@@ -8102,35 +8041,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1982421875,
 				0.1982421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.8571428571428896,
-				18.571428571428612
 			]
 		},
 		{
-			"id": "NtQAphV2mERuk-UiBnA0C",
 			"type": "freedraw",
-			"x": -439.53571428571433,
-			"y": -24.285714285714278,
-			"width": 24.285714285714334,
-			"height": 30.000000000000057,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 2023409460,
+			"isDeleted": false,
+			"id": "NtQAphV2mERuk-UiBnA0C",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -439.53571428571433,
+			"y": -24.285714285714278,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24.285714285714334,
+			"height": 30.000000000000057,
+			"seed": 54314636,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 54314636,
-			"version": 22,
-			"versionNonce": 2023409460,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125771523,
 			"link": null,
 			"locked": false,
@@ -8220,6 +8154,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					27.142857142857167
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0478515625,
 				0.076171875,
@@ -8242,35 +8178,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1328125,
 				0.0595703125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.8571428571428896,
-				27.142857142857167
 			]
 		},
 		{
-			"id": "4pBpT7UGGECjpiJuM3FX1",
 			"type": "freedraw",
-			"x": -403.82142857142856,
-			"y": -14.285714285714278,
-			"width": 0,
-			"height": 14.285714285714334,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 326354612,
+			"isDeleted": false,
+			"id": "4pBpT7UGGECjpiJuM3FX1",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -403.82142857142856,
+			"y": -14.285714285714278,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 14.285714285714334,
+			"seed": 146765324,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 146765324,
-			"version": 10,
-			"versionNonce": 326354612,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125771885,
 			"link": null,
 			"locked": false,
@@ -8312,6 +8243,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					14.285714285714334
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.048828125,
 				0.107421875,
@@ -8322,35 +8255,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.21484375,
 				0.150390625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				14.285714285714334
 			]
 		},
 		{
-			"id": "lT5aQ3WMSMHqbcD6Ajtvh",
 			"type": "freedraw",
-			"x": -405.25,
-			"y": -25.714285714285722,
-			"width": 0,
-			"height": 1.4285714285714448,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 5,
+			"versionNonce": 1114569612,
+			"isDeleted": false,
+			"id": "lT5aQ3WMSMHqbcD6Ajtvh",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -405.25,
+			"y": -25.714285714285722,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 1.4285714285714448,
+			"seed": 1670917772,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1670917772,
-			"version": 5,
-			"versionNonce": 1114569612,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125772103,
 			"link": null,
 			"locked": false,
@@ -8368,39 +8296,36 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0400390625,
 				0.0556640625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				-1.4285714285714448
 			]
 		},
 		{
-			"id": "pkDjSouAeLuxy_pkXtKDP",
 			"type": "freedraw",
-			"x": -376.67857142857144,
-			"y": -24.285714285714278,
-			"width": 27.142857142857224,
-			"height": 34.28571428571439,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 33,
+			"versionNonce": 1611819828,
+			"isDeleted": false,
+			"id": "pkDjSouAeLuxy_pkXtKDP",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -376.67857142857144,
+			"y": -24.285714285714278,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 27.142857142857224,
+			"height": 34.28571428571439,
+			"seed": 481907508,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 481907508,
-			"version": 33,
-			"versionNonce": 1611819828,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125773006,
 			"link": null,
 			"locked": false,
@@ -8534,6 +8459,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					15.714285714285722
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0380859375,
 				0.140625,
@@ -8567,35 +8494,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2900390625,
 				0.2900390625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				1.4285714285714448,
-				15.714285714285722
 			]
 		},
 		{
-			"id": "PYPBO4zg03u69uzv5TznH",
 			"type": "freedraw",
-			"x": -346.67857142857133,
-			"y": -18.571428571428555,
-			"width": 25.71428571428578,
-			"height": 32.85714285714295,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 33,
+			"versionNonce": 865630732,
+			"isDeleted": false,
+			"id": "PYPBO4zg03u69uzv5TznH",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -346.67857142857133,
+			"y": -18.571428571428555,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 25.71428571428578,
+			"height": 32.85714285714295,
+			"seed": 822350348,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 822350348,
-			"version": 33,
-			"versionNonce": 865630732,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665125773949,
 			"link": null,
 			"locked": false,
@@ -8725,6 +8647,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0458984375,
 				0.1494140625,
@@ -8757,35 +8681,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2265625,
 				0.2041015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-7.142857142857224,
-				2.857142857142833
 			]
 		},
 		{
-			"id": "2UwQMNYZH_D3sedDwerDa",
 			"type": "freedraw",
-			"x": -906.6785714285722,
-			"y": 91.42857142857156,
-			"width": 58.57142857142867,
-			"height": 65.71428571428578,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 53,
+			"versionNonce": 1141539764,
+			"isDeleted": false,
+			"id": "2UwQMNYZH_D3sedDwerDa",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -906.6785714285722,
+			"y": 91.42857142857156,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 58.57142857142867,
+			"height": 65.71428571428578,
+			"seed": 1271725236,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1271725236,
-			"version": 53,
-			"versionNonce": 1141539764,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126011331,
 			"link": null,
 			"locked": false,
@@ -8999,6 +8918,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-2.857142857142776
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03515625,
 				0.0791015625,
@@ -9052,35 +8973,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2275390625,
 				0.2109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				27.14285714285711,
-				-2.857142857142776
 			]
 		},
 		{
-			"id": "nxly_kcOqfketzWr-Q1a8",
 			"type": "freedraw",
-			"x": -836.6785714285721,
-			"y": 122.85714285714312,
-			"width": 22.85714285714289,
-			"height": 2.8571428571428896,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1959341236,
+			"isDeleted": false,
+			"id": "nxly_kcOqfketzWr-Q1a8",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -836.6785714285721,
+			"y": 122.85714285714312,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.85714285714289,
+			"height": 2.8571428571428896,
+			"seed": 983024012,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 983024012,
-			"version": 12,
-			"versionNonce": 1959341236,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126012012,
 			"link": null,
 			"locked": false,
@@ -9130,6 +9046,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					1.4285714285714448
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0439453125,
 				0.087890625,
@@ -9142,35 +9060,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.19140625,
 				0.15625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				22.85714285714289,
-				1.4285714285714448
 			]
 		},
 		{
-			"id": "6yOTVMIPXg7fmdd7IR4nS",
 			"type": "freedraw",
-			"x": -832.3928571428578,
-			"y": 137.14285714285745,
-			"width": 27.14285714285711,
-			"height": 1.4285714285714448,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 139284748,
+			"isDeleted": false,
+			"id": "6yOTVMIPXg7fmdd7IR4nS",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -832.3928571428578,
+			"y": 137.14285714285745,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 27.14285714285711,
+			"height": 1.4285714285714448,
+			"seed": 2033461388,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2033461388,
-			"version": 11,
-			"versionNonce": 139284748,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126012419,
 			"link": null,
 			"locked": false,
@@ -9216,6 +9129,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-1.4285714285714448
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0390625,
 				0.0869140625,
@@ -9227,35 +9142,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2265625,
 				0.193359375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				27.14285714285711,
-				-1.4285714285714448
 			]
 		},
 		{
-			"id": "Ngo8LzJgaUNbWxHiMQtKF",
 			"type": "freedraw",
-			"x": -719.5357142857148,
-			"y": 121.42857142857167,
-			"width": 2.8571428571428896,
-			"height": 31.428571428571445,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 1496340148,
+			"isDeleted": false,
+			"id": "Ngo8LzJgaUNbWxHiMQtKF",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -719.5357142857148,
+			"y": 121.42857142857167,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2.8571428571428896,
+			"height": 31.428571428571445,
+			"seed": 822327564,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 822327564,
-			"version": 14,
-			"versionNonce": 1496340148,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126015688,
 			"link": null,
 			"locked": false,
@@ -9313,6 +9223,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					31.428571428571445
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.046875,
 				0.078125,
@@ -9327,35 +9239,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1767578125,
 				0.1064453125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.8571428571428896,
-				31.428571428571445
 			]
 		},
 		{
-			"id": "ZmED3GBmpN38D8ulYOOO_",
 			"type": "freedraw",
-			"x": -709.5357142857148,
-			"y": 125.7142857142859,
-			"width": 8.571428571428555,
-			"height": 28.57142857142867,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 876561804,
+			"isDeleted": false,
+			"id": "ZmED3GBmpN38D8ulYOOO_",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -709.5357142857148,
+			"y": 125.7142857142859,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 8.571428571428555,
+			"height": 28.57142857142867,
+			"seed": 1370267276,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1370267276,
-			"version": 13,
-			"versionNonce": 876561804,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126016160,
 			"link": null,
 			"locked": false,
@@ -9409,6 +9316,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					28.57142857142867
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.029296875,
 				0.09765625,
@@ -9422,35 +9331,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.177734375,
 				0.1689453125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				8.571428571428555,
-				28.57142857142867
 			]
 		},
 		{
-			"id": "8NA7Y-LgYito6t_vK5Fuq",
 			"type": "freedraw",
-			"x": -726.6785714285719,
-			"y": 130.00000000000023,
-			"width": 37.14285714285711,
-			"height": 5.714285714285666,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 1853017012,
+			"isDeleted": false,
+			"id": "8NA7Y-LgYito6t_vK5Fuq",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -726.6785714285719,
+			"y": 130.00000000000023,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 37.14285714285711,
+			"height": 5.714285714285666,
+			"seed": 644524340,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 644524340,
-			"version": 15,
-			"versionNonce": 1853017012,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126016657,
 			"link": null,
 			"locked": false,
@@ -9512,6 +9416,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-5.714285714285666
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.029296875,
 				0.13671875,
@@ -9527,35 +9433,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.205078125,
 				0.1513671875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				37.14285714285711,
-				-5.714285714285666
 			]
 		},
 		{
-			"id": "371l6OvHQwDZ9hRv91h7w",
 			"type": "freedraw",
-			"x": -790.9642857142863,
-			"y": 147.14285714285745,
-			"width": 37.142857142857224,
-			"height": 35.71428571428578,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 49,
+			"versionNonce": 825737268,
+			"isDeleted": false,
+			"id": "371l6OvHQwDZ9hRv91h7w",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -790.9642857142863,
+			"y": 147.14285714285745,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 37.142857142857224,
+			"height": 35.71428571428578,
+			"seed": 1726946356,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1726946356,
-			"version": 49,
-			"versionNonce": 825737268,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126430290,
 			"link": null,
 			"locked": false,
@@ -9753,6 +9654,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					11.428571428571445
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0341796875,
 				0.068359375,
@@ -9802,35 +9705,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.22265625,
 				0.1748046875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				35.71428571428578,
-				11.428571428571445
 			]
 		},
 		{
-			"id": "aRZi9blKL43tTzcwfSlwh",
 			"type": "freedraw",
-			"x": -785.2500000000006,
-			"y": 162.85714285714312,
-			"width": 98.57142857142867,
-			"height": 8.571428571428669,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 30,
+			"versionNonce": 1089843636,
+			"isDeleted": false,
+			"id": "aRZi9blKL43tTzcwfSlwh",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -785.2500000000006,
+			"y": 162.85714285714312,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 98.57142857142867,
+			"height": 8.571428571428669,
+			"seed": 1727773196,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1727773196,
-			"version": 30,
-			"versionNonce": 1089843636,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126447922,
 			"link": null,
 			"locked": false,
@@ -9952,6 +9850,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					7.142857142857224
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0546875,
 				0.1064453125,
@@ -9982,35 +9882,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1982421875,
 				0.16796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				98.57142857142867,
-				7.142857142857224
 			]
 		},
 		{
-			"id": "iPK9yMeR8sRSSxIPD1EFb",
 			"type": "freedraw",
-			"x": -802.3928571428578,
-			"y": 202.85714285714323,
-			"width": 25.714285714285666,
-			"height": 47.142857142857224,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 30,
+			"versionNonce": 147189812,
+			"isDeleted": false,
+			"id": "iPK9yMeR8sRSSxIPD1EFb",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -802.3928571428578,
+			"y": 202.85714285714323,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 25.714285714285666,
+			"height": 47.142857142857224,
+			"seed": 935228300,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 935228300,
-			"version": 30,
-			"versionNonce": 147189812,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126449340,
 			"link": null,
 			"locked": false,
@@ -10132,6 +10027,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					28.571428571428555
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03125,
 				0.0888671875,
@@ -10162,35 +10059,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1708984375,
 				0.078125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20,
-				28.571428571428555
 			]
 		},
 		{
-			"id": "1HyNaaMNc9qfT537Ztse4",
 			"type": "freedraw",
-			"x": -772.3928571428578,
-			"y": 214.28571428571468,
-			"width": 20,
-			"height": 27.142857142857224,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 1524214540,
+			"isDeleted": false,
+			"id": "1HyNaaMNc9qfT537Ztse4",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -772.3928571428578,
+			"y": 214.28571428571468,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 27.142857142857224,
+			"seed": 1123507468,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1123507468,
-			"version": 25,
-			"versionNonce": 1524214540,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126449891,
 			"link": null,
 			"locked": false,
@@ -10288,6 +10180,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0400390625,
 				0.0869140625,
@@ -10312,35 +10206,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2001953125,
 				0.1611328125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-8.571428571428555,
-				0
 			]
 		},
 		{
-			"id": "GWz9t_mwoXncneK6HUd3G",
 			"type": "freedraw",
-			"x": -743.8214285714291,
-			"y": 232.85714285714323,
-			"width": 18.57142857142867,
-			"height": 30,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 1375097140,
+			"isDeleted": false,
+			"id": "GWz9t_mwoXncneK6HUd3G",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -743.8214285714291,
+			"y": 232.85714285714323,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18.57142857142867,
+			"height": 30,
+			"seed": 422796212,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 422796212,
-			"version": 19,
-			"versionNonce": 1375097140,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126450442,
 			"link": null,
 			"locked": false,
@@ -10418,6 +10307,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-25.71428571428578
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.048828125,
 				0.0947265625,
@@ -10437,35 +10328,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.234375,
 				0.158203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-14.285714285714334,
-				-25.71428571428578
 			]
 		},
 		{
-			"id": "gww9jqapUKsrRlxeMJ4Pk",
 			"type": "freedraw",
-			"x": -749.5357142857149,
-			"y": 220.00000000000034,
-			"width": 18.57142857142867,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 733615924,
+			"isDeleted": false,
+			"id": "gww9jqapUKsrRlxeMJ4Pk",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -749.5357142857149,
+			"y": 220.00000000000034,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18.57142857142867,
+			"height": 0,
+			"seed": 741968908,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 741968908,
-			"version": 8,
-			"versionNonce": 733615924,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126450682,
 			"link": null,
 			"locked": false,
@@ -10499,6 +10385,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.02734375,
 				0.078125,
@@ -10507,35 +10395,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.15234375,
 				0.0341796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18.57142857142867,
-				0
 			]
 		},
 		{
-			"id": "e-0IMNKWVtytnWANseEdY",
 			"type": "freedraw",
-			"x": -720.9642857142862,
-			"y": 221.4285714285718,
-			"width": 17.142857142857224,
-			"height": 32.85714285714289,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 31,
+			"versionNonce": 1411735436,
+			"isDeleted": false,
+			"id": "e-0IMNKWVtytnWANseEdY",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -720.9642857142862,
+			"y": 221.4285714285718,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17.142857142857224,
+			"height": 32.85714285714289,
+			"seed": 368911884,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 368911884,
-			"version": 31,
-			"versionNonce": 1411735436,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126451436,
 			"link": null,
 			"locked": false,
@@ -10661,6 +10544,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					11.428571428571445
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.044921875,
 				0.0634765625,
@@ -10692,35 +10577,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.22265625,
 				0.1923828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				15.71428571428578,
-				11.428571428571445
 			]
 		},
 		{
-			"id": "2MtG7WGriALA2SXJD8pWP",
 			"type": "freedraw",
-			"x": -698.1071428571433,
-			"y": 210.00000000000034,
-			"width": 17.14285714285711,
-			"height": 31.42857142857156,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 27,
+			"versionNonce": 1111636660,
+			"isDeleted": false,
+			"id": "2MtG7WGriALA2SXJD8pWP",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -698.1071428571433,
+			"y": 210.00000000000034,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17.14285714285711,
+			"height": 31.42857142857156,
+			"seed": 1930112820,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1930112820,
-			"version": 27,
-			"versionNonce": 1111636660,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126452115,
 			"link": null,
 			"locked": false,
@@ -10830,6 +10710,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					31.42857142857156
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0361328125,
 				0.1162109375,
@@ -10857,35 +10739,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.26171875,
 				0.13671875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				11.428571428571445,
-				31.42857142857156
 			]
 		},
 		{
-			"id": "CrQFCTmAGfejG-adV6gVF",
 			"type": "freedraw",
-			"x": -652.3928571428576,
-			"y": 148.5714285714289,
-			"width": 5.714285714285779,
-			"height": 7.14285714285711,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 1641407756,
+			"isDeleted": false,
+			"id": "CrQFCTmAGfejG-adV6gVF",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -652.3928571428576,
+			"y": 148.5714285714289,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 5.714285714285779,
+			"height": 7.14285714285711,
+			"seed": 1316045836,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1316045836,
-			"version": 21,
-			"versionNonce": 1641407756,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126607602,
 			"link": null,
 			"locked": false,
@@ -10967,6 +10844,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0380859375,
 				0.130859375,
@@ -10987,35 +10866,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2744140625,
 				0.220703125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				2.8571428571428896
 			]
 		},
 		{
-			"id": "z0WW54VSobCEutS3X2Cr4",
 			"type": "freedraw",
-			"x": -520.9642857142859,
-			"y": 142.85714285714317,
-			"width": 22.85714285714289,
-			"height": 5.714285714285722,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1023563916,
+			"isDeleted": false,
+			"id": "z0WW54VSobCEutS3X2Cr4",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -520.9642857142859,
+			"y": 142.85714285714317,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.85714285714289,
+			"height": 5.714285714285722,
+			"seed": 86761484,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 86761484,
-			"version": 11,
-			"versionNonce": 1023563916,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126637243,
 			"link": null,
 			"locked": false,
@@ -11061,6 +10935,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					5.714285714285722
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.037109375,
 				0.2255859375,
@@ -11072,35 +10948,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2314453125,
 				0.1826171875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				22.85714285714289,
-				5.714285714285722
 			]
 		},
 		{
-			"id": "WUpdFug9EBoFlBH7frjte",
 			"type": "freedraw",
-			"x": -520.9642857142859,
-			"y": 161.4285714285718,
-			"width": 35.71428571428578,
-			"height": 2.857142857142776,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 377585548,
+			"isDeleted": false,
+			"id": "WUpdFug9EBoFlBH7frjte",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -520.9642857142859,
+			"y": 161.4285714285718,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 35.71428571428578,
+			"height": 2.857142857142776,
+			"seed": 1297499700,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1297499700,
-			"version": 12,
-			"versionNonce": 377585548,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126637711,
 			"link": null,
 			"locked": false,
@@ -11150,6 +11021,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					2.857142857142776
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.068359375,
 				0.126953125,
@@ -11162,35 +11035,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2099609375,
 				0.064453125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				35.71428571428578,
-				2.857142857142776
 			]
 		},
 		{
-			"id": "Xiq8DYs7FPRGHPl37ETgU",
 			"type": "freedraw",
-			"x": -482.39285714285734,
-			"y": 132.85714285714312,
-			"width": 30,
-			"height": 55.71428571428578,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 287727924,
+			"isDeleted": false,
+			"id": "Xiq8DYs7FPRGHPl37ETgU",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -482.39285714285734,
+			"y": 132.85714285714312,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30,
+			"height": 55.71428571428578,
+			"seed": 738266932,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 738266932,
-			"version": 25,
-			"versionNonce": 287727924,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126638361,
 			"link": null,
 			"locked": false,
@@ -11292,6 +11160,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					55.71428571428578
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.048828125,
 				0.138671875,
@@ -11317,35 +11187,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.22265625,
 				0.1953125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-4.285714285714221,
-				55.71428571428578
 			]
 		},
 		{
-			"id": "4IWVje42SMLUQYZiktHER",
 			"type": "freedraw",
-			"x": -606.6785714285718,
-			"y": 122.85714285714312,
-			"width": 32.85714285714289,
-			"height": 48.57142857142867,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 457995828,
+			"isDeleted": false,
+			"id": "4IWVje42SMLUQYZiktHER",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -606.6785714285718,
+			"y": 122.85714285714312,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.85714285714289,
+			"height": 48.57142857142867,
+			"seed": 1603528972,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1603528972,
-			"version": 24,
-			"versionNonce": 457995828,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126647191,
 			"link": null,
 			"locked": false,
@@ -11443,6 +11308,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					38.57142857142867
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0478515625,
 				0.23046875,
@@ -11467,35 +11334,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2548828125,
 				0.0537109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				17.142857142857224,
-				38.57142857142867
 			]
 		},
 		{
-			"id": "o7Xg0fhqHz580aPFiCQ6d",
 			"type": "freedraw",
-			"x": -626.6785714285718,
-			"y": 128.57142857142884,
-			"width": 42.85714285714289,
-			"height": 5.714285714285722,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 1839889932,
+			"isDeleted": false,
+			"id": "o7Xg0fhqHz580aPFiCQ6d",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -626.6785714285718,
+			"y": 128.57142857142884,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 42.85714285714289,
+			"height": 5.714285714285722,
+			"seed": 1719940876,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1719940876,
-			"version": 13,
-			"versionNonce": 1839889932,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126647695,
 			"link": null,
 			"locked": false,
@@ -11549,6 +11411,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					5.714285714285722
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.02734375,
 				0.0732421875,
@@ -11562,35 +11426,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2353515625,
 				0.15625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				41.428571428571445,
-				5.714285714285722
 			]
 		},
 		{
-			"id": "Hh51AUbU3A8LojORb2IkM",
 			"type": "freedraw",
-			"x": -359.5357142857142,
-			"y": 104.2857142857145,
-			"width": 28.57142857142867,
-			"height": 50.00000000000006,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 997757068,
+			"isDeleted": false,
+			"id": "Hh51AUbU3A8LojORb2IkM",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -359.5357142857142,
+			"y": 104.2857142857145,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28.57142857142867,
+			"height": 50.00000000000006,
+			"seed": 1993160884,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1993160884,
-			"version": 18,
-			"versionNonce": 997757068,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126650282,
 			"link": null,
 			"locked": false,
@@ -11664,6 +11523,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					35.71428571428578
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.02734375,
 				0.140625,
@@ -11682,35 +11543,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1865234375,
 				0.1123046875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14.285714285714334,
-				35.71428571428578
 			]
 		},
 		{
-			"id": "bKg8IlLr4tqebAV8y7uV7",
 			"type": "freedraw",
-			"x": -363.82142857142856,
-			"y": 111.42857142857167,
-			"width": 17.142857142857224,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 7,
+			"versionNonce": 883968692,
+			"isDeleted": false,
+			"id": "bKg8IlLr4tqebAV8y7uV7",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -363.82142857142856,
+			"y": 111.42857142857167,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17.142857142857224,
+			"height": 0,
+			"seed": 1115655732,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1115655732,
-			"version": 7,
-			"versionNonce": 883968692,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126650551,
 			"link": null,
 			"locked": false,
@@ -11740,6 +11596,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.064453125,
 				0.11328125,
@@ -11747,35 +11605,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1416015625,
 				0.060546875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				17.142857142857224,
-				0
 			]
 		},
 		{
-			"id": "DU7U8kH0vGy5aUhz2X1MO",
 			"type": "freedraw",
-			"x": -370.96428571428567,
-			"y": 111.42857142857167,
-			"width": 34.285714285714334,
-			"height": 2.857142857142833,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 1132433804,
+			"isDeleted": false,
+			"id": "DU7U8kH0vGy5aUhz2X1MO",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -370.96428571428567,
+			"y": 111.42857142857167,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 34.285714285714334,
+			"height": 2.857142857142833,
+			"seed": 1700129420,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1700129420,
-			"version": 13,
-			"versionNonce": 1132433804,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126652247,
 			"link": null,
 			"locked": false,
@@ -11829,6 +11682,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0380859375,
 				0.052734375,
@@ -11842,35 +11697,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.228515625,
 				0.1572265625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				32.85714285714289,
-				0
 			]
 		},
 		{
-			"id": "yQwGOyoxAfVQuHmgr38zP",
 			"type": "freedraw",
-			"x": -312.3928571428571,
-			"y": 125.714285714286,
-			"width": 1.4285714285715585,
-			"height": 2.8571428571428896,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 6,
+			"versionNonce": 519957772,
+			"isDeleted": false,
+			"id": "yQwGOyoxAfVQuHmgr38zP",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -312.3928571428571,
+			"y": 125.714285714286,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1.4285714285715585,
+			"height": 2.8571428571428896,
+			"seed": 1663376692,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1663376692,
-			"version": 6,
-			"versionNonce": 519957772,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126652917,
 			"link": null,
 			"locked": false,
@@ -11892,40 +11742,37 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0478515625,
 				0.158203125,
 				0.099609375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				1.4285714285715585,
-				-2.8571428571428896
 			]
 		},
 		{
-			"id": "AmlV9-FM0HJ0vcxAQeLn5",
 			"type": "freedraw",
-			"x": -308.10714285714266,
-			"y": 135.714285714286,
-			"width": 0,
-			"height": 1.4285714285714448,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 5,
+			"versionNonce": 784882868,
+			"isDeleted": false,
+			"id": "AmlV9-FM0HJ0vcxAQeLn5",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -308.10714285714266,
+			"y": 135.714285714286,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 1.4285714285714448,
+			"seed": 1240218036,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1240218036,
-			"version": 5,
-			"versionNonce": 784882868,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126653163,
 			"link": null,
 			"locked": false,
@@ -11943,39 +11790,36 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.046875,
 				0.201171875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				1.4285714285714448
 			]
 		},
 		{
-			"id": "C3GDzrll-4ouu5xBxCAm5",
 			"type": "freedraw",
-			"x": -268.10714285714266,
-			"y": 117.1428571428574,
-			"width": 21.42857142857133,
-			"height": 35.71428571428578,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 23,
+			"versionNonce": 1847977996,
+			"isDeleted": false,
+			"id": "C3GDzrll-4ouu5xBxCAm5",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -268.10714285714266,
+			"y": 117.1428571428574,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 21.42857142857133,
+			"height": 35.71428571428578,
+			"seed": 1174403212,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1174403212,
-			"version": 23,
-			"versionNonce": 1847977996,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126654271,
 			"link": null,
 			"locked": false,
@@ -12069,6 +11913,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					21.428571428571445
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03125,
 				0.060546875,
@@ -12092,35 +11938,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2236328125,
 				0.109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14.28571428571422,
-				21.428571428571445
 			]
 		},
 		{
-			"id": "0rpGR44xpl3ski_4w1bSY",
 			"type": "freedraw",
-			"x": -275.2499999999998,
-			"y": 121.42857142857167,
-			"width": 25.71428571428578,
-			"height": 1.428571428571388,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1901444660,
+			"isDeleted": false,
+			"id": "0rpGR44xpl3ski_4w1bSY",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -275.2499999999998,
+			"y": 121.42857142857167,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 25.71428571428578,
+			"height": 1.428571428571388,
+			"seed": 1570074292,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1570074292,
-			"version": 11,
-			"versionNonce": 1901444660,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126654581,
 			"link": null,
 			"locked": false,
@@ -12166,6 +12007,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-1.428571428571388
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0595703125,
 				0.111328125,
@@ -12177,35 +12020,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1875,
 				0.0947265625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				25.71428571428578,
-				-1.428571428571388
 			]
 		},
 		{
-			"id": "3wx4js3uJ63m4gQvnjQMt",
 			"type": "freedraw",
-			"x": -256.6785714285711,
-			"y": 147.14285714285745,
-			"width": 20,
-			"height": 17.142857142857167,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 1670243252,
+			"isDeleted": false,
+			"id": "3wx4js3uJ63m4gQvnjQMt",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -256.6785714285711,
+			"y": 147.14285714285745,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 17.142857142857167,
+			"seed": 1184067340,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1184067340,
-			"version": 18,
-			"versionNonce": 1670243252,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126655159,
 			"link": null,
 			"locked": false,
@@ -12279,6 +12117,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0703125,
 				0.14453125,
@@ -12297,35 +12137,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2724609375,
 				0.1982421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20,
-				0
 			]
 		},
 		{
-			"id": "t3qD0o1C1GbzfeXOS5dsm",
 			"type": "freedraw",
-			"x": -235.24999999999977,
-			"y": 120.00000000000028,
-			"width": 2.8571428571428896,
-			"height": 5.714285714285722,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 1572104628,
+			"isDeleted": false,
+			"id": "t3qD0o1C1GbzfeXOS5dsm",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -235.24999999999977,
+			"y": 120.00000000000028,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2.8571428571428896,
+			"height": 5.714285714285722,
+			"seed": 1333420428,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1333420428,
-			"version": 8,
-			"versionNonce": 1572104628,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126655379,
 			"link": null,
 			"locked": false,
@@ -12355,6 +12190,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0458984375,
 				0.125,
@@ -12362,35 +12199,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1650390625,
 				0.08984375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.8571428571428896,
-				-5.714285714285722
 			]
 		},
 		{
-			"id": "jJfYkPxoirvLzUs9cfQk-",
 			"type": "freedraw",
-			"x": -236.6785714285711,
-			"y": 147.14285714285745,
-			"width": 87.14285714285711,
-			"height": 35.71428571428578,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 92,
+			"versionNonce": 306040500,
+			"isDeleted": false,
+			"id": "jJfYkPxoirvLzUs9cfQk-",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -236.6785714285711,
+			"y": 147.14285714285745,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 87.14285714285711,
+			"height": 35.71428571428578,
+			"seed": 1432828812,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1432828812,
-			"version": 92,
-			"versionNonce": 306040500,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126657314,
 			"link": null,
 			"locked": false,
@@ -12760,6 +12592,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					14.285714285714334
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0458984375,
 				0.08203125,
@@ -12852,35 +12686,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.236328125,
 				0.12109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				87.14285714285711,
-				14.285714285714334
 			]
 		},
 		{
-			"id": "YQygU8q7UIGS9X-RuLiKg",
 			"type": "freedraw",
-			"x": -139.535714285714,
-			"y": 124.28571428571456,
-			"width": 44.28571428571445,
-			"height": 28.57142857142867,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 57,
+			"versionNonce": 184687756,
+			"isDeleted": false,
+			"id": "YQygU8q7UIGS9X-RuLiKg",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -139.535714285714,
+			"y": 124.28571428571456,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 44.28571428571445,
+			"height": 28.57142857142867,
+			"seed": 340960908,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 340960908,
-			"version": 57,
-			"versionNonce": 184687756,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126658453,
 			"link": null,
 			"locked": false,
@@ -13110,6 +12939,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					12.85714285714289
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0439453125,
 				0.1181640625,
@@ -13167,35 +12998,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2666015625,
 				0.1923828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				44.28571428571445,
-				12.85714285714289
 			]
 		},
 		{
-			"id": "DFS2vbjVBQL7PVhAN8fgC",
 			"type": "freedraw",
-			"x": -376.67857142857144,
-			"y": 210.00000000000045,
-			"width": 38.571428571428555,
-			"height": 25.71428571428578,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 41,
+			"versionNonce": 1383538740,
+			"isDeleted": false,
+			"id": "DFS2vbjVBQL7PVhAN8fgC",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -376.67857142857144,
+			"y": 210.00000000000045,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 38.571428571428555,
+			"height": 25.71428571428578,
+			"seed": 858047028,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 858047028,
-			"version": 41,
-			"versionNonce": 1383538740,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126661562,
 			"link": null,
 			"locked": false,
@@ -13361,6 +13187,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0517578125,
 				0.1572265625,
@@ -13402,35 +13230,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.23828125,
 				0.228515625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				35.71428571428578,
-				0
 			]
 		},
 		{
-			"id": "d-1gJ0Qe0y4P01-JgSiUZ",
 			"type": "freedraw",
-			"x": -316.67857142857133,
-			"y": 195.71428571428612,
-			"width": 1.4285714285715585,
-			"height": 2.8571428571428896,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 702244404,
+			"isDeleted": false,
+			"id": "d-1gJ0Qe0y4P01-JgSiUZ",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -316.67857142857133,
+			"y": 195.71428571428612,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1.4285714285715585,
+			"height": 2.8571428571428896,
+			"seed": 204549388,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 204549388,
-			"version": 8,
-			"versionNonce": 702244404,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126662183,
 			"link": null,
 			"locked": false,
@@ -13460,6 +13283,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.033203125,
 				0.1767578125,
@@ -13467,35 +13292,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.23046875,
 				0.224609375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				1.4285714285715585,
-				0
 			]
 		},
 		{
-			"id": "Sofz2MiHcwWmVwwt5_eYL",
 			"type": "freedraw",
-			"x": -315.2499999999998,
-			"y": 207.14285714285757,
-			"width": 1.4285714285713311,
-			"height": 2.8571428571428896,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 32287796,
+			"isDeleted": false,
+			"id": "Sofz2MiHcwWmVwwt5_eYL",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -315.2499999999998,
+			"y": 207.14285714285757,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1.4285714285713311,
+			"height": 2.8571428571428896,
+			"seed": 10241804,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 10241804,
-			"version": 8,
-			"versionNonce": 32287796,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126662601,
 			"link": null,
 			"locked": false,
@@ -13525,6 +13345,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0283203125,
 				0.103515625,
@@ -13532,35 +13354,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2353515625,
 				0.2509765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				1.4285714285713311,
-				1.4285714285714448
 			]
 		},
 		{
-			"id": "UXK40IQJnoeUavKZgz9jD",
 			"type": "freedraw",
-			"x": -278.10714285714266,
-			"y": 210.00000000000045,
-			"width": 62.85714285714289,
-			"height": 28.571428571428555,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 76,
+			"versionNonce": 244131124,
+			"isDeleted": false,
+			"id": "UXK40IQJnoeUavKZgz9jD",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -278.10714285714266,
+			"y": 210.00000000000045,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 62.85714285714289,
+			"height": 28.571428571428555,
+			"seed": 1638555916,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1638555916,
-			"version": 76,
-			"versionNonce": 244131124,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126664671,
 			"link": null,
 			"locked": false,
@@ -13866,6 +13683,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					1.4285714285713311
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.056640625,
 				0.150390625,
@@ -13942,35 +13761,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1904296875,
 				0.11328125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				58.57142857142867,
-				1.4285714285713311
 			]
 		},
 		{
-			"id": "-v67KCXtXJfAPJ-PMc73d",
 			"type": "freedraw",
-			"x": -209.535714285714,
-			"y": 212.85714285714323,
-			"width": 90,
-			"height": 27.142857142857224,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 107,
+			"versionNonce": 488089740,
+			"isDeleted": false,
+			"id": "-v67KCXtXJfAPJ-PMc73d",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -209.535714285714,
+			"y": 212.85714285714323,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 90,
+			"height": 27.142857142857224,
+			"seed": 1210710028,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1210710028,
-			"version": 107,
-			"versionNonce": 488089740,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126667307,
 			"link": null,
 			"locked": false,
@@ -14400,6 +14214,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0283203125,
 				0.130859375,
@@ -14507,35 +14323,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.275390625,
 				0.2626953125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				88.57142857142867,
-				0
 			]
 		},
 		{
-			"id": "SsCALsKZ-4N3o6ZPl9n1x",
 			"type": "freedraw",
-			"x": -118.10714285714243,
-			"y": 185.71428571428612,
-			"width": 1.4285714285713311,
-			"height": 2.8571428571428896,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 7,
+			"versionNonce": 921154228,
+			"isDeleted": false,
+			"id": "SsCALsKZ-4N3o6ZPl9n1x",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -118.10714285714243,
+			"y": 185.71428571428612,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1.4285714285713311,
+			"height": 2.8571428571428896,
+			"seed": 536737332,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 536737332,
-			"version": 7,
-			"versionNonce": 921154228,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126667482,
 			"link": null,
 			"locked": false,
@@ -14561,41 +14372,38 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.083984375,
 				0.1376953125,
 				0.1904296875,
 				0.095703125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				-1.4285714285714448
 			]
 		},
 		{
-			"id": "zjx5gQ51PsqJIwLzI9Bj0",
 			"type": "freedraw",
-			"x": -119.53571428571377,
-			"y": 211.4285714285718,
-			"width": 20,
-			"height": 27.142857142857224,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 2060760716,
+			"isDeleted": false,
+			"id": "zjx5gQ51PsqJIwLzI9Bj0",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -119.53571428571377,
+			"y": 211.4285714285718,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 27.142857142857224,
+			"seed": 1386807948,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1386807948,
-			"version": 17,
-			"versionNonce": 2060760716,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126667925,
 			"link": null,
 			"locked": false,
@@ -14665,6 +14473,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					5.714285714285779
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.025390625,
 				0.138671875,
@@ -14682,35 +14492,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.341796875,
 				0.306640625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20,
-				5.714285714285779
 			]
 		},
 		{
-			"id": "ACw7B0BIO-ffk89vsnjmd",
 			"type": "freedraw",
-			"x": -109.53571428571377,
-			"y": 201.4285714285718,
-			"width": 22.85714285714289,
-			"height": 2.857142857142776,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1842683660,
+			"isDeleted": false,
+			"id": "ACw7B0BIO-ffk89vsnjmd",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -109.53571428571377,
+			"y": 201.4285714285718,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.85714285714289,
+			"height": 2.857142857142776,
+			"seed": 1390463028,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1390463028,
-			"version": 10,
-			"versionNonce": 1842683660,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126668175,
 			"link": null,
 			"locked": false,
@@ -14752,6 +14557,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-2.857142857142776
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0458984375,
 				0.1328125,
@@ -14762,35 +14569,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2109375,
 				0.11328125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				22.85714285714289,
-				-2.857142857142776
 			]
 		},
 		{
-			"id": "p-6HebHAZthxicJHXvg3S",
 			"type": "freedraw",
-			"x": -95.24999999999955,
-			"y": 215.71428571428612,
-			"width": 32.85714285714289,
-			"height": 25.71428571428578,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 33,
+			"versionNonce": 1001996212,
+			"isDeleted": false,
+			"id": "p-6HebHAZthxicJHXvg3S",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -95.24999999999955,
+			"y": 215.71428571428612,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.85714285714289,
+			"height": 25.71428571428578,
+			"seed": 1557735348,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1557735348,
-			"version": 33,
-			"versionNonce": 1001996212,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126668867,
 			"link": null,
 			"locked": false,
@@ -14924,6 +14726,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-8.571428571428555
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.04296875,
 				0.1064453125,
@@ -14957,35 +14761,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.185546875,
 				0.072265625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				32.85714285714289,
-				-8.571428571428555
 			]
 		},
 		{
-			"id": "4Kb39FnAGc2bWOHGwxK7W",
 			"type": "freedraw",
-			"x": -12.392857142856428,
-			"y": 194.28571428571468,
-			"width": 57.14285714285734,
-			"height": 32.85714285714289,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 58,
+			"versionNonce": 863408948,
+			"isDeleted": false,
+			"id": "4Kb39FnAGc2bWOHGwxK7W",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -12.392857142856428,
+			"y": 194.28571428571468,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 57.14285714285734,
+			"height": 32.85714285714289,
+			"seed": 1732429196,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1732429196,
-			"version": 58,
-			"versionNonce": 863408948,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126670422,
 			"link": null,
 			"locked": false,
@@ -15219,6 +15018,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					15.71428571428578
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0478515625,
 				0.0966796875,
@@ -15277,35 +15078,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1962890625,
 				0.0791015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				47.14285714285711,
-				15.71428571428578
 			]
 		},
 		{
-			"id": "uprwRi5UcWkkrnd537rjW",
 			"type": "freedraw",
-			"x": 70.46428571428646,
-			"y": 214.28571428571468,
-			"width": 7.14285714285711,
-			"height": 22.85714285714289,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1834394252,
+			"isDeleted": false,
+			"id": "uprwRi5UcWkkrnd537rjW",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 70.46428571428646,
+			"y": 214.28571428571468,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 7.14285714285711,
+			"height": 22.85714285714289,
+			"seed": 1398172172,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1398172172,
-			"version": 11,
-			"versionNonce": 1834394252,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126670995,
 			"link": null,
 			"locked": false,
@@ -15351,6 +15147,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-22.85714285714289
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.044921875,
 				0.140625,
@@ -15362,35 +15160,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2373046875,
 				0.0634765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4.285714285714221,
-				-22.85714285714289
 			]
 		},
 		{
-			"id": "CVbmusRIFoP7cdxalxBSK",
 			"type": "freedraw",
-			"x": 70.46428571428646,
-			"y": 184.28571428571468,
-			"width": 30,
-			"height": 2.8571428571428896,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1973652236,
+			"isDeleted": false,
+			"id": "CVbmusRIFoP7cdxalxBSK",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 70.46428571428646,
+			"y": 184.28571428571468,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30,
+			"height": 2.8571428571428896,
+			"seed": 851680308,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 851680308,
-			"version": 10,
-			"versionNonce": 1973652236,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126671285,
 			"link": null,
 			"locked": false,
@@ -15432,6 +15225,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					1.4285714285714448
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0634765625,
 				0.1220703125,
@@ -15442,35 +15237,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1552734375,
 				0.1064453125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				30,
-				1.4285714285714448
 			]
 		},
 		{
-			"id": "tv4ptHJDsZSB3L8cDQ60N",
 			"type": "freedraw",
-			"x": 84.75000000000068,
-			"y": 207.14285714285757,
-			"width": 8.571428571428669,
-			"height": 2.8571428571428896,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 487719348,
+			"isDeleted": false,
+			"id": "tv4ptHJDsZSB3L8cDQ60N",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 84.75000000000068,
+			"y": 207.14285714285757,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 8.571428571428669,
+			"height": 2.8571428571428896,
+			"seed": 1350007732,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1350007732,
-			"version": 9,
-			"versionNonce": 487719348,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126671592,
 			"link": null,
 			"locked": false,
@@ -15504,6 +15294,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0419921875,
 				0.095703125,
@@ -15512,35 +15304,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1650390625,
 				0.171875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				8.571428571428669,
-				-2.8571428571428896
 			]
 		},
 		{
-			"id": "aW2LCXnhMd9Bu3rU8ToZR",
 			"type": "freedraw",
-			"x": 100.46428571428646,
-			"y": 217.14285714285757,
-			"width": 65.71428571428578,
-			"height": 25.714285714285666,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 73,
+			"versionNonce": 2048249228,
+			"isDeleted": false,
+			"id": "aW2LCXnhMd9Bu3rU8ToZR",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 100.46428571428646,
+			"y": 217.14285714285757,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 65.71428571428578,
+			"height": 25.714285714285666,
+			"seed": 1984897932,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1984897932,
-			"version": 73,
-			"versionNonce": 2048249228,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126673164,
 			"link": null,
 			"locked": false,
@@ -15834,6 +15621,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0419921875,
 				0.095703125,
@@ -15907,35 +15696,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.228515625,
 				0.07421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				65.71428571428578,
-				0
 			]
 		},
 		{
-			"id": "sPTQI89_OaUNUSsi76_sg",
 			"type": "freedraw",
-			"x": -984.6136363636375,
-			"y": 342.4935064935073,
-			"width": 38.000000000000114,
-			"height": 78.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 1305377204,
+			"isDeleted": false,
+			"id": "sPTQI89_OaUNUSsi76_sg",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -984.6136363636375,
+			"y": 342.4935064935073,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 38.000000000000114,
+			"height": 78.00000000000023,
+			"seed": 1372392460,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1372392460,
-			"version": 22,
-			"versionNonce": 1305377204,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126736678,
 			"link": null,
 			"locked": false,
@@ -16025,6 +15809,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					70.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0625,
 				0.1435546875,
@@ -16047,35 +15833,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.22265625,
 				0.123046875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12,
-				70.00000000000023
 			]
 		},
 		{
-			"id": "96QBJKzuxn5HXVOwMpOM3",
 			"type": "freedraw",
-			"x": -998.6136363636376,
-			"y": 386.4935064935074,
-			"width": 24.000000000000114,
-			"height": 8,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1166534964,
+			"isDeleted": false,
+			"id": "96QBJKzuxn5HXVOwMpOM3",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -998.6136363636376,
+			"y": 386.4935064935074,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24.000000000000114,
+			"height": 8,
+			"seed": 397814668,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 397814668,
-			"version": 10,
-			"versionNonce": 1166534964,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126737008,
 			"link": null,
 			"locked": false,
@@ -16117,6 +15898,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-8
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0361328125,
 				0.1162109375,
@@ -16127,35 +15910,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2080078125,
 				0.1923828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.000000000000114,
-				-8
 			]
 		},
 		{
-			"id": "6ignUfzqJHOyvXkZhcg-_",
 			"type": "freedraw",
-			"x": -984.6136363636375,
-			"y": 360.4935064935074,
-			"width": 32.000000000000114,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1038854324,
+			"isDeleted": false,
+			"id": "6ignUfzqJHOyvXkZhcg-_",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -984.6136363636375,
+			"y": 360.4935064935074,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.000000000000114,
+			"height": 4,
+			"seed": 640513036,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 640513036,
-			"version": 10,
-			"versionNonce": 1038854324,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126737354,
 			"link": null,
 			"locked": false,
@@ -16197,6 +15975,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03515625,
 				0.0947265625,
@@ -16207,35 +15987,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.169921875,
 				0.1337890625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				32.000000000000114,
-				-4
 			]
 		},
 		{
-			"id": "L92HgIEYJJsWvKEN2SelF",
 			"type": "freedraw",
-			"x": -942.6136363636374,
-			"y": 388.4935064935074,
-			"width": 22.000000000000114,
-			"height": 34.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 1356856884,
+			"isDeleted": false,
+			"id": "L92HgIEYJJsWvKEN2SelF",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -942.6136363636374,
+			"y": 388.4935064935074,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.000000000000114,
+			"height": 34.000000000000114,
+			"seed": 646409356,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 646409356,
-			"version": 18,
-			"versionNonce": 1356856884,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126738045,
 			"link": null,
 			"locked": false,
@@ -16309,6 +16084,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					32.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0419921875,
 				0.0927734375,
@@ -16327,35 +16104,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.251953125,
 				0.146484375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				32.000000000000114
 			]
 		},
 		{
-			"id": "a0Ow8JZST-RvlfCl0OCm4",
 			"type": "freedraw",
-			"x": -926.6136363636374,
-			"y": 404.49350649350754,
-			"width": 22.000000000000114,
-			"height": 26,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 683248948,
+			"isDeleted": false,
+			"id": "a0Ow8JZST-RvlfCl0OCm4",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -926.6136363636374,
+			"y": 404.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.000000000000114,
+			"height": 26,
+			"seed": 734867212,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 734867212,
-			"version": 20,
-			"versionNonce": 683248948,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126738563,
 			"link": null,
 			"locked": false,
@@ -16437,6 +16209,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0576171875,
 				0.10546875,
@@ -16457,35 +16231,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2353515625,
 				0.1708984375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				16.000000000000114,
-				-4
 			]
 		},
 		{
-			"id": "pikQq6te2o7Ok7o0L_G_V",
 			"type": "freedraw",
-			"x": -898.6136363636373,
-			"y": 424.49350649350754,
-			"width": 26,
-			"height": 38.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 1391309068,
+			"isDeleted": false,
+			"id": "pikQq6te2o7Ok7o0L_G_V",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -898.6136363636373,
+			"y": 424.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 26,
+			"height": 38.000000000000114,
+			"seed": 56102924,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 56102924,
-			"version": 21,
-			"versionNonce": 1391309068,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126739083,
 			"link": null,
 			"locked": false,
@@ -16571,6 +16340,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.05078125,
 				0.1201171875,
@@ -16592,35 +16363,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2197265625,
 				0.099609375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				26,
-				-2
 			]
 		},
 		{
-			"id": "5dBvd9gD48sktiJ_ESFbl",
 			"type": "freedraw",
-			"x": -892.6136363636373,
-			"y": 410.49350649350754,
-			"width": 22,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1115785612,
+			"isDeleted": false,
+			"id": "5dBvd9gD48sktiJ_ESFbl",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -892.6136363636373,
+			"y": 410.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22,
+			"height": 4,
+			"seed": 1623897524,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1623897524,
-			"version": 10,
-			"versionNonce": 1115785612,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126739322,
 			"link": null,
 			"locked": false,
@@ -16662,6 +16428,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0380859375,
 				0.1064453125,
@@ -16672,35 +16440,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1748046875,
 				0.0595703125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				22,
-				2
 			]
 		},
 		{
-			"id": "iyQxXW8ufsOftJv150pFp",
 			"type": "freedraw",
-			"x": -842.6136363636372,
-			"y": 400.49350649350754,
-			"width": 22,
-			"height": 30,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 880164236,
+			"isDeleted": false,
+			"id": "iyQxXW8ufsOftJv150pFp",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -842.6136363636372,
+			"y": 400.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22,
+			"height": 30,
+			"seed": 1197385012,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1197385012,
-			"version": 16,
-			"versionNonce": 880164236,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126739774,
 			"link": null,
 			"locked": false,
@@ -16766,6 +16529,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					30
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0439453125,
 				0.166015625,
@@ -16782,35 +16547,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2080078125,
 				0.12109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				6,
-				30
 			]
 		},
 		{
-			"id": "85deGcAb_jn8p8ErkZ4A1",
 			"type": "freedraw",
-			"x": -822.613636363637,
-			"y": 410.49350649350754,
-			"width": 0,
-			"height": 14,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 563279668,
+			"isDeleted": false,
+			"id": "85deGcAb_jn8p8ErkZ4A1",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -822.613636363637,
+			"y": 410.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 14,
+			"seed": 591343924,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 591343924,
-			"version": 9,
-			"versionNonce": 563279668,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126740038,
 			"link": null,
 			"locked": false,
@@ -16844,6 +16604,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0654296875,
 				0.146484375,
@@ -16852,35 +16614,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2138671875,
 				0.04296875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				14
 			]
 		},
 		{
-			"id": "d4wYkwNgiMQ7Tyjm-DiFM",
 			"type": "freedraw",
-			"x": -822.613636363637,
-			"y": 390.4935064935074,
-			"width": 0,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 6,
+			"versionNonce": 154162100,
+			"isDeleted": false,
+			"id": "d4wYkwNgiMQ7Tyjm-DiFM",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -822.613636363637,
+			"y": 390.4935064935074,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 4,
+			"seed": 782386700,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 782386700,
-			"version": 6,
-			"versionNonce": 154162100,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126740296,
 			"link": null,
 			"locked": false,
@@ -16902,40 +16659,37 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.048828125,
 				0.1357421875,
 				0.1962890625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				-4
 			]
 		},
 		{
-			"id": "194yjfDp6uw4CU4klrTNY",
 			"type": "freedraw",
-			"x": -786.613636363637,
-			"y": 402.49350649350754,
-			"width": 28.000000000000114,
-			"height": 36,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 481197964,
+			"isDeleted": false,
+			"id": "194yjfDp6uw4CU4klrTNY",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -786.613636363637,
+			"y": 402.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28.000000000000114,
+			"height": 36,
+			"seed": 527888780,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 527888780,
-			"version": 25,
-			"versionNonce": 481197964,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126741172,
 			"link": null,
 			"locked": false,
@@ -17033,6 +16787,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.04296875,
 				0.0791015625,
@@ -17057,35 +16813,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.19921875,
 				0.0830078125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4.000000000000114,
-				0
 			]
 		},
 		{
-			"id": "t7EYK7Y1GLfMtex5hG__x",
 			"type": "freedraw",
-			"x": -750.6136363636369,
-			"y": 430.49350649350754,
-			"width": 30.000000000000114,
-			"height": 32,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 27,
+			"versionNonce": 1810832052,
+			"isDeleted": false,
+			"id": "t7EYK7Y1GLfMtex5hG__x",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -750.6136363636369,
+			"y": 430.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.000000000000114,
+			"height": 32,
+			"seed": 723783476,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 723783476,
-			"version": 27,
-			"versionNonce": 1810832052,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126741816,
 			"link": null,
 			"locked": false,
@@ -17195,6 +16946,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-32
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.046875,
 				0.1015625,
@@ -17222,35 +16975,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.24609375,
 				0.0634765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				30.000000000000114,
-				-32
 			]
 		},
 		{
-			"id": "qnih7HuzYmp2K2o_BP6SJ",
 			"type": "freedraw",
-			"x": -652.6136363636366,
-			"y": 394.49350649350754,
-			"width": 26.000000000000114,
-			"height": 38,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 1247681804,
+			"isDeleted": false,
+			"id": "qnih7HuzYmp2K2o_BP6SJ",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -652.6136363636366,
+			"y": 394.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 26.000000000000114,
+			"height": 38,
+			"seed": 1647057548,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1647057548,
-			"version": 19,
-			"versionNonce": 1247681804,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126742763,
 			"link": null,
 			"locked": false,
@@ -17328,6 +17076,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					34
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0341796875,
 				0.126953125,
@@ -17347,35 +17097,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.26171875,
 				0.2490234375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				16,
-				34
 			]
 		},
 		{
-			"id": "yS1gK9QVD8hMgCNRJWSpQ",
 			"type": "freedraw",
-			"x": -652.6136363636366,
-			"y": 412.49350649350754,
-			"width": 14,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1781429644,
+			"isDeleted": false,
+			"id": "yS1gK9QVD8hMgCNRJWSpQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -652.6136363636366,
+			"y": 412.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 14,
+			"height": 2,
+			"seed": 669452724,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 669452724,
-			"version": 10,
-			"versionNonce": 1781429644,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126743005,
 			"link": null,
 			"locked": false,
@@ -17413,6 +17158,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0341796875,
 				0.0771484375,
@@ -17422,35 +17169,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1875,
 				0.1591796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14,
-				-2
 			]
 		},
 		{
-			"id": "JlAoqqB4bT7BSmuzbj9LR",
 			"type": "freedraw",
-			"x": -644.6136363636366,
-			"y": 402.49350649350754,
-			"width": 14,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 716586804,
+			"isDeleted": false,
+			"id": "JlAoqqB4bT7BSmuzbj9LR",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -644.6136363636366,
+			"y": 402.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 14,
+			"height": 2,
+			"seed": 1850112308,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1850112308,
-			"version": 9,
-			"versionNonce": 716586804,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126743235,
 			"link": null,
 			"locked": false,
@@ -17484,6 +17226,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.033203125,
 				0.0966796875,
@@ -17492,35 +17236,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1611328125,
 				0.0751953125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14,
-				-2
 			]
 		},
 		{
-			"id": "qtpvwYgYpnDMRf_XvuqTq",
 			"type": "freedraw",
-			"x": -624.6136363636366,
-			"y": 430.49350649350754,
-			"width": 24.000000000000114,
-			"height": 28,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 27,
+			"versionNonce": 885189260,
+			"isDeleted": false,
+			"id": "qtpvwYgYpnDMRf_XvuqTq",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -624.6136363636366,
+			"y": 430.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24.000000000000114,
+			"height": 28,
+			"seed": 842497548,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 842497548,
-			"version": 27,
-			"versionNonce": 885189260,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126744081,
 			"link": null,
 			"locked": false,
@@ -17630,6 +17369,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-24
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.037109375,
 				0.1083984375,
@@ -17657,35 +17398,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.259765625,
 				0.234375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.000000000000114,
-				-24
 			]
 		},
 		{
-			"id": "D3uh3gt1PXOkU_s57xSiE",
 			"type": "freedraw",
-			"x": -530.6136363636364,
-			"y": 396.49350649350754,
-			"width": 2,
-			"height": 34,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 573617076,
+			"isDeleted": false,
+			"id": "D3uh3gt1PXOkU_s57xSiE",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -530.6136363636364,
+			"y": 396.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2,
+			"height": 34,
+			"seed": 488625204,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 488625204,
-			"version": 11,
-			"versionNonce": 573617076,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126744740,
 			"link": null,
 			"locked": false,
@@ -17731,6 +17467,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					34
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.056640625,
 				0.10546875,
@@ -17742,35 +17480,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.255859375,
 				0.244140625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-2,
-				34
 			]
 		},
 		{
-			"id": "vPbqi8-BZTyUI2cq1teqT",
 			"type": "freedraw",
-			"x": -548.6136363636364,
-			"y": 396.49350649350754,
-			"width": 48.000000000000114,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1821072564,
+			"isDeleted": false,
+			"id": "vPbqi8-BZTyUI2cq1teqT",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -548.6136363636364,
+			"y": 396.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 48.000000000000114,
+			"height": 2,
+			"seed": 1563201932,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1563201932,
-			"version": 12,
-			"versionNonce": 1821072564,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126745071,
 			"link": null,
 			"locked": false,
@@ -17820,6 +17553,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03125,
 				0.1162109375,
@@ -17832,35 +17567,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1826171875,
 				0.0634765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				48.000000000000114,
-				0
 			]
 		},
 		{
-			"id": "A644KEhFUv6BrXTHCBxCZ",
 			"type": "freedraw",
-			"x": -492.61363636363626,
-			"y": 408.49350649350754,
-			"width": 20,
-			"height": 28.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 1178774668,
+			"isDeleted": false,
+			"id": "A644KEhFUv6BrXTHCBxCZ",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -492.61363636363626,
+			"y": 408.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 28.000000000000114,
+			"seed": 2045573260,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2045573260,
-			"version": 17,
-			"versionNonce": 1178774668,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126745505,
 			"link": null,
 			"locked": false,
@@ -17930,6 +17660,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					24
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.044921875,
 				0.1044921875,
@@ -17947,35 +17679,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2294921875,
 				0.158203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12,
-				24
 			]
 		},
 		{
-			"id": "kRQQlsuYn5LWQ6NJboWht",
 			"type": "freedraw",
-			"x": -492.61363636363626,
-			"y": 418.49350649350754,
-			"width": 12,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 1546782348,
+			"isDeleted": false,
+			"id": "kRQQlsuYn5LWQ6NJboWht",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -492.61363636363626,
+			"y": 418.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 12,
+			"height": 2,
+			"seed": 905261620,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 905261620,
-			"version": 8,
-			"versionNonce": 1546782348,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126745722,
 			"link": null,
 			"locked": false,
@@ -18005,6 +17732,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.041015625,
 				0.1142578125,
@@ -18012,35 +17741,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1904296875,
 				0.1923828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12,
-				-2
 			]
 		},
 		{
-			"id": "YXUaSbg2bkCLvSol7TDyl",
 			"type": "freedraw",
-			"x": -488.61363636363626,
-			"y": 408.49350649350754,
-			"width": 16,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 1520722060,
+			"isDeleted": false,
+			"id": "YXUaSbg2bkCLvSol7TDyl",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -488.61363636363626,
+			"y": 408.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 16,
+			"height": 4,
+			"seed": 1019246644,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1019246644,
-			"version": 8,
-			"versionNonce": 1520722060,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126745937,
 			"link": null,
 			"locked": false,
@@ -18074,6 +17798,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0400390625,
 				0.10546875,
@@ -18082,35 +17808,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1728515625,
 				0.0419921875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				16,
-				-4
 			]
 		},
 		{
-			"id": "sFf1YlmrH8PDrWehdrKQn",
 			"type": "freedraw",
-			"x": -440.61363636363603,
-			"y": 404.49350649350754,
-			"width": 6,
-			"height": 26,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 787963316,
+			"isDeleted": false,
+			"id": "sFf1YlmrH8PDrWehdrKQn",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -440.61363636363603,
+			"y": 404.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 6,
+			"height": 26,
+			"seed": 1488502324,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1488502324,
-			"version": 11,
-			"versionNonce": 787963316,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126746540,
 			"link": null,
 			"locked": false,
@@ -18156,6 +17877,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					26
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.025390625,
 				0.0947265625,
@@ -18167,35 +17890,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.203125,
 				0.03515625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-4,
-				26
 			]
 		},
 		{
-			"id": "yD9B0IA-yIX-n3u2HHETQ",
 			"type": "freedraw",
-			"x": -438.61363636363603,
-			"y": 394.49350649350754,
-			"width": 20,
-			"height": 36,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 23,
+			"versionNonce": 1251661580,
+			"isDeleted": false,
+			"id": "yD9B0IA-yIX-n3u2HHETQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -438.61363636363603,
+			"y": 394.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 36,
+			"seed": 1694336908,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1694336908,
-			"version": 23,
-			"versionNonce": 1251661580,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126747074,
 			"link": null,
 			"locked": false,
@@ -18289,6 +18007,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					36
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0390625,
 				0.103515625,
@@ -18312,35 +18032,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.244140625,
 				0.1328125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18,
-				36
 			]
 		},
 		{
-			"id": "h75sWuBj_Q7t2_6-_A1Ua",
 			"type": "freedraw",
-			"x": -398.61363636363603,
-			"y": 426.49350649350754,
-			"width": 40.00000000000023,
-			"height": 38.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 29,
+			"versionNonce": 654156980,
+			"isDeleted": false,
+			"id": "h75sWuBj_Q7t2_6-_A1Ua",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -398.61363636363603,
+			"y": 426.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40.00000000000023,
+			"height": 38.000000000000114,
+			"seed": 1651175348,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1651175348,
-			"version": 29,
-			"versionNonce": 654156980,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126748128,
 			"link": null,
 			"locked": false,
@@ -18458,6 +18173,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					10.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.029296875,
 				0.0908203125,
@@ -18487,35 +18204,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.248046875,
 				0.2021484375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				40.00000000000023,
-				10.000000000000114
 			]
 		},
 		{
-			"id": "qx4GsOz1g1IyO6BpmRPYH",
 			"type": "freedraw",
-			"x": -342.6136363636358,
-			"y": 416.49350649350754,
-			"width": 0,
-			"height": 18,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 2083555980,
+			"isDeleted": false,
+			"id": "qx4GsOz1g1IyO6BpmRPYH",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -342.6136363636358,
+			"y": 416.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 18,
+			"seed": 212021388,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 212021388,
-			"version": 9,
-			"versionNonce": 2083555980,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126748387,
 			"link": null,
 			"locked": false,
@@ -18553,6 +18265,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					18
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0458984375,
 				0.08984375,
@@ -18562,35 +18276,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.208984375,
 				0.16015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				18
 			]
 		},
 		{
-			"id": "RXE9HEz_08GV6xnwrZ_w6",
 			"type": "freedraw",
-			"x": -334.6136363636358,
-			"y": 400.49350649350754,
-			"width": 0,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 6,
+			"versionNonce": 155551244,
+			"isDeleted": false,
+			"id": "RXE9HEz_08GV6xnwrZ_w6",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -334.6136363636358,
+			"y": 400.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 4,
+			"seed": 81540148,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 81540148,
-			"version": 6,
-			"versionNonce": 155551244,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126748574,
 			"link": null,
 			"locked": false,
@@ -18612,40 +18321,37 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.046875,
 				0.083984375,
 				0.134765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				-4
 			]
 		},
 		{
-			"id": "HTG1pauEmRSqcA9l7IJ5U",
 			"type": "freedraw",
-			"x": -326.6136363636358,
-			"y": 432.49350649350754,
-			"width": 28,
-			"height": 34.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 649446068,
+			"isDeleted": false,
+			"id": "HTG1pauEmRSqcA9l7IJ5U",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -326.6136363636358,
+			"y": 432.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28,
+			"height": 34.000000000000114,
+			"seed": 1011265716,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1011265716,
-			"version": 25,
-			"versionNonce": 649446068,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126749167,
 			"link": null,
 			"locked": false,
@@ -18747,6 +18453,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-30
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0322265625,
 				0.1552734375,
@@ -18772,35 +18480,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.275390625,
 				0.0498046875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				28,
-				-30
 			]
 		},
 		{
-			"id": "UykilOegPdzqu5MvilJ60",
 			"type": "freedraw",
-			"x": -280.6136363636356,
-			"y": 410.49350649350754,
-			"width": 28,
-			"height": 36.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 167489972,
+			"isDeleted": false,
+			"id": "UykilOegPdzqu5MvilJ60",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -280.6136363636356,
+			"y": 410.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28,
+			"height": 36.000000000000114,
+			"seed": 444854924,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 444854924,
-			"version": 20,
-			"versionNonce": 167489972,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126749596,
 			"link": null,
 			"locked": false,
@@ -18878,6 +18581,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.046875,
 				0.1455078125,
@@ -18897,35 +18602,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2392578125,
 				0.1640625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2,
-				-6
 			]
 		},
 		{
-			"id": "fxZiV0GezR6FnxotVs_VV",
 			"type": "freedraw",
-			"x": -206.61363636363535,
-			"y": 402.49350649350754,
-			"width": 20.000000000000227,
-			"height": 32,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 23,
+			"versionNonce": 2078360332,
+			"isDeleted": false,
+			"id": "fxZiV0GezR6FnxotVs_VV",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -206.61363636363535,
+			"y": 402.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20.000000000000227,
+			"height": 32,
+			"seed": 1779987340,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1779987340,
-			"version": 23,
-			"versionNonce": 2078360332,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126750502,
 			"link": null,
 			"locked": false,
@@ -19019,6 +18719,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					28
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0283203125,
 				0.1181640625,
@@ -19042,35 +18744,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.27734375,
 				0.2666015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-18.000000000000227,
-				28
 			]
 		},
 		{
-			"id": "Sp3Yn9-6BCo3G9F4E0Lkx",
 			"type": "freedraw",
-			"x": -126.61363636363535,
-			"y": 398.49350649350754,
-			"width": 16,
-			"height": 34,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 583824180,
+			"isDeleted": false,
+			"id": "Sp3Yn9-6BCo3G9F4E0Lkx",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -126.61363636363535,
+			"y": 398.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 16,
+			"height": 34,
+			"seed": 538002356,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 538002356,
-			"version": 11,
-			"versionNonce": 583824180,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126752314,
 			"link": null,
 			"locked": false,
@@ -19116,6 +18813,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					34
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.025390625,
 				0.111328125,
@@ -19127,35 +18826,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.244140625,
 				0.1982421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-16,
-				34
 			]
 		},
 		{
-			"id": "jMY2MqfHYSGW5dG9AkEze",
 			"type": "freedraw",
-			"x": -130.61363636363535,
-			"y": 400.49350649350754,
-			"width": 32.00000000000023,
-			"height": 32,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 159892020,
+			"isDeleted": false,
+			"id": "jMY2MqfHYSGW5dG9AkEze",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -130.61363636363535,
+			"y": 400.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.00000000000023,
+			"height": 32,
+			"seed": 349080076,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 349080076,
-			"version": 20,
-			"versionNonce": 159892020,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126752800,
 			"link": null,
 			"locked": false,
@@ -19237,6 +18931,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					26
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03125,
 				0.07421875,
@@ -19257,35 +18953,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1484375,
 				0.0703125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				26
 			]
 		},
 		{
-			"id": "Xk5ErDHXtKwShpPq-rdzG",
 			"type": "freedraw",
-			"x": -70.61363636363512,
-			"y": 412.49350649350754,
-			"width": 20,
-			"height": 30.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 839835404,
+			"isDeleted": false,
+			"id": "Xk5ErDHXtKwShpPq-rdzG",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -70.61363636363512,
+			"y": 412.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 30.000000000000114,
+			"seed": 91466508,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 91466508,
-			"version": 17,
-			"versionNonce": 839835404,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126753296,
 			"link": null,
 			"locked": false,
@@ -19355,6 +19046,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					24.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0517578125,
 				0.1162109375,
@@ -19372,35 +19065,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.23046875,
 				0.12109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12,
-				24.000000000000114
 			]
 		},
 		{
-			"id": "h-DSKOSGBmUQmR0b2HJ7z",
 			"type": "freedraw",
-			"x": -68.61363636363512,
-			"y": 424.49350649350754,
-			"width": 14,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 1494284556,
+			"isDeleted": false,
+			"id": "h-DSKOSGBmUQmR0b2HJ7z",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -68.61363636363512,
+			"y": 424.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 14,
+			"height": 2,
+			"seed": 1645963188,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1645963188,
-			"version": 8,
-			"versionNonce": 1494284556,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126753497,
 			"link": null,
 			"locked": false,
@@ -19430,6 +19118,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.037109375,
 				0.099609375,
@@ -19437,35 +19127,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.126953125,
 				0.0712890625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14,
-				-2
 			]
 		},
 		{
-			"id": "tGThL6NcpD-KBBWHlRhX8",
 			"type": "freedraw",
-			"x": -60.61363636363512,
-			"y": 414.49350649350754,
-			"width": 12,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 7,
+			"versionNonce": 715315764,
+			"isDeleted": false,
+			"id": "tGThL6NcpD-KBBWHlRhX8",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -60.61363636363512,
+			"y": 414.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 12,
+			"height": 2,
+			"seed": 929033652,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 929033652,
-			"version": 7,
-			"versionNonce": 715315764,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126753695,
 			"link": null,
 			"locked": false,
@@ -19491,41 +19176,38 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.046875,
 				0.1416015625,
 				0.1728515625,
 				0.0537109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12,
-				-2
 			]
 		},
 		{
-			"id": "UrcjMTv2wUtAEgag80Oqz",
 			"type": "freedraw",
-			"x": 21.386363636365104,
-			"y": 392.49350649350754,
-			"width": 48.00000000000023,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 894217100,
+			"isDeleted": false,
+			"id": "UrcjMTv2wUtAEgag80Oqz",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 21.386363636365104,
+			"y": 392.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 48.00000000000023,
+			"height": 4,
+			"seed": 1765151500,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1765151500,
-			"version": 11,
-			"versionNonce": 894217100,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126754477,
 			"link": null,
 			"locked": false,
@@ -19571,6 +19253,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0478515625,
 				0.1376953125,
@@ -19582,35 +19266,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2294921875,
 				0.201171875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				48.00000000000023,
-				4
 			]
 		},
 		{
-			"id": "t6ZTiUqzT9Jf8owhLaDcv",
 			"type": "freedraw",
-			"x": 69.38636363636533,
-			"y": 394.49350649350754,
-			"width": 36.00000000000023,
-			"height": 48.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 323823796,
+			"isDeleted": false,
+			"id": "t6ZTiUqzT9Jf8owhLaDcv",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 69.38636363636533,
+			"y": 394.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 36.00000000000023,
+			"height": 48.000000000000114,
+			"seed": 332309300,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 332309300,
-			"version": 19,
-			"versionNonce": 323823796,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126755048,
 			"link": null,
 			"locked": false,
@@ -19688,6 +19367,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					46.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.05859375,
 				0.0791015625,
@@ -19707,35 +19388,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1298828125,
 				0.048828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-2,
-				46.000000000000114
 			]
 		},
 		{
-			"id": "nf7eIV2CdtEavLF_OkpZz",
 			"type": "freedraw",
-			"x": 81.38636363636533,
-			"y": 430.49350649350754,
-			"width": 20,
-			"height": 32.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 2110928052,
+			"isDeleted": false,
+			"id": "nf7eIV2CdtEavLF_OkpZz",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 81.38636363636533,
+			"y": 430.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 32.000000000000114,
+			"seed": 1912466572,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1912466572,
-			"version": 16,
-			"versionNonce": 2110928052,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126755532,
 			"link": null,
 			"locked": false,
@@ -19801,6 +19477,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					12.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0263671875,
 				0.06640625,
@@ -19817,35 +19495,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2890625,
 				0.2333984375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20,
-				12.000000000000114
 			]
 		},
 		{
-			"id": "pH0gaTEzPSpmhc4GekfGP",
 			"type": "freedraw",
-			"x": 83.38636363636533,
-			"y": 428.49350649350754,
-			"width": 18,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 2096429708,
+			"isDeleted": false,
+			"id": "pH0gaTEzPSpmhc4GekfGP",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 83.38636363636533,
+			"y": 428.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18,
+			"height": 2,
+			"seed": 656384140,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 656384140,
-			"version": 9,
-			"versionNonce": 2096429708,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126755765,
 			"link": null,
 			"locked": false,
@@ -19883,6 +19556,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.048828125,
 				0.10546875,
@@ -19892,35 +19567,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1787109375,
 				0.1259765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18,
-				0
 			]
 		},
 		{
-			"id": "8mu9g24yq15ShRgq2vYys",
 			"type": "freedraw",
-			"x": 111.38636363636533,
-			"y": 426.49350649350754,
-			"width": 24.000000000000227,
-			"height": 26.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 908786956,
+			"isDeleted": false,
+			"id": "8mu9g24yq15ShRgq2vYys",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 111.38636363636533,
+			"y": 426.49350649350754,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24.000000000000227,
+			"height": 26.000000000000114,
+			"seed": 886490164,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 886490164,
-			"version": 18,
-			"versionNonce": 908786956,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126756199,
 			"link": null,
 			"locked": false,
@@ -19994,6 +19664,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-12
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.025390625,
 				0.111328125,
@@ -20012,35 +19684,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.240234375,
 				0.14453125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.000000000000227,
-				-12
 			]
 		},
 		{
-			"id": "Dk5G20gd5cU3LqfH7Ttuz",
 			"type": "freedraw",
-			"x": -980.6136363636375,
-			"y": 504.49350649350777,
-			"width": 66.00000000000023,
-			"height": 60.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 37,
+			"versionNonce": 1810785460,
+			"isDeleted": false,
+			"id": "Dk5G20gd5cU3LqfH7Ttuz",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -980.6136363636375,
+			"y": 504.49350649350777,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 66.00000000000023,
+			"height": 60.00000000000023,
+			"seed": 1406675380,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1406675380,
-			"version": 37,
-			"versionNonce": 1810785460,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126761012,
 			"link": null,
 			"locked": false,
@@ -20190,6 +19857,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0419921875,
 				0.13671875,
@@ -20227,35 +19896,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.248046875,
 				0.2216796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				38.000000000000114,
-				4
 			]
 		},
 		{
-			"id": "twboIcMRQwtntBZglqjMC",
 			"type": "freedraw",
-			"x": -904.6136363636373,
-			"y": 532.4935064935078,
-			"width": 22,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 336317068,
+			"isDeleted": false,
+			"id": "twboIcMRQwtntBZglqjMC",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -904.6136363636373,
+			"y": 532.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22,
+			"height": 0,
+			"seed": 1545498764,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1545498764,
-			"version": 9,
-			"versionNonce": 336317068,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126761406,
 			"link": null,
 			"locked": false,
@@ -20293,6 +19957,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0322265625,
 				0.126953125,
@@ -20302,35 +19968,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.201171875,
 				0.056640625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				22,
-				0
 			]
 		},
 		{
-			"id": "P0m0woNUlICTYTIjr7e9o",
 			"type": "freedraw",
-			"x": -906.6136363636373,
-			"y": 544.493506493508,
-			"width": 18,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 1165763724,
+			"isDeleted": false,
+			"id": "P0m0woNUlICTYTIjr7e9o",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -906.6136363636373,
+			"y": 544.493506493508,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18,
+			"height": 2,
+			"seed": 1532294196,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1532294196,
-			"version": 8,
-			"versionNonce": 1165763724,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126761730,
 			"link": null,
 			"locked": false,
@@ -20364,6 +20025,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0361328125,
 				0.134765625,
@@ -20372,35 +20035,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1884765625,
 				0.0576171875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18,
-				2
 			]
 		},
 		{
-			"id": "Zd6IKgudboAiVqVwmcfOF",
 			"type": "freedraw",
-			"x": -834.6136363636372,
-			"y": 526.4935064935078,
-			"width": 32.000000000000114,
-			"height": 50.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 583797812,
+			"isDeleted": false,
+			"id": "Zd6IKgudboAiVqVwmcfOF",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -834.6136363636372,
+			"y": 526.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.000000000000114,
+			"height": 50.00000000000023,
+			"seed": 2066692660,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2066692660,
-			"version": 25,
-			"versionNonce": 583797812,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126763178,
 			"link": null,
 			"locked": false,
@@ -20502,6 +20160,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					32.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0390625,
 				0.083984375,
@@ -20527,35 +20187,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.20703125,
 				0.0791015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				28.000000000000114,
-				32.00000000000023
 			]
 		},
 		{
-			"id": "gFk_4o3sjbI-iRjtl6AgS",
 			"type": "freedraw",
-			"x": -782.6136363636369,
-			"y": 532.4935064935078,
-			"width": 4.000000000000114,
-			"height": 34.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1542083892,
+			"isDeleted": false,
+			"id": "gFk_4o3sjbI-iRjtl6AgS",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -782.6136363636369,
+			"y": 532.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 4.000000000000114,
+			"height": 34.00000000000023,
+			"seed": 1223753996,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1223753996,
-			"version": 12,
-			"versionNonce": 1542083892,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126763523,
 			"link": null,
 			"locked": false,
@@ -20605,6 +20260,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					34.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.060546875,
 				0.130859375,
@@ -20617,35 +20274,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.21484375,
 				0.177734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-2,
-				34.00000000000023
 			]
 		},
 		{
-			"id": "vv9tTQSCwljehOZt7QWqq",
 			"type": "freedraw",
-			"x": -760.6136363636369,
-			"y": 530.4935064935078,
-			"width": 2,
-			"height": 32.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1833604276,
+			"isDeleted": false,
+			"id": "vv9tTQSCwljehOZt7QWqq",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -760.6136363636369,
+			"y": 530.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2,
+			"height": 32.00000000000023,
+			"seed": 1853343756,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1853343756,
-			"version": 10,
-			"versionNonce": 1833604276,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126763868,
 			"link": null,
 			"locked": false,
@@ -20687,6 +20339,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					32.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0341796875,
 				0.0986328125,
@@ -20697,35 +20351,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.220703125,
 				0.2197265625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				32.00000000000023
 			]
 		},
 		{
-			"id": "VOvRw2pLf3uJ8sEnC3G63",
 			"type": "freedraw",
-			"x": -790.613636363637,
-			"y": 530.4935064935078,
-			"width": 54.00000000000023,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1548183820,
+			"isDeleted": false,
+			"id": "VOvRw2pLf3uJ8sEnC3G63",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -790.613636363637,
+			"y": 530.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 54.00000000000023,
+			"height": 0,
+			"seed": 1373454476,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1373454476,
-			"version": 11,
-			"versionNonce": 1548183820,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126764192,
 			"link": null,
 			"locked": false,
@@ -20771,6 +20420,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.044921875,
 				0.111328125,
@@ -20782,35 +20433,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.201171875,
 				0.1171875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				54.00000000000023,
-				0
 			]
 		},
 		{
-			"id": "8Xw0DCp2U5xjdZ7V0LP1B",
 			"type": "freedraw",
-			"x": -828.6136363636372,
-			"y": 578.493506493508,
-			"width": 102.00000000000034,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 491040820,
+			"isDeleted": false,
+			"id": "8Xw0DCp2U5xjdZ7V0LP1B",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -828.6136363636372,
+			"y": 578.493506493508,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 102.00000000000034,
+			"height": 2,
+			"seed": 2097708468,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2097708468,
-			"version": 15,
-			"versionNonce": 491040820,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126764798,
 			"link": null,
 			"locked": false,
@@ -20872,6 +20518,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0322265625,
 				0.087890625,
@@ -20887,35 +20535,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.267578125,
 				0.25,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				100.00000000000034,
-				-2
 			]
 		},
 		{
-			"id": "11VwkDxT5bIMu3Uxv93y1",
 			"type": "freedraw",
-			"x": -806.613636363637,
-			"y": 594.493506493508,
-			"width": 62.000000000000114,
-			"height": 78.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 47,
+			"versionNonce": 1685678732,
+			"isDeleted": false,
+			"id": "11VwkDxT5bIMu3Uxv93y1",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -806.613636363637,
+			"y": 594.493506493508,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 62.000000000000114,
+			"height": 78.00000000000023,
+			"seed": 1254399244,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1254399244,
-			"version": 47,
-			"versionNonce": 1685678732,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126766010,
 			"link": null,
 			"locked": false,
@@ -21105,6 +20748,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					66.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.037109375,
 				0.10546875,
@@ -21152,35 +20797,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.12890625,
 				0.052734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14,
-				66.00000000000023
 			]
 		},
 		{
-			"id": "aqnAu5CTWBUy7Dcrs5Zxg",
 			"type": "freedraw",
-			"x": -658.6136363636367,
-			"y": 522.4935064935078,
-			"width": 8.000000000000114,
-			"height": 8,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 1740447372,
+			"isDeleted": false,
+			"id": "aqnAu5CTWBUy7Dcrs5Zxg",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -658.6136363636367,
+			"y": 522.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 8.000000000000114,
+			"height": 8,
+			"seed": 1242649652,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1242649652,
-			"version": 16,
-			"versionNonce": 1740447372,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126770449,
 			"link": null,
 			"locked": false,
@@ -21242,6 +20882,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0458984375,
 				0.1728515625,
@@ -21257,35 +20899,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1875,
 				0.11328125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				-2
 			]
 		},
 		{
-			"id": "ugjmJppeiQ2NXYTWwQLxg",
 			"type": "freedraw",
-			"x": -656.6136363636366,
-			"y": 544.493506493508,
-			"width": 4,
-			"height": 6,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 1305404084,
+			"isDeleted": false,
+			"id": "ugjmJppeiQ2NXYTWwQLxg",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -656.6136363636366,
+			"y": 544.493506493508,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 4,
+			"height": 6,
+			"seed": 1427300404,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1427300404,
-			"version": 15,
-			"versionNonce": 1305404084,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126771030,
 			"link": null,
 			"locked": false,
@@ -21343,6 +20980,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0576171875,
 				0.1328125,
@@ -21357,35 +20996,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2724609375,
 				0.2607421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2,
-				6
 			]
 		},
 		{
-			"id": "XaXjBlfOtDH1ohKqHokCo",
 			"type": "freedraw",
-			"x": -558.6136363636364,
-			"y": 530.4935064935078,
-			"width": 42.000000000000114,
-			"height": 68.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 27,
+			"versionNonce": 781164044,
+			"isDeleted": false,
+			"id": "XaXjBlfOtDH1ohKqHokCo",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -558.6136363636364,
+			"y": 530.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 42.000000000000114,
+			"height": 68.00000000000023,
+			"seed": 268296588,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 268296588,
-			"version": 27,
-			"versionNonce": 781164044,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126784118,
 			"link": null,
 			"locked": false,
@@ -21495,6 +21129,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-36
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0302734375,
 				0.1171875,
@@ -21522,35 +21158,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.25390625,
 				0.1689453125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				30.000000000000114,
-				-36
 			]
 		},
 		{
-			"id": "j62itbIKk51GcoeNvyFTk",
 			"type": "freedraw",
-			"x": -552.6136363636364,
-			"y": 496.49350649350777,
-			"width": 64.00000000000011,
-			"height": 8,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 1132209036,
+			"isDeleted": false,
+			"id": "j62itbIKk51GcoeNvyFTk",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -552.6136363636364,
+			"y": 496.49350649350777,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 64.00000000000011,
+			"height": 8,
+			"seed": 2051676340,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2051676340,
-			"version": 14,
-			"versionNonce": 1132209036,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126784590,
 			"link": null,
 			"locked": false,
@@ -21608,6 +21239,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					8
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0400390625,
 				0.095703125,
@@ -21622,35 +21255,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2353515625,
 				0.22265625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				64.00000000000011,
-				8
 			]
 		},
 		{
-			"id": "icoMPU4ZtZpWF3drh4isv",
 			"type": "freedraw",
-			"x": -514.6136363636363,
-			"y": 528.4935064935078,
-			"width": 30,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 1849547020,
+			"isDeleted": false,
+			"id": "icoMPU4ZtZpWF3drh4isv",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -514.6136363636363,
+			"y": 528.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30,
+			"height": 2,
+			"seed": 1551018804,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1551018804,
-			"version": 14,
-			"versionNonce": 1849547020,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126785068,
 			"link": null,
 			"locked": false,
@@ -21708,6 +21336,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0595703125,
 				0.0732421875,
@@ -21722,35 +21352,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2197265625,
 				0.1123046875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				28,
-				0
 			]
 		},
 		{
-			"id": "SvW8DcOLS1Pn9tM49vfgw",
 			"type": "freedraw",
-			"x": -468.61363636363626,
-			"y": 536.4935064935078,
-			"width": 18.000000000000227,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1514315788,
+			"isDeleted": false,
+			"id": "SvW8DcOLS1Pn9tM49vfgw",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -468.61363636363626,
+			"y": 536.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18.000000000000227,
+			"height": 2,
+			"seed": 2146504116,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2146504116,
-			"version": 12,
-			"versionNonce": 1514315788,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126785612,
 			"link": null,
 			"locked": false,
@@ -21800,6 +21425,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0380859375,
 				0.1259765625,
@@ -21812,35 +21439,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2001953125,
 				0.0966796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18.000000000000227,
-				-2
 			]
 		},
 		{
-			"id": "qYbhiROiHEPAaVwv9cbWS",
 			"type": "freedraw",
-			"x": -472.61363636363626,
-			"y": 552.493506493508,
-			"width": 24.000000000000227,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1405495052,
+			"isDeleted": false,
+			"id": "qYbhiROiHEPAaVwv9cbWS",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -472.61363636363626,
+			"y": 552.493506493508,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24.000000000000227,
+			"height": 0,
+			"seed": 1488991924,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1488991924,
-			"version": 12,
-			"versionNonce": 1405495052,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126786065,
 			"link": null,
 			"locked": false,
@@ -21890,6 +21512,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0390625,
 				0.1083984375,
@@ -21902,35 +21526,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.21875,
 				0.173828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.000000000000227,
-				0
 			]
 		},
 		{
-			"id": "8sgRUHh6siNT86hnosi0e",
 			"type": "freedraw",
-			"x": -396.61363636363603,
-			"y": 528.4935064935078,
-			"width": 24.000000000000227,
-			"height": 46.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 1190856716,
+			"isDeleted": false,
+			"id": "8sgRUHh6siNT86hnosi0e",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -396.61363636363603,
+			"y": 528.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24.000000000000227,
+			"height": 46.00000000000023,
+			"seed": 1348247476,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1348247476,
-			"version": 20,
-			"versionNonce": 1190856716,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126787004,
 			"link": null,
 			"locked": false,
@@ -22012,6 +21631,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					16.000000000000227
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0419921875,
 				0.11328125,
@@ -22032,35 +21653,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2353515625,
 				0.181640625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14,
-				16.000000000000227
 			]
 		},
 		{
-			"id": "KP_2uwcUFCEjiYQbWq7xl",
 			"type": "freedraw",
-			"x": -404.61363636363603,
-			"y": 550.493506493508,
-			"width": 64.00000000000023,
-			"height": 8,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 2102179764,
+			"isDeleted": false,
+			"id": "KP_2uwcUFCEjiYQbWq7xl",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -404.61363636363603,
+			"y": 550.493506493508,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 64.00000000000023,
+			"height": 8,
+			"seed": 2248372,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2248372,
-			"version": 13,
-			"versionNonce": 2102179764,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126787433,
 			"link": null,
 			"locked": false,
@@ -22114,6 +21730,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					8
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.029296875,
 				0.1611328125,
@@ -22127,35 +21745,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.22265625,
 				0.1923828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				64.00000000000023,
-				8
 			]
 		},
 		{
-			"id": "6JPmKQ5hTwlDhJvnAStUW",
 			"type": "freedraw",
-			"x": -386.61363636363603,
-			"y": 574.493506493508,
-			"width": 44.00000000000023,
-			"height": 68.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 47,
+			"versionNonce": 135932684,
+			"isDeleted": false,
+			"id": "6JPmKQ5hTwlDhJvnAStUW",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -386.61363636363603,
+			"y": 574.493506493508,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 44.00000000000023,
+			"height": 68.00000000000023,
+			"seed": 1422052748,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1422052748,
-			"version": 47,
-			"versionNonce": 135932684,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126788643,
 			"link": null,
 			"locked": false,
@@ -22345,6 +21958,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					54.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.037109375,
 				0.1015625,
@@ -22392,35 +22007,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2451171875,
 				0.228515625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12.000000000000227,
-				54.00000000000023
 			]
 		},
 		{
-			"id": "LW-8zsXKbYudnPb1GB8aY",
 			"type": "freedraw",
-			"x": -690.6136363636367,
-			"y": 520.4935064935078,
-			"width": 28.000000000000114,
-			"height": 50.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 1252752012,
+			"isDeleted": false,
+			"id": "LW-8zsXKbYudnPb1GB8aY",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -690.6136363636367,
+			"y": 520.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28.000000000000114,
+			"height": 50.00000000000023,
+			"seed": 1203546124,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1203546124,
-			"version": 19,
-			"versionNonce": 1252752012,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126818916,
 			"link": null,
 			"locked": false,
@@ -22498,6 +22108,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					40.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03125,
 				0.1279296875,
@@ -22517,35 +22129,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2294921875,
 				0.1923828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				16,
-				40.00000000000023
 			]
 		},
 		{
-			"id": "DJX0cojWETU0g3XRXtO6L",
 			"type": "freedraw",
-			"x": -704.6136363636368,
-			"y": 536.4935064935078,
-			"width": 36.000000000000114,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 381932684,
+			"isDeleted": false,
+			"id": "DJX0cojWETU0g3XRXtO6L",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -704.6136363636368,
+			"y": 536.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 36.000000000000114,
+			"height": 4,
+			"seed": 600327220,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 600327220,
-			"version": 8,
-			"versionNonce": 381932684,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126819230,
 			"link": null,
 			"locked": false,
@@ -22579,6 +22186,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0458984375,
 				0.1328125,
@@ -22587,35 +22196,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1728515625,
 				0.0869140625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				36.000000000000114,
-				-4
 			]
 		},
 		{
-			"id": "eA3lIcZy5A3PsBMlL3FPP",
 			"type": "freedraw",
-			"x": -294.6136363636358,
-			"y": 536.4935064935079,
-			"width": 20.000000000000227,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1298535988,
+			"isDeleted": false,
+			"id": "eA3lIcZy5A3PsBMlL3FPP",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -294.6136363636358,
+			"y": 536.4935064935079,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20.000000000000227,
+			"height": 4,
+			"seed": 624740020,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 624740020,
-			"version": 11,
-			"versionNonce": 1298535988,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126861481,
 			"link": null,
 			"locked": false,
@@ -22661,6 +22265,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.033203125,
 				0.08984375,
@@ -22672,35 +22278,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1904296875,
 				0.146484375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20.000000000000227,
-				4
 			]
 		},
 		{
-			"id": "dW0Dn4A7nbIfK8sIHDXfQ",
 			"type": "freedraw",
-			"x": -296.6136363636358,
-			"y": 556.4935064935079,
-			"width": 22.000000000000227,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1414378932,
+			"isDeleted": false,
+			"id": "dW0Dn4A7nbIfK8sIHDXfQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -296.6136363636358,
+			"y": 556.4935064935079,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.000000000000227,
+			"height": 2,
+			"seed": 877958924,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 877958924,
-			"version": 10,
-			"versionNonce": 1414378932,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126861903,
 			"link": null,
 			"locked": false,
@@ -22742,6 +22343,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03515625,
 				0.14453125,
@@ -22752,35 +22355,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2138671875,
 				0.1259765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				22.000000000000227,
-				2
 			]
 		},
 		{
-			"id": "e1xiD-0EFxShjh2MBKJf3",
 			"type": "freedraw",
-			"x": -146.61363636363535,
-			"y": 534.4935064935078,
-			"width": 28.000000000000227,
-			"height": 50.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 1029254708,
+			"isDeleted": false,
+			"id": "e1xiD-0EFxShjh2MBKJf3",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -146.61363636363535,
+			"y": 534.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28.000000000000227,
+			"height": 50.000000000000114,
+			"seed": 685289356,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 685289356,
-			"version": 22,
-			"versionNonce": 1029254708,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126862888,
 			"link": null,
 			"locked": false,
@@ -22870,6 +22468,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					18.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0322265625,
 				0.1181640625,
@@ -22892,35 +22492,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2646484375,
 				0.2529296875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12,
-				18.000000000000114
 			]
 		},
 		{
-			"id": "H8_w6czuGXGRddL5ehBBn",
 			"type": "freedraw",
-			"x": -196.61363636363535,
-			"y": 562.4935064935079,
-			"width": 110.00000000000023,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 801518348,
+			"isDeleted": false,
+			"id": "H8_w6czuGXGRddL5ehBBn",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -196.61363636363535,
+			"y": 562.4935064935079,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 110.00000000000023,
+			"height": 4,
+			"seed": 1119813388,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1119813388,
-			"version": 17,
-			"versionNonce": 801518348,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126863457,
 			"link": null,
 			"locked": false,
@@ -22990,6 +22585,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0390625,
 				0.10546875,
@@ -23007,35 +22604,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.216796875,
 				0.048828125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				110.00000000000023,
-				4
 			]
 		},
 		{
-			"id": "holp2ANrBMetqjISdNV8k",
 			"type": "freedraw",
-			"x": -210.61363636363558,
-			"y": 588.493506493508,
-			"width": 32.00000000000023,
-			"height": 56.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 32,
+			"versionNonce": 1501076236,
+			"isDeleted": false,
+			"id": "holp2ANrBMetqjISdNV8k",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -210.61363636363558,
+			"y": 588.493506493508,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.00000000000023,
+			"height": 56.000000000000114,
+			"seed": 1026773940,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1026773940,
-			"version": 32,
-			"versionNonce": 1501076236,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126864742,
 			"link": null,
 			"locked": false,
@@ -23165,6 +22757,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					56.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.04296875,
 				0.1650390625,
@@ -23197,35 +22791,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2197265625,
 				0.1455078125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-2,
-				56.000000000000114
 			]
 		},
 		{
-			"id": "1t9GS83N4cP-oIeKMxVTf",
 			"type": "freedraw",
-			"x": -190.61363636363535,
-			"y": 624.4935064935081,
-			"width": 24,
-			"height": 30.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 573708980,
+			"isDeleted": false,
+			"id": "1t9GS83N4cP-oIeKMxVTf",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -190.61363636363535,
+			"y": 624.4935064935081,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24,
+			"height": 30.000000000000114,
+			"seed": 205220788,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 205220788,
-			"version": 21,
-			"versionNonce": 573708980,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126865268,
 			"link": null,
 			"locked": false,
@@ -23307,6 +22896,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.02734375,
 				0.0693359375,
@@ -23327,35 +22918,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.248046875,
 				0.2412109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2,
-				-4.000000000000114
 			]
 		},
 		{
-			"id": "uS4uIaevtjS7MHARrrjNL",
 			"type": "freedraw",
-			"x": -158.61363636363535,
-			"y": 650.4935064935081,
-			"width": 2,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 6,
+			"versionNonce": 2091394868,
+			"isDeleted": false,
+			"id": "uS4uIaevtjS7MHARrrjNL",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -158.61363636363535,
+			"y": 650.4935064935081,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2,
+			"height": 2,
+			"seed": 1704532620,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1704532620,
-			"version": 6,
-			"versionNonce": 2091394868,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126865591,
 			"link": null,
 			"locked": false,
@@ -23377,40 +22963,37 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0283203125,
 				0.095703125,
 				0.0810546875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2,
-				-2
 			]
 		},
 		{
-			"id": "Wzo9WQudUOSN9Ars9mreu",
 			"type": "freedraw",
-			"x": -142.61363636363535,
-			"y": 630.4935064935081,
-			"width": 30.000000000000227,
-			"height": 34,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 26,
+			"versionNonce": 927740596,
+			"isDeleted": false,
+			"id": "Wzo9WQudUOSN9Ars9mreu",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -142.61363636363535,
+			"y": 630.4935064935081,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.000000000000227,
+			"height": 34,
+			"seed": 515380748,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 515380748,
-			"version": 26,
-			"versionNonce": 927740596,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126866215,
 			"link": null,
 			"locked": false,
@@ -23512,6 +23095,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0361328125,
 				0.11328125,
@@ -23537,35 +23122,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1123046875,
 				0.03515625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4,
-				-6
 			]
 		},
 		{
-			"id": "D8vMlMmyQD3DE8tBoyZZv",
 			"type": "freedraw",
-			"x": -100.61363636363512,
-			"y": 624.4935064935081,
-			"width": 22,
-			"height": 32,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 23,
+			"versionNonce": 924627468,
+			"isDeleted": false,
+			"id": "D8vMlMmyQD3DE8tBoyZZv",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -100.61363636363512,
+			"y": 624.4935064935081,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22,
+			"height": 32,
+			"seed": 1489797772,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1489797772,
-			"version": 23,
-			"versionNonce": 924627468,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126866850,
 			"link": null,
 			"locked": false,
@@ -23655,6 +23235,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0498046875,
 				0.123046875,
@@ -23677,35 +23259,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2548828125,
 				0.2509765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4,
-				-2
 			]
 		},
 		{
-			"id": "0icELWEyeV7kuNefU_lLV",
 			"type": "freedraw",
-			"x": -66.61363636363512,
-			"y": 626.4935064935081,
-			"width": 28,
-			"height": 34.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 26,
+			"versionNonce": 1223925388,
+			"isDeleted": false,
+			"id": "0icELWEyeV7kuNefU_lLV",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -66.61363636363512,
+			"y": 626.4935064935081,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28,
+			"height": 34.000000000000114,
+			"seed": 1539851444,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1539851444,
-			"version": 26,
-			"versionNonce": 1223925388,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126867494,
 			"link": null,
 			"locked": false,
@@ -23807,6 +23384,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0361328125,
 				0.1005859375,
@@ -23832,35 +23411,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2041015625,
 				0.056640625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-4,
-				2
 			]
 		},
 		{
-			"id": "9onm9Lrg8Ju_ysDLJUHQb",
 			"type": "freedraw",
-			"x": -152.61363636363535,
-			"y": 642.4935064935081,
-			"width": 8,
-			"height": 6,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 1763778444,
+			"isDeleted": false,
+			"id": "9onm9Lrg8Ju_ysDLJUHQb",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -152.61363636363535,
+			"y": 642.4935064935081,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 8,
+			"height": 6,
+			"seed": 679764020,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 679764020,
-			"version": 20,
-			"versionNonce": 1763778444,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126869580,
 			"link": null,
 			"locked": false,
@@ -23938,6 +23512,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0263671875,
 				0.173828125,
@@ -23957,35 +23533,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2890625,
 				0.2880859375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-4,
-				4
 			]
 		},
 		{
-			"id": "BhhZQp_gwWWj45RlGROyV",
 			"type": "freedraw",
-			"x": 3.386363636365104,
-			"y": 546.4935064935079,
-			"width": 26,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1916790796,
+			"isDeleted": false,
+			"id": "BhhZQp_gwWWj45RlGROyV",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 3.386363636365104,
+			"y": 546.4935064935079,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 26,
+			"height": 2,
+			"seed": 212561716,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 212561716,
-			"version": 10,
-			"versionNonce": 1916790796,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126872332,
 			"link": null,
 			"locked": false,
@@ -24027,6 +23598,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.02734375,
 				0.1005859375,
@@ -24037,35 +23610,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1884765625,
 				0.197265625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				26,
-				-2
 			]
 		},
 		{
-			"id": "Zs6e0djj3aMb2U4E20GkF",
 			"type": "freedraw",
-			"x": 9.386363636365104,
-			"y": 560.4935064935079,
-			"width": 26,
-			"height": 6,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 2012075956,
+			"isDeleted": false,
+			"id": "Zs6e0djj3aMb2U4E20GkF",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 9.386363636365104,
+			"y": 560.4935064935079,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 26,
+			"height": 6,
+			"seed": 1075539636,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1075539636,
-			"version": 13,
-			"versionNonce": 2012075956,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126872822,
 			"link": null,
 			"locked": false,
@@ -24119,6 +23687,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					6
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.04296875,
 				0.0859375,
@@ -24132,35 +23702,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.23046875,
 				0.1591796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24,
-				6
 			]
 		},
 		{
-			"id": "V21owgVkh1WrTjqZqdJrO",
 			"type": "freedraw",
-			"x": 33.386363636365104,
-			"y": 524.4935064935078,
-			"width": 40.00000000000023,
-			"height": 66.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 93491252,
+			"isDeleted": false,
+			"id": "V21owgVkh1WrTjqZqdJrO",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 33.386363636365104,
+			"y": 524.4935064935078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40.00000000000023,
+			"height": 66.00000000000023,
+			"seed": 675523980,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 675523980,
-			"version": 22,
-			"versionNonce": 93491252,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126873514,
 			"link": null,
 			"locked": false,
@@ -24250,6 +23815,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					64.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03515625,
 				0.09765625,
@@ -24272,35 +23839,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.255859375,
 				0.23046875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				6,
-				64.00000000000023
 			]
 		},
 		{
-			"id": "ZstFNjZ5dxcSRbPQfQlq2",
 			"type": "freedraw",
-			"x": -1002.6136363636376,
-			"y": 762.4935064935084,
-			"width": 30,
-			"height": 56.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1090378036,
+			"isDeleted": false,
+			"id": "ZstFNjZ5dxcSRbPQfQlq2",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1002.6136363636376,
+			"y": 762.4935064935084,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30,
+			"height": 56.000000000000114,
+			"seed": 1053080844,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1053080844,
-			"version": 12,
-			"versionNonce": 1090378036,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126936332,
 			"link": null,
 			"locked": false,
@@ -24350,6 +23912,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					54.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03515625,
 				0.166015625,
@@ -24362,35 +23926,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.263671875,
 				0.2333984375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-28,
-				54.000000000000114
 			]
 		},
 		{
-			"id": "aX0C77BGNVrBfYvRZWyi5",
 			"type": "freedraw",
-			"x": -1024.6136363636376,
-			"y": 772.4935064935084,
-			"width": 264.0000000000007,
-			"height": 64.00000000000011,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 273,
+			"versionNonce": 1145305100,
+			"isDeleted": false,
+			"id": "aX0C77BGNVrBfYvRZWyi5",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1024.6136363636376,
+			"y": 772.4935064935084,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 264.0000000000007,
+			"height": 64.00000000000011,
+			"seed": 961446924,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 961446924,
-			"version": 273,
-			"versionNonce": 1145305100,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126941606,
 			"link": null,
 			"locked": false,
@@ -25484,6 +25043,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					46.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.05078125,
 				0.1142578125,
@@ -25757,35 +25318,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2431640625,
 				0.046875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				262.0000000000007,
-				46.000000000000114
 			]
 		},
 		{
-			"id": "yS6vwIuTmjhZz-MQvbXyj",
 			"type": "freedraw",
-			"x": -712.6136363636368,
-			"y": 818.4935064935086,
-			"width": 56.00000000000023,
-			"height": 62.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 49,
+			"versionNonce": 805929652,
+			"isDeleted": false,
+			"id": "yS6vwIuTmjhZz-MQvbXyj",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -712.6136363636368,
+			"y": 818.4935064935086,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 56.00000000000023,
+			"height": 62.000000000000114,
+			"seed": 203447988,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 203447988,
-			"version": 49,
-			"versionNonce": 805929652,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126945074,
 			"link": null,
 			"locked": false,
@@ -25983,6 +25539,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.044921875,
 				0.119140625,
@@ -26032,35 +25590,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1328125,
 				0.041015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				56.00000000000023,
-				4
 			]
 		},
 		{
-			"id": "s8NBezx3UAHIWOcb_kiIF",
 			"type": "freedraw",
-			"x": -512.6136363636363,
-			"y": 786.4935064935084,
-			"width": 36,
-			"height": 70.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 37,
+			"versionNonce": 1447628940,
+			"isDeleted": false,
+			"id": "s8NBezx3UAHIWOcb_kiIF",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -512.6136363636363,
+			"y": 786.4935064935084,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 36,
+			"height": 70.00000000000023,
+			"seed": 334633868,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 334633868,
-			"version": 37,
-			"versionNonce": 1447628940,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126948975,
 			"link": null,
 			"locked": false,
@@ -26210,6 +25763,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					58.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03515625,
 				0.0986328125,
@@ -26247,35 +25802,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2421875,
 				0.177734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18,
-				58.00000000000023
 			]
 		},
 		{
-			"id": "6jMhg75D0VP_PfH1rTMUk",
 			"type": "freedraw",
-			"x": -504.61363636363626,
-			"y": 826.4935064935086,
-			"width": 34,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 324090124,
+			"isDeleted": false,
+			"id": "6jMhg75D0VP_PfH1rTMUk",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -504.61363636363626,
+			"y": 826.4935064935086,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 34,
+			"height": 2,
+			"seed": 1526140468,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1526140468,
-			"version": 10,
-			"versionNonce": 324090124,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126949377,
 			"link": null,
 			"locked": false,
@@ -26317,6 +25867,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.056640625,
 				0.1328125,
@@ -26327,35 +25879,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1923828125,
 				0.171875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				34,
-				-2
 			]
 		},
 		{
-			"id": "mApUIrmTuVIYxlGfKuPmN",
 			"type": "freedraw",
-			"x": -488.61363636363626,
-			"y": 818.4935064935086,
-			"width": 70.00000000000023,
-			"height": 28.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 49,
+			"versionNonce": 1454363060,
+			"isDeleted": false,
+			"id": "mApUIrmTuVIYxlGfKuPmN",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -488.61363636363626,
+			"y": 818.4935064935086,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 70.00000000000023,
+			"height": 28.000000000000114,
+			"seed": 1883483572,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1883483572,
-			"version": 49,
-			"versionNonce": 1454363060,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126950477,
 			"link": null,
 			"locked": false,
@@ -26553,6 +26100,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0322265625,
 				0.126953125,
@@ -26602,35 +26151,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.22265625,
 				0.0908203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				70.00000000000023,
-				0
 			]
 		},
 		{
-			"id": "ffgndAWUtMBodnCqb5zQ3",
 			"type": "freedraw",
-			"x": -606.6136363636365,
-			"y": 818.4935064935086,
-			"width": 40.000000000000114,
-			"height": 40.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 51,
+			"versionNonce": 477428876,
+			"isDeleted": false,
+			"id": "ffgndAWUtMBodnCqb5zQ3",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -606.6136363636365,
+			"y": 818.4935064935086,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40.000000000000114,
+			"height": 40.000000000000114,
+			"seed": 700187148,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 700187148,
-			"version": 51,
-			"versionNonce": 477428876,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126958268,
 			"link": null,
 			"locked": false,
@@ -26836,6 +26380,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.033203125,
 				0.111328125,
@@ -26887,35 +26433,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.255859375,
 				0.1201171875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				40.000000000000114,
-				2
 			]
 		},
 		{
-			"id": "go3dv0LvPaZWIixQeVam9",
 			"type": "freedraw",
-			"x": -332.6136363636358,
-			"y": 778.4935064935084,
-			"width": 90.00000000000023,
-			"height": 56.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 80,
+			"versionNonce": 574980236,
+			"isDeleted": false,
+			"id": "go3dv0LvPaZWIixQeVam9",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -332.6136363636358,
+			"y": 778.4935064935084,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 90.00000000000023,
+			"height": 56.000000000000114,
+			"seed": 1322246708,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1322246708,
-			"version": 80,
-			"versionNonce": 574980236,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126961538,
 			"link": null,
 			"locked": false,
@@ -27237,6 +26778,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					42.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0283203125,
 				0.10546875,
@@ -27317,35 +26860,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2109375,
 				0.09765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				66.00000000000023,
-				42.000000000000114
 			]
 		},
 		{
-			"id": "Cn3wSEEikSpLnK6GkZNbY",
 			"type": "freedraw",
-			"x": -220.61363636363558,
-			"y": 792.4935064935086,
-			"width": 16.000000000000227,
-			"height": 32,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 195155468,
+			"isDeleted": false,
+			"id": "Cn3wSEEikSpLnK6GkZNbY",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -220.61363636363558,
+			"y": 792.4935064935086,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 16.000000000000227,
+			"height": 32,
+			"seed": 792305204,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 792305204,
-			"version": 14,
-			"versionNonce": 195155468,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126962262,
 			"link": null,
 			"locked": false,
@@ -27403,6 +26941,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					30
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.037109375,
 				0.1015625,
@@ -27417,35 +26957,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.203125,
 				0.046875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12.000000000000227,
-				30
 			]
 		},
 		{
-			"id": "WoQjgg9XDMUQy8O1-0Zq_",
 			"type": "freedraw",
-			"x": -204.61363636363535,
-			"y": 776.4935064935084,
-			"width": 0,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 5,
+			"versionNonce": 739623860,
+			"isDeleted": false,
+			"id": "WoQjgg9XDMUQy8O1-0Zq_",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -204.61363636363535,
+			"y": 776.4935064935084,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 2,
+			"seed": 1486315700,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1486315700,
-			"version": 5,
-			"versionNonce": 739623860,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126962446,
 			"link": null,
 			"locked": false,
@@ -27463,39 +26998,36 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0263671875,
 				0.0419921875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				-2
 			]
 		},
 		{
-			"id": "HX59dIa_vJVH_N0uKihn-",
 			"type": "freedraw",
-			"x": -192.61363636363535,
-			"y": 802.4935064935086,
-			"width": 128.00000000000023,
-			"height": 72.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 137,
+			"versionNonce": 522386316,
+			"isDeleted": false,
+			"id": "HX59dIa_vJVH_N0uKihn-",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -192.61363636363535,
+			"y": 802.4935064935086,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 128.00000000000023,
+			"height": 72.00000000000023,
+			"seed": 467698060,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 467698060,
-			"version": 137,
-			"versionNonce": 522386316,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126965216,
 			"link": null,
 			"locked": false,
@@ -28045,6 +27577,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					28
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0283203125,
 				0.099609375,
@@ -28182,35 +27716,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1923828125,
 				0.12109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				124.00000000000023,
-				28
 			]
 		},
 		{
-			"id": "EEidm4fT7yqb-sDPiQzvw",
 			"type": "freedraw",
-			"x": -10.613636363634896,
-			"y": 802.4935064935086,
-			"width": 60.00000000000023,
-			"height": 38.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 37,
+			"versionNonce": 146550324,
+			"isDeleted": false,
+			"id": "EEidm4fT7yqb-sDPiQzvw",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -10.613636363634896,
+			"y": 802.4935064935086,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 60.00000000000023,
+			"height": 38.000000000000114,
+			"seed": 356864820,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 356864820,
-			"version": 37,
-			"versionNonce": 146550324,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126966609,
 			"link": null,
 			"locked": false,
@@ -28360,6 +27889,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					26
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0390625,
 				0.2060546875,
@@ -28397,35 +27928,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.23828125,
 				0.0849609375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				58.00000000000023,
-				26
 			]
 		},
 		{
-			"id": "ZsDY2hX18-ujwBZaOhXOC",
 			"type": "freedraw",
-			"x": 5.386363636365104,
-			"y": 788.4935064935084,
-			"width": 20,
-			"height": 34.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 1404847628,
+			"isDeleted": false,
+			"id": "ZsDY2hX18-ujwBZaOhXOC",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 5.386363636365104,
+			"y": 788.4935064935084,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 34.000000000000114,
+			"seed": 319553292,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 319553292,
-			"version": 13,
-			"versionNonce": 1404847628,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126967934,
 			"link": null,
 			"locked": false,
@@ -28479,6 +28005,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					34.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.04296875,
 				0.1494140625,
@@ -28492,35 +28020,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1982421875,
 				0.08984375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-16,
-				34.000000000000114
 			]
 		},
 		{
-			"id": "SLb2JxmqX6cEPrG5MagZ5",
 			"type": "freedraw",
-			"x": 125.38636363636533,
-			"y": 796.4935064935086,
-			"width": 16.000000000000227,
-			"height": 58.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 866718732,
+			"isDeleted": false,
+			"id": "SLb2JxmqX6cEPrG5MagZ5",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 125.38636363636533,
+			"y": 796.4935064935086,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 16.000000000000227,
+			"height": 58.000000000000114,
+			"seed": 161214644,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 161214644,
-			"version": 24,
-			"versionNonce": 866718732,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126990010,
 			"link": null,
 			"locked": false,
@@ -28618,6 +28141,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					22
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.02734375,
 				0.0947265625,
@@ -28642,35 +28167,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2080078125,
 				0.205078125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12.000000000000227,
-				22
 			]
 		},
 		{
-			"id": "XwaUAun7jei_BClz3ThLQ",
 			"type": "freedraw",
-			"x": 109.38636363636533,
-			"y": 822.4935064935086,
-			"width": 82.00000000000023,
-			"height": 6,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 2146851212,
+			"isDeleted": false,
+			"id": "XwaUAun7jei_BClz3ThLQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 109.38636363636533,
+			"y": 822.4935064935086,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 82.00000000000023,
+			"height": 6,
+			"seed": 103482036,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 103482036,
-			"version": 14,
-			"versionNonce": 2146851212,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126990468,
 			"link": null,
 			"locked": false,
@@ -28728,6 +28248,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					6
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0419921875,
 				0.0908203125,
@@ -28742,35 +28264,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1767578125,
 				0.1416015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				82.00000000000023,
-				6
 			]
 		},
 		{
-			"id": "74Q7bizvJ21v_sNrxOZVS",
 			"type": "freedraw",
-			"x": 139.38636363636556,
-			"y": 838.4935064935087,
-			"width": 56.00000000000023,
-			"height": 70.00000000000011,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 45,
+			"versionNonce": 1735751220,
+			"isDeleted": false,
+			"id": "74Q7bizvJ21v_sNrxOZVS",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 139.38636363636556,
+			"y": 838.4935064935087,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 56.00000000000023,
+			"height": 70.00000000000011,
+			"seed": 1683936564,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1683936564,
-			"version": 45,
-			"versionNonce": 1735751220,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126991656,
 			"link": null,
 			"locked": false,
@@ -28952,6 +28469,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					60.000000000000114
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0263671875,
 				0.0673828125,
@@ -28997,35 +28516,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1962890625,
 				0.1083984375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				60.000000000000114
 			]
 		},
 		{
-			"id": "l6hEHGb-LcH_wPUkFDWLm",
 			"type": "freedraw",
-			"x": 125.38636363636533,
-			"y": 838.4935064935087,
-			"width": 50.00000000000023,
-			"height": 6,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 1393417356,
+			"isDeleted": false,
+			"id": "l6hEHGb-LcH_wPUkFDWLm",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 125.38636363636533,
+			"y": 838.4935064935087,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 50.00000000000023,
+			"height": 6,
+			"seed": 225130252,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 225130252,
-			"version": 15,
-			"versionNonce": 1393417356,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665126992636,
 			"link": null,
 			"locked": false,
@@ -29087,6 +28601,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0361328125,
 				0.052734375,
@@ -29102,35 +28618,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1904296875,
 				0.16796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				44.00000000000023,
-				4
 			]
 		},
 		{
-			"id": "q6JItMzoW7eBNCUqFgupd",
 			"type": "freedraw",
-			"x": -1020.6136363636376,
-			"y": 942.493506493509,
-			"width": 28.000000000000114,
-			"height": 64.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 32,
+			"versionNonce": 1669153932,
+			"isDeleted": false,
+			"id": "q6JItMzoW7eBNCUqFgupd",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1020.6136363636376,
+			"y": 942.493506493509,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28.000000000000114,
+			"height": 64.00000000000023,
+			"seed": 313852468,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 313852468,
-			"version": 32,
-			"versionNonce": 1669153932,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127009854,
 			"link": null,
 			"locked": false,
@@ -29260,6 +28771,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					26
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0322265625,
 				0.10546875,
@@ -29292,35 +28805,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.236328125,
 				0.162109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.000000000000114,
-				26
 			]
 		},
 		{
-			"id": "1lt0pB2_yvfDWsN0qXNDF",
 			"type": "freedraw",
-			"x": -970.6136363636375,
-			"y": 938.4935064935088,
-			"width": 0,
-			"height": 36.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 383478668,
+			"isDeleted": false,
+			"id": "1lt0pB2_yvfDWsN0qXNDF",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -970.6136363636375,
+			"y": 938.4935064935088,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 36.00000000000023,
+			"seed": 290462260,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 290462260,
-			"version": 12,
-			"versionNonce": 383478668,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127010327,
 			"link": null,
 			"locked": false,
@@ -29370,6 +28878,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					36.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0576171875,
 				0.1044921875,
@@ -29382,35 +28892,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2470703125,
 				0.2177734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				36.00000000000023
 			]
 		},
 		{
-			"id": "VyEWinBlc6v6jtTWnLHlM",
 			"type": "freedraw",
-			"x": -956.6136363636375,
-			"y": 946.493506493509,
-			"width": 2.0000000000001137,
-			"height": 34,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1175106572,
+			"isDeleted": false,
+			"id": "VyEWinBlc6v6jtTWnLHlM",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -956.6136363636375,
+			"y": 946.493506493509,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2.0000000000001137,
+			"height": 34,
+			"seed": 1737220916,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1737220916,
-			"version": 10,
-			"versionNonce": 1175106572,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127010686,
 			"link": null,
 			"locked": false,
@@ -29452,6 +28957,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					34
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0498046875,
 				0.1357421875,
@@ -29462,35 +28969,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2470703125,
 				0.236328125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.0000000000001137,
-				34
 			]
 		},
 		{
-			"id": "XCotsiBfzP0vl8LJvmrLe",
 			"type": "freedraw",
-			"x": -982.6136363636375,
-			"y": 948.493506493509,
-			"width": 52.000000000000114,
-			"height": 8.000000000000227,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1790652980,
+			"isDeleted": false,
+			"id": "XCotsiBfzP0vl8LJvmrLe",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -982.6136363636375,
+			"y": 948.493506493509,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.000000000000114,
+			"height": 8.000000000000227,
+			"seed": 2083742388,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2083742388,
-			"version": 11,
-			"versionNonce": 1790652980,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127011054,
 			"link": null,
 			"locked": false,
@@ -29536,6 +29038,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-8.000000000000227
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.037109375,
 				0.14453125,
@@ -29547,35 +29051,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2109375,
 				0.1416015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				52.000000000000114,
-				-8.000000000000227
 			]
 		},
 		{
-			"id": "O3ZkZDvN9YQu87aLAilSZ",
 			"type": "freedraw",
-			"x": -1012.6136363636376,
-			"y": 994.493506493509,
-			"width": 102.00000000000034,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 243163276,
+			"isDeleted": false,
+			"id": "O3ZkZDvN9YQu87aLAilSZ",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1012.6136363636376,
+			"y": 994.493506493509,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 102.00000000000034,
+			"height": 4,
+			"seed": 393165580,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 393165580,
-			"version": 15,
-			"versionNonce": 243163276,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127011726,
 			"link": null,
 			"locked": false,
@@ -29637,6 +29136,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.05859375,
 				0.205078125,
@@ -29652,35 +29153,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2490234375,
 				0.1416015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				102.00000000000034,
-				0
 			]
 		},
 		{
-			"id": "C1fOS5D2oOtjqssO8YrTr",
 			"type": "freedraw",
-			"x": -1016.6136363636376,
-			"y": 1018.493506493509,
-			"width": 28,
-			"height": 64.00000000000034,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 32,
+			"versionNonce": 1801832588,
+			"isDeleted": false,
+			"id": "C1fOS5D2oOtjqssO8YrTr",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1016.6136363636376,
+			"y": 1018.493506493509,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28,
+			"height": 64.00000000000034,
+			"seed": 1736359476,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1736359476,
-			"version": 32,
-			"versionNonce": 1801832588,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127018386,
 			"link": null,
 			"locked": false,
@@ -29810,6 +29306,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					64.00000000000034
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0322265625,
 				0.2373046875,
@@ -29842,35 +29340,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2900390625,
 				0.1796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2,
-				64.00000000000034
 			]
 		},
 		{
-			"id": "KC3VOi53kbvMbYH13_3ve",
 			"type": "freedraw",
-			"x": -1000.6136363636376,
-			"y": 1060.4935064935091,
-			"width": 20.000000000000114,
-			"height": 34.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 1489877004,
+			"isDeleted": false,
+			"id": "KC3VOi53kbvMbYH13_3ve",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1000.6136363636376,
+			"y": 1060.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20.000000000000114,
+			"height": 34.00000000000023,
+			"seed": 1025627700,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1025627700,
-			"version": 22,
-			"versionNonce": 1489877004,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127018929,
 			"link": null,
 			"locked": false,
@@ -29956,6 +29449,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0439453125,
 				0.1357421875,
@@ -29977,35 +29472,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2353515625,
 				0.1484375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2,
-				-2
 			]
 		},
 		{
-			"id": "CL-CVNdNXFitqXTHE0ynm",
 			"type": "freedraw",
-			"x": -970.6136363636375,
-			"y": 1084.4935064935094,
-			"width": 2,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 6,
+			"versionNonce": 1598006156,
+			"isDeleted": false,
+			"id": "CL-CVNdNXFitqXTHE0ynm",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -970.6136363636375,
+			"y": 1084.4935064935094,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2,
+			"height": 2,
+			"seed": 772972212,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 772972212,
-			"version": 6,
-			"versionNonce": 1598006156,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127019321,
 			"link": null,
 			"locked": false,
@@ -30027,40 +29517,37 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0732421875,
 				0.30078125,
 				0.3095703125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2,
-				-2
 			]
 		},
 		{
-			"id": "DUlGIz6cFAKD7UTSD2gL0",
 			"type": "freedraw",
-			"x": -948.6136363636374,
-			"y": 1060.4935064935091,
-			"width": 28.000000000000114,
-			"height": 38.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 28,
+			"versionNonce": 321797772,
+			"isDeleted": false,
+			"id": "DUlGIz6cFAKD7UTSD2gL0",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -948.6136363636374,
+			"y": 1060.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28.000000000000114,
+			"height": 38.00000000000023,
+			"seed": 1890003764,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1890003764,
-			"version": 28,
-			"versionNonce": 321797772,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127020048,
 			"link": null,
 			"locked": false,
@@ -30170,6 +29657,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.064453125,
 				0.0869140625,
@@ -30197,35 +29686,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2578125,
 				0.169921875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-2,
-				-2
 			]
 		},
 		{
-			"id": "9Ft5Dt95lBcCYyfrPQAv9",
 			"type": "freedraw",
-			"x": -920.6136363636374,
-			"y": 1058.4935064935091,
-			"width": 22.000000000000114,
-			"height": 36.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 947539084,
+			"isDeleted": false,
+			"id": "9Ft5Dt95lBcCYyfrPQAv9",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -920.6136363636374,
+			"y": 1058.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.000000000000114,
+			"height": 36.00000000000023,
+			"seed": 751026228,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 751026228,
-			"version": 24,
-			"versionNonce": 947539084,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127020633,
 			"link": null,
 			"locked": false,
@@ -30319,6 +29803,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0283203125,
 				0.1376953125,
@@ -30342,35 +29828,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1474609375,
 				0.08203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2,
-				0
 			]
 		},
 		{
-			"id": "RoHl2dqStV7FcIR4UIhp4",
 			"type": "freedraw",
-			"x": -894.6136363636373,
-			"y": 1060.4935064935091,
-			"width": 26,
-			"height": 36.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 23,
+			"versionNonce": 939907764,
+			"isDeleted": false,
+			"id": "RoHl2dqStV7FcIR4UIhp4",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -894.6136363636373,
+			"y": 1060.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 26,
+			"height": 36.00000000000023,
+			"seed": 1552388660,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1552388660,
-			"version": 23,
-			"versionNonce": 939907764,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127021170,
 			"link": null,
 			"locked": false,
@@ -30460,6 +29941,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.076171875,
 				0.1533203125,
@@ -30482,35 +29965,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2724609375,
 				0.072265625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-10,
-				-2
 			]
 		},
 		{
-			"id": "YVcbZ--HZQPmmV-wLOw2S",
 			"type": "freedraw",
-			"x": -844.6136363636372,
-			"y": 962.4935064935089,
-			"width": 22.000000000000114,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 469936692,
+			"isDeleted": false,
+			"id": "YVcbZ--HZQPmmV-wLOw2S",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -844.6136363636372,
+			"y": 962.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.000000000000114,
+			"height": 2,
+			"seed": 400644748,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 400644748,
-			"version": 10,
-			"versionNonce": 469936692,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127022759,
 			"link": null,
 			"locked": false,
@@ -30552,6 +30030,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0498046875,
 				0.06640625,
@@ -30562,35 +30042,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2529296875,
 				0.185546875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20.000000000000114,
-				0
 			]
 		},
 		{
-			"id": "SN0nY9TDJwxg5KNaimTt7",
 			"type": "freedraw",
-			"x": -838.6136363636372,
-			"y": 986.493506493509,
-			"width": 28.000000000000114,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 89381772,
+			"isDeleted": false,
+			"id": "SN0nY9TDJwxg5KNaimTt7",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -838.6136363636372,
+			"y": 986.493506493509,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 28.000000000000114,
+			"height": 2,
+			"seed": 444285708,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 444285708,
-			"version": 11,
-			"versionNonce": 89381772,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127023386,
 			"link": null,
 			"locked": false,
@@ -30636,6 +30111,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0458984375,
 				0.189453125,
@@ -30647,35 +30124,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.21875,
 				0.107421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				28.000000000000114,
-				2
 			]
 		},
 		{
-			"id": "1_Ts6D5GfFtLxMq3jLt9U",
 			"type": "freedraw",
-			"x": -760.6136363636369,
-			"y": 970.4935064935089,
-			"width": 52.000000000000114,
-			"height": 44,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 43,
+			"versionNonce": 1611270836,
+			"isDeleted": false,
+			"id": "1_Ts6D5GfFtLxMq3jLt9U",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -760.6136363636369,
+			"y": 970.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52.000000000000114,
+			"height": 44,
+			"seed": 252867380,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 252867380,
-			"version": 43,
-			"versionNonce": 1611270836,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127028892,
 			"link": null,
 			"locked": false,
@@ -30849,6 +30321,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0654296875,
 				0.2041015625,
@@ -30892,35 +30366,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2470703125,
 				0.1015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				44.000000000000114,
-				-4
 			]
 		},
 		{
-			"id": "MIeYAL7kqzkosvXCqWLno",
 			"type": "freedraw",
-			"x": -694.6136363636367,
-			"y": 970.4935064935089,
-			"width": 2,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 5,
+			"versionNonce": 830470028,
+			"isDeleted": false,
+			"id": "MIeYAL7kqzkosvXCqWLno",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -694.6136363636367,
+			"y": 970.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2,
+			"height": 2,
+			"seed": 91761292,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 91761292,
-			"version": 5,
-			"versionNonce": 830470028,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127029190,
 			"link": null,
 			"locked": false,
@@ -30938,39 +30407,36 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.046875,
 				0.232421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2,
-				-2
 			]
 		},
 		{
-			"id": "7RC_Du7N7Liu0fURmfI8H",
 			"type": "freedraw",
-			"x": -666.6136363636367,
-			"y": 936.4935064935089,
-			"width": 4,
-			"height": 36,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1980569268,
+			"isDeleted": false,
+			"id": "7RC_Du7N7Liu0fURmfI8H",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -666.6136363636367,
+			"y": 936.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 4,
+			"height": 36,
+			"seed": 541464372,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 541464372,
-			"version": 11,
-			"versionNonce": 1980569268,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127030120,
 			"link": null,
 			"locked": false,
@@ -31016,6 +30482,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					36
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0498046875,
 				0.15625,
@@ -31027,35 +30495,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2333984375,
 				0.208984375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-2,
-				36
 			]
 		},
 		{
-			"id": "rLbu9mwBS1iTQLNeAuyMG",
 			"type": "freedraw",
-			"x": -642.6136363636366,
-			"y": 942.4935064935089,
-			"width": 4,
-			"height": 30,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1535330060,
+			"isDeleted": false,
+			"id": "rLbu9mwBS1iTQLNeAuyMG",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -642.6136363636366,
+			"y": 942.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 4,
+			"height": 30,
+			"seed": 234610316,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 234610316,
-			"version": 11,
-			"versionNonce": 1535330060,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127030492,
 			"link": null,
 			"locked": false,
@@ -31101,6 +30564,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					30
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0712890625,
 				0.138671875,
@@ -31112,35 +30577,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2041015625,
 				0.158203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-2,
-				30
 			]
 		},
 		{
-			"id": "_doUaHB6xwYLbEct1rxK9",
 			"type": "freedraw",
-			"x": -666.6136363636367,
-			"y": 938.4935064935089,
-			"width": 46.000000000000114,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 215572364,
+			"isDeleted": false,
+			"id": "_doUaHB6xwYLbEct1rxK9",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -666.6136363636367,
+			"y": 938.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 46.000000000000114,
+			"height": 2,
+			"seed": 109150132,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 109150132,
-			"version": 10,
-			"versionNonce": 215572364,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127030858,
 			"link": null,
 			"locked": false,
@@ -31182,6 +30642,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.041015625,
 				0.1083984375,
@@ -31192,35 +30654,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1962890625,
 				0.0966796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				46.000000000000114,
-				0
 			]
 		},
 		{
-			"id": "vwWSJXYxj_Ne9wmhdDjfe",
 			"type": "freedraw",
-			"x": -674.6136363636367,
-			"y": 938.4935064935089,
-			"width": 40.000000000000114,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 2060462092,
+			"isDeleted": false,
+			"id": "vwWSJXYxj_Ne9wmhdDjfe",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -674.6136363636367,
+			"y": 938.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 40.000000000000114,
+			"height": 4,
+			"seed": 1335308084,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1335308084,
-			"version": 10,
-			"versionNonce": 2060462092,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127032476,
 			"link": null,
 			"locked": false,
@@ -31262,6 +30719,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.029296875,
 				0.09375,
@@ -31272,35 +30731,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.21875,
 				0.1015625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				40.000000000000114,
-				-2
 			]
 		},
 		{
-			"id": "IEILSOUtBM319WYlWEtxk",
 			"type": "freedraw",
-			"x": -754.6136363636369,
-			"y": 998.4935064935091,
-			"width": 160.00000000000045,
-			"height": 10.000000000000227,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 1583226292,
+			"isDeleted": false,
+			"id": "IEILSOUtBM319WYlWEtxk",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -754.6136363636369,
+			"y": 998.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 160.00000000000045,
+			"height": 10.000000000000227,
+			"seed": 2007969460,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2007969460,
-			"version": 21,
-			"versionNonce": 1583226292,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127033795,
 			"link": null,
 			"locked": false,
@@ -31386,6 +30840,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-8.000000000000227
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03515625,
 				0.1923828125,
@@ -31407,35 +30863,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.263671875,
 				0.20703125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				160.00000000000045,
-				-8.000000000000227
 			]
 		},
 		{
-			"id": "ViUJv3nbn2TscEI8zPkaP",
 			"type": "freedraw",
-			"x": -760.6136363636369,
-			"y": 1062.4935064935091,
-			"width": 38.000000000000114,
-			"height": 52.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 1183211020,
+			"isDeleted": false,
+			"id": "ViUJv3nbn2TscEI8zPkaP",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -760.6136363636369,
+			"y": 1062.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 38.000000000000114,
+			"height": 52.00000000000023,
+			"seed": 1415759756,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1415759756,
-			"version": 35,
-			"versionNonce": 1183211020,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127035863,
 			"link": null,
 			"locked": false,
@@ -31577,6 +31028,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					14
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0634765625,
 				0.1162109375,
@@ -31612,35 +31065,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2197265625,
 				0.1904296875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				38.000000000000114,
-				14
 			]
 		},
 		{
-			"id": "Ajme0lsBmlZX9X0_X-oII",
 			"type": "freedraw",
-			"x": -714.6136363636368,
-			"y": 1056.4935064935091,
-			"width": 30.000000000000114,
-			"height": 32.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 1393503244,
+			"isDeleted": false,
+			"id": "Ajme0lsBmlZX9X0_X-oII",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -714.6136363636368,
+			"y": 1056.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.000000000000114,
+			"height": 32.00000000000023,
+			"seed": 304044212,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 304044212,
-			"version": 24,
-			"versionNonce": 1393503244,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127036375,
 			"link": null,
 			"locked": false,
@@ -31734,6 +31182,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.02734375,
 				0.099609375,
@@ -31757,35 +31207,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.240234375,
 				0.1826171875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-6,
-				0
 			]
 		},
 		{
-			"id": "lw-0gTMhrzp6_ZTLH8AYb",
 			"type": "freedraw",
-			"x": -670.6136363636367,
-			"y": 1076.4935064935091,
-			"width": 20,
-			"height": 32,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 197754508,
+			"isDeleted": false,
+			"id": "lw-0gTMhrzp6_ZTLH8AYb",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -670.6136363636367,
+			"y": 1076.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 32,
+			"seed": 164784820,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 164784820,
-			"version": 18,
-			"versionNonce": 197754508,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127038008,
 			"link": null,
 			"locked": false,
@@ -31859,6 +31304,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-24
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0390625,
 				0.1318359375,
@@ -31877,35 +31324,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1943359375,
 				0.05859375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-20,
-				-24
 			]
 		},
 		{
-			"id": "ol0tWUkmD_i8yAs8y6OfM",
 			"type": "freedraw",
-			"x": -684.6136363636367,
-			"y": 1060.4935064935091,
-			"width": 24,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 137414196,
+			"isDeleted": false,
+			"id": "ol0tWUkmD_i8yAs8y6OfM",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -684.6136363636367,
+			"y": 1060.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24,
+			"height": 2,
+			"seed": 243040308,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 243040308,
-			"version": 9,
-			"versionNonce": 137414196,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127038282,
 			"link": null,
 			"locked": false,
@@ -31943,6 +31385,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0390625,
 				0.1142578125,
@@ -31952,35 +31396,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.162109375,
 				0.0537109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24,
-				0
 			]
 		},
 		{
-			"id": "qR3wKE-QYj4_BXRr4Cen_",
 			"type": "freedraw",
-			"x": -650.6136363636366,
-			"y": 1056.4935064935091,
-			"width": 24,
-			"height": 40,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 34,
+			"versionNonce": 579991476,
+			"isDeleted": false,
+			"id": "qR3wKE-QYj4_BXRr4Cen_",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -650.6136363636366,
+			"y": 1056.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24,
+			"height": 40,
+			"seed": 1691150092,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1691150092,
-			"version": 34,
-			"versionNonce": 579991476,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127039217,
 			"link": null,
 			"locked": false,
@@ -32118,6 +31557,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					16
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.02734375,
 				0.095703125,
@@ -32152,35 +31593,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2216796875,
 				0.1396484375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18,
-				16
 			]
 		},
 		{
-			"id": "CxqNuuaZEx3Xe49hRJcP0",
 			"type": "freedraw",
-			"x": -626.6136363636366,
-			"y": 1046.4935064935091,
-			"width": 20,
-			"height": 36.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 28,
+			"versionNonce": 414624948,
+			"isDeleted": false,
+			"id": "CxqNuuaZEx3Xe49hRJcP0",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -626.6136363636366,
+			"y": 1046.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 36.00000000000023,
+			"seed": 24219020,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 24219020,
-			"version": 28,
-			"versionNonce": 414624948,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127039988,
 			"link": null,
 			"locked": false,
@@ -32294,6 +31730,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					34.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0380859375,
 				0.064453125,
@@ -32322,35 +31760,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2314453125,
 				0.193359375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				10,
-				34.00000000000023
 			]
 		},
 		{
-			"id": "S2skcIx4B0A_92iTDDNuT",
 			"type": "freedraw",
-			"x": -536.6136363636364,
-			"y": 982.4935064935089,
-			"width": 32.000000000000114,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 435174452,
+			"isDeleted": false,
+			"id": "S2skcIx4B0A_92iTDDNuT",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -536.6136363636364,
+			"y": 982.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.000000000000114,
+			"height": 2,
+			"seed": 1960749196,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1960749196,
-			"version": 10,
-			"versionNonce": 435174452,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127041452,
 			"link": null,
 			"locked": false,
@@ -32392,6 +31825,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03125,
 				0.1220703125,
@@ -32402,35 +31837,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1953125,
 				0.1259765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				32.000000000000114,
-				0
 			]
 		},
 		{
-			"id": "KYhN0ltRFHls551OraXeP",
 			"type": "freedraw",
-			"x": -530.6136363636364,
-			"y": 994.4935064935091,
-			"width": 30.000000000000114,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1755818380,
+			"isDeleted": false,
+			"id": "KYhN0ltRFHls551OraXeP",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -530.6136363636364,
+			"y": 994.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.000000000000114,
+			"height": 0,
+			"seed": 1768411404,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1768411404,
-			"version": 11,
-			"versionNonce": 1755818380,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127041793,
 			"link": null,
 			"locked": false,
@@ -32476,6 +31906,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.041015625,
 				0.1044921875,
@@ -32487,35 +31919,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.19921875,
 				0.09375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				30.000000000000114,
-				0
 			]
 		},
 		{
-			"id": "YyDPY-XvU4dyeDm0Mt9xq",
 			"type": "freedraw",
-			"x": -492.61363636363626,
-			"y": 958.4935064935089,
-			"width": 32.00000000000023,
-			"height": 68.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 1293826316,
+			"isDeleted": false,
+			"id": "YyDPY-XvU4dyeDm0Mt9xq",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -492.61363636363626,
+			"y": 958.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.00000000000023,
+			"height": 68.00000000000023,
+			"seed": 371885364,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 371885364,
-			"version": 22,
-			"versionNonce": 1293826316,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127042338,
 			"link": null,
 			"locked": false,
@@ -32605,6 +32032,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					68.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0380859375,
 				0.05859375,
@@ -32627,35 +32056,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.296875,
 				0.2197265625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				8,
-				68.00000000000023
 			]
 		},
 		{
-			"id": "mpzLt9lYZMKcENShqFBNY",
 			"type": "freedraw",
-			"x": -432.61363636363603,
-			"y": 1000.4935064935091,
-			"width": 52,
-			"height": 42.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 45,
+			"versionNonce": 1375727284,
+			"isDeleted": false,
+			"id": "mpzLt9lYZMKcENShqFBNY",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -432.61363636363603,
+			"y": 1000.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 52,
+			"height": 42.00000000000023,
+			"seed": 1170648500,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1170648500,
-			"version": 45,
-			"versionNonce": 1375727284,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127047467,
 			"link": null,
 			"locked": false,
@@ -32837,6 +32261,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					6
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0556640625,
 				0.1640625,
@@ -32882,35 +32308,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2099609375,
 				0.09375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				48,
-				6
 			]
 		},
 		{
-			"id": "935mGQ5K1ZHmFhnpBQ4h4",
 			"type": "freedraw",
-			"x": -364.6136363636358,
-			"y": 988.4935064935089,
-			"width": 24,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 71773580,
+			"isDeleted": false,
+			"id": "935mGQ5K1ZHmFhnpBQ4h4",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -364.6136363636358,
+			"y": 988.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24,
+			"height": 2,
+			"seed": 1094878860,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1094878860,
-			"version": 13,
-			"versionNonce": 71773580,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127047927,
 			"link": null,
 			"locked": false,
@@ -32964,6 +32385,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.052734375,
 				0.1767578125,
@@ -32977,35 +32400,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1884765625,
 				0.046875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24,
-				0
 			]
 		},
 		{
-			"id": "oy-uoWfLscoFmVpbE5s-G",
 			"type": "freedraw",
-			"x": -362.6136363636358,
-			"y": 1002.4935064935091,
-			"width": 24,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1306342924,
+			"isDeleted": false,
+			"id": "oy-uoWfLscoFmVpbE5s-G",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -362.6136363636358,
+			"y": 1002.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24,
+			"height": 2,
+			"seed": 691355956,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 691355956,
-			"version": 10,
-			"versionNonce": 1306342924,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127048343,
 			"link": null,
 			"locked": false,
@@ -33047,6 +32465,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0263671875,
 				0.1689453125,
@@ -33057,35 +32477,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.228515625,
 				0.1044921875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24,
-				-2
 			]
 		},
 		{
-			"id": "Qwr24IDq5EZBqg5x7QB9O",
 			"type": "freedraw",
-			"x": -674.6136363636367,
-			"y": 902.4935064935087,
-			"width": 64.00000000000023,
-			"height": 72.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 1183103884,
+			"isDeleted": false,
+			"id": "Qwr24IDq5EZBqg5x7QB9O",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -674.6136363636367,
+			"y": 902.4935064935087,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 64.00000000000023,
+			"height": 72.00000000000023,
+			"seed": 1916928180,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1916928180,
-			"version": 14,
-			"versionNonce": 1183103884,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127051588,
 			"link": null,
 			"locked": false,
@@ -33143,6 +32558,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					72.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03125,
 				0.1279296875,
@@ -33157,35 +32574,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1904296875,
 				0.099609375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				64.00000000000023,
-				72.00000000000023
 			]
 		},
 		{
-			"id": "sKJDyjApUKqqxS9tllUI9",
 			"type": "freedraw",
-			"x": -970.6136363636375,
-			"y": 930.4935064935089,
-			"width": 36.000000000000114,
-			"height": 58,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1906156172,
+			"isDeleted": false,
+			"id": "sKJDyjApUKqqxS9tllUI9",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -970.6136363636375,
+			"y": 930.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 36.000000000000114,
+			"height": 58,
+			"seed": 1574933300,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1574933300,
-			"version": 12,
-			"versionNonce": 1906156172,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127052714,
 			"link": null,
 			"locked": false,
@@ -33235,6 +32647,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					58
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.05078125,
 				0.16796875,
@@ -33247,35 +32661,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2041015625,
 				0.09375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				36.000000000000114,
-				58
 			]
 		},
 		{
-			"id": "nut8ffkDzH5RsGP1kR8tI",
 			"type": "freedraw",
-			"x": -304.6136363636358,
-			"y": 970.4935064935089,
-			"width": 32.00000000000023,
-			"height": 52.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 989269428,
+			"isDeleted": false,
+			"id": "nut8ffkDzH5RsGP1kR8tI",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -304.6136363636358,
+			"y": 970.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32.00000000000023,
+			"height": 52.00000000000023,
+			"seed": 980196404,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 980196404,
-			"version": 35,
-			"versionNonce": 989269428,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127058439,
 			"link": null,
 			"locked": false,
@@ -33417,6 +32826,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					34.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0361328125,
 				0.1279296875,
@@ -33452,35 +32863,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1728515625,
 				0.0908203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.000000000000227,
-				34.00000000000023
 			]
 		},
 		{
-			"id": "lonXx2d9H8an2OQfu7vwa",
 			"type": "freedraw",
-			"x": -262.6136363636356,
-			"y": 996.4935064935091,
-			"width": 8,
-			"height": 8,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 562502068,
+			"isDeleted": false,
+			"id": "lonXx2d9H8an2OQfu7vwa",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -262.6136363636356,
+			"y": 996.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 8,
+			"height": 8,
+			"seed": 1578162060,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1578162060,
-			"version": 16,
-			"versionNonce": 562502068,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127058987,
 			"link": null,
 			"locked": false,
@@ -33542,6 +32948,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.033203125,
 				0.1171875,
@@ -33557,35 +32965,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2763671875,
 				0.216796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				4
 			]
 		},
 		{
-			"id": "YHAdIM-48hGvo-qS6THS8",
 			"type": "freedraw",
-			"x": -236.61363636363558,
-			"y": 982.4935064935089,
-			"width": 36.00000000000023,
-			"height": 52.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 37,
+			"versionNonce": 1412595852,
+			"isDeleted": false,
+			"id": "YHAdIM-48hGvo-qS6THS8",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -236.61363636363558,
+			"y": 982.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 36.00000000000023,
+			"height": 52.00000000000023,
+			"seed": 1901562764,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1901562764,
-			"version": 37,
-			"versionNonce": 1412595852,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127062029,
 			"link": null,
 			"locked": false,
@@ -33735,6 +33138,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					16.000000000000227
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.068359375,
 				0.126953125,
@@ -33772,35 +33177,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2705078125,
 				0.1552734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				36.00000000000023,
-				16.000000000000227
 			]
 		},
 		{
-			"id": "fZlKUl9dK6E8zTxkYOf-b",
 			"type": "freedraw",
-			"x": -186.61363636363535,
-			"y": 980.4935064935089,
-			"width": 26,
-			"height": 30.000000000000227,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 633565236,
+			"isDeleted": false,
+			"id": "fZlKUl9dK6E8zTxkYOf-b",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -186.61363636363535,
+			"y": 980.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 26,
+			"height": 30.000000000000227,
+			"seed": 513580596,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 513580596,
-			"version": 25,
-			"versionNonce": 633565236,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127062610,
 			"link": null,
 			"locked": false,
@@ -33898,6 +33298,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0400390625,
 				0.109375,
@@ -33922,35 +33324,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2294921875,
 				0.068359375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-2,
-				4
 			]
 		},
 		{
-			"id": "1vUo_Q39JXArm1ta5DLdr",
 			"type": "freedraw",
-			"x": -136.61363636363535,
-			"y": 998.4935064935091,
-			"width": 16,
-			"height": 30.000000000000227,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 1265438604,
+			"isDeleted": false,
+			"id": "1vUo_Q39JXArm1ta5DLdr",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -136.61363636363535,
+			"y": 998.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 16,
+			"height": 30.000000000000227,
+			"seed": 512875788,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 512875788,
-			"version": 19,
-			"versionNonce": 1265438604,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127064359,
 			"link": null,
 			"locked": false,
@@ -34028,6 +33425,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-28.000000000000227
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0673828125,
 				0.20703125,
@@ -34047,35 +33446,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.3017578125,
 				0.267578125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-8,
-				-28.000000000000227
 			]
 		},
 		{
-			"id": "iwFmw3ecF0xwFEhCRN4uC",
 			"type": "freedraw",
-			"x": -144.61363636363535,
-			"y": 982.4935064935089,
-			"width": 30.000000000000227,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 924178444,
+			"isDeleted": false,
+			"id": "iwFmw3ecF0xwFEhCRN4uC",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -144.61363636363535,
+			"y": 982.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.000000000000227,
+			"height": 4,
+			"seed": 961969972,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 961969972,
-			"version": 10,
-			"versionNonce": 924178444,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127064660,
 			"link": null,
 			"locked": false,
@@ -34117,6 +33511,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.05078125,
 				0.1611328125,
@@ -34127,35 +33523,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.21484375,
 				0.1728515625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				30.000000000000227,
-				4
 			]
 		},
 		{
-			"id": "8e0EwVF8gIF9bIabDNUXY",
 			"type": "freedraw",
-			"x": -104.61363636363512,
-			"y": 988.4935064935089,
-			"width": 20,
-			"height": 36.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 32,
+			"versionNonce": 2052997132,
+			"isDeleted": false,
+			"id": "8e0EwVF8gIF9bIabDNUXY",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -104.61363636363512,
+			"y": 988.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 36.00000000000023,
+			"seed": 1339850420,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1339850420,
-			"version": 32,
-			"versionNonce": 2052997132,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127065521,
 			"link": null,
 			"locked": false,
@@ -34285,6 +33676,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					10.000000000000227
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0556640625,
 				0.12890625,
@@ -34317,35 +33710,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.275390625,
 				0.2080078125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				16,
-				10.000000000000227
 			]
 		},
 		{
-			"id": "Pp8LzxFZRvXfWkxv_d-Uv",
 			"type": "freedraw",
-			"x": -78.61363636363512,
-			"y": 974.4935064935089,
-			"width": 20,
-			"height": 32.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 26,
+			"versionNonce": 994995340,
+			"isDeleted": false,
+			"id": "Pp8LzxFZRvXfWkxv_d-Uv",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -78.61363636363512,
+			"y": 974.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 20,
+			"height": 32.00000000000023,
+			"seed": 296654516,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 296654516,
-			"version": 26,
-			"versionNonce": 994995340,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127066218,
 			"link": null,
 			"locked": false,
@@ -34451,6 +33839,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					32.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.025390625,
 				0.1162109375,
@@ -34477,35 +33867,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2470703125,
 				0.0556640625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				8,
-				32.00000000000023
 			]
 		},
 		{
-			"id": "zXedjHkWffX4WYJ_3K2D1",
 			"type": "freedraw",
-			"x": -290.6136363636356,
-			"y": 1018.4935064935091,
-			"width": 254.00000000000068,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 39,
+			"versionNonce": 465749684,
+			"isDeleted": false,
+			"id": "zXedjHkWffX4WYJ_3K2D1",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -290.6136363636356,
+			"y": 1018.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 254.00000000000068,
+			"height": 12,
+			"seed": 948269620,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 948269620,
-			"version": 39,
-			"versionNonce": 465749684,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127067816,
 			"link": null,
 			"locked": false,
@@ -34663,6 +34048,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					10
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0390625,
 				0.1015625,
@@ -34702,35 +34089,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.33203125,
 				0.3056640625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				254.00000000000068,
-				10
 			]
 		},
 		{
-			"id": "4BGFkI8m75ch-HBPFNSCX",
 			"type": "freedraw",
-			"x": -238.61363636363558,
-			"y": 1044.4935064935091,
-			"width": 32,
-			"height": 48.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 1560929548,
+			"isDeleted": false,
+			"id": "4BGFkI8m75ch-HBPFNSCX",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -238.61363636363558,
+			"y": 1044.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32,
+			"height": 48.00000000000023,
+			"seed": 196685452,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 196685452,
-			"version": 35,
-			"versionNonce": 1560929548,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127069769,
 			"link": null,
 			"locked": false,
@@ -34872,6 +34254,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					48.00000000000023
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.03515625,
 				0.0830078125,
@@ -34907,35 +34291,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2607421875,
 				0.1591796875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				48.00000000000023
 			]
 		},
 		{
-			"id": "AaquJlhJqcnWKOFkjmsXd",
 			"type": "freedraw",
-			"x": -208.61363636363535,
-			"y": 1072.4935064935091,
-			"width": 22.000000000000227,
-			"height": 34.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 22,
+			"versionNonce": 1003267212,
+			"isDeleted": false,
+			"id": "AaquJlhJqcnWKOFkjmsXd",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -208.61363636363535,
+			"y": 1072.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22.000000000000227,
+			"height": 34.00000000000023,
+			"seed": 1018937780,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1018937780,
-			"version": 22,
-			"versionNonce": 1003267212,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127070319,
 			"link": null,
 			"locked": false,
@@ -35021,6 +34400,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.02734375,
 				0.1044921875,
@@ -35042,35 +34423,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2822265625,
 				0.232421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2,
-				-8
 			]
 		},
 		{
-			"id": "e0trntKTmXd2urwpeE_cA",
 			"type": "freedraw",
-			"x": -178.61363636363535,
-			"y": 1086.4935064935094,
-			"width": 2,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 5,
+			"versionNonce": 1606204724,
+			"isDeleted": false,
+			"id": "e0trntKTmXd2urwpeE_cA",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -178.61363636363535,
+			"y": 1086.4935064935094,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2,
+			"height": 0,
+			"seed": 807844404,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 807844404,
-			"version": 5,
-			"versionNonce": 1606204724,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127070616,
 			"link": null,
 			"locked": false,
@@ -35088,39 +34464,36 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0341796875,
 				0.13671875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2,
-				0
 			]
 		},
 		{
-			"id": "OWZwXezSl3jgJ0D4A7gWO",
 			"type": "freedraw",
-			"x": -158.61363636363535,
-			"y": 1070.4935064935091,
-			"width": 18,
-			"height": 32.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 25,
+			"versionNonce": 1039511052,
+			"isDeleted": false,
+			"id": "OWZwXezSl3jgJ0D4A7gWO",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -158.61363636363535,
+			"y": 1070.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18,
+			"height": 32.00000000000023,
+			"seed": 358604812,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 358604812,
-			"version": 25,
-			"versionNonce": 1039511052,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127071184,
 			"link": null,
 			"locked": false,
@@ -35218,6 +34591,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0322265625,
 				0.12890625,
@@ -35242,35 +34617,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1943359375,
 				0.0693359375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-10,
-				0
 			]
 		},
 		{
-			"id": "pAX1bwe0FEvvrF4aij8b9",
 			"type": "freedraw",
-			"x": -134.61363636363535,
-			"y": 1070.4935064935091,
-			"width": 18.000000000000227,
-			"height": 26.000000000000227,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 2013690892,
+			"isDeleted": false,
+			"id": "pAX1bwe0FEvvrF4aij8b9",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -134.61363636363535,
+			"y": 1070.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 18.000000000000227,
+			"height": 26.000000000000227,
+			"seed": 135071924,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 135071924,
-			"version": 24,
-			"versionNonce": 2013690892,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127071750,
 			"link": null,
 			"locked": false,
@@ -35364,6 +34734,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0302734375,
 				0.119140625,
@@ -35387,35 +34759,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.0732421875,
 				0.037109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-2,
-				10.000000000000227
 			]
 		},
 		{
-			"id": "7lpYHcpm9JaZkGJEBxPrv",
 			"type": "freedraw",
-			"x": -100.61363636363512,
-			"y": 1070.4935064935091,
-			"width": 26,
-			"height": 26.000000000000227,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 24,
+			"versionNonce": 1125272076,
+			"isDeleted": false,
+			"id": "7lpYHcpm9JaZkGJEBxPrv",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -100.61363636363512,
+			"y": 1070.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 26,
+			"height": 26.000000000000227,
+			"seed": 1320688308,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1320688308,
-			"version": 24,
-			"versionNonce": 1125272076,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127072258,
 			"link": null,
 			"locked": false,
@@ -35509,6 +34876,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0458984375,
 				0.125,
@@ -35532,35 +34901,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.259765625,
 				0.140625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-10,
-				2
 			]
 		},
 		{
-			"id": "D0o1_OiOg2pXg_0BixSe8",
 			"type": "freedraw",
-			"x": 3.386363636365104,
-			"y": 994.4935064935091,
-			"width": 32,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 702659636,
+			"isDeleted": false,
+			"id": "D0o1_OiOg2pXg_0BixSe8",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 3.386363636365104,
+			"y": 994.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 32,
+			"height": 2,
+			"seed": 1704471732,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1704471732,
-			"version": 11,
-			"versionNonce": 702659636,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127073625,
 			"link": null,
 			"locked": false,
@@ -35606,6 +34970,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.068359375,
 				0.1767578125,
@@ -35617,35 +34983,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2275390625,
 				0.1982421875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				32,
-				2
 			]
 		},
 		{
-			"id": "x5udyuQNO82LCvLShgBPB",
 			"type": "freedraw",
-			"x": 15.386363636365104,
-			"y": 1012.4935064935091,
-			"width": 36.00000000000023,
-			"height": 4,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 1587091468,
+			"isDeleted": false,
+			"id": "x5udyuQNO82LCvLShgBPB",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 15.386363636365104,
+			"y": 1012.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 36.00000000000023,
+			"height": 4,
+			"seed": 726552844,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 726552844,
-			"version": 13,
-			"versionNonce": 1587091468,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127074160,
 			"link": null,
 			"locked": false,
@@ -35699,6 +35060,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					4
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.060546875,
 				0.2431640625,
@@ -35712,35 +35075,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.240234375,
 				0.080078125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				34.00000000000023,
-				4
 			]
 		},
 		{
-			"id": "A5Y8kzi1O8u67ko-GqNZO",
 			"type": "freedraw",
-			"x": 97.38636363636533,
-			"y": 988.4935064935089,
-			"width": 42,
-			"height": 48.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 30,
+			"versionNonce": 708022668,
+			"isDeleted": false,
+			"id": "A5Y8kzi1O8u67ko-GqNZO",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 97.38636363636533,
+			"y": 988.4935064935089,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 42,
+			"height": 48.00000000000023,
+			"seed": 1160593076,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1160593076,
-			"version": 30,
-			"versionNonce": 708022668,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127092505,
 			"link": null,
 			"locked": false,
@@ -35862,6 +35220,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0498046875,
 				0.119140625,
@@ -35892,35 +35252,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2421875,
 				0.109375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-18,
-				0
 			]
 		},
 		{
-			"id": "mqkWJOjzRJuTZqsBtRgCd",
 			"type": "freedraw",
-			"x": 131.38636363636533,
-			"y": 1026.4935064935091,
-			"width": 8,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1066080780,
+			"isDeleted": false,
+			"id": "mqkWJOjzRJuTZqsBtRgCd",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 131.38636363636533,
+			"y": 1026.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 8,
+			"height": 12,
+			"seed": 1907432756,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1907432756,
-			"version": 10,
-			"versionNonce": 1066080780,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127092969,
 			"link": null,
 			"locked": false,
@@ -35958,6 +35313,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0419921875,
 				0.146484375,
@@ -35967,35 +35324,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.1591796875,
 				0.0810546875,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-8,
-				12
 			]
 		},
 		{
-			"id": "NiGhT-ievA155ul6dTaaa",
 			"type": "freedraw",
-			"x": 167.38636363636556,
-			"y": 996.4935064935091,
-			"width": 24,
-			"height": 40.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 249675316,
+			"isDeleted": false,
+			"id": "NiGhT-ievA155ul6dTaaa",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 167.38636363636556,
+			"y": 996.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24,
+			"height": 40.00000000000023,
+			"seed": 634674356,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 634674356,
-			"version": 35,
-			"versionNonce": 249675316,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127095577,
 			"link": null,
 			"locked": false,
@@ -36137,6 +35489,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					30
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0361328125,
 				0.0947265625,
@@ -36172,35 +35526,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.2724609375,
 				0.2568359375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-10,
-				30
 			]
 		},
 		{
-			"id": "Hz1RDkquUMTmRpa2h9y4f",
 			"type": "freedraw",
-			"x": 189.38636363636556,
-			"y": 998.4935064935091,
-			"width": 24,
-			"height": 34,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 34,
+			"versionNonce": 963899316,
+			"isDeleted": false,
+			"id": "Hz1RDkquUMTmRpa2h9y4f",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 189.38636363636556,
+			"y": 998.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24,
+			"height": 34,
+			"seed": 398946060,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 398946060,
-			"version": 34,
-			"versionNonce": 963899316,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127096435,
 			"link": null,
 			"locked": false,
@@ -36338,6 +35687,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					28
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0439453125,
 				0.099609375,
@@ -36372,35 +35723,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.275390625,
 				0.2431640625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-4,
-				28
 			]
 		},
 		{
-			"id": "QhAWR8u9AsBVVJ4JzInQT",
 			"type": "freedraw",
-			"x": 245.3863636363658,
-			"y": 998.4935064935091,
-			"width": 30.000000000000227,
-			"height": 38,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 34,
+			"versionNonce": 617673012,
+			"isDeleted": false,
+			"id": "QhAWR8u9AsBVVJ4JzInQT",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 245.3863636363658,
+			"y": 998.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 30.000000000000227,
+			"height": 38,
+			"seed": 1003165068,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1003165068,
-			"version": 34,
-			"versionNonce": 617673012,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127097383,
 			"link": null,
 			"locked": false,
@@ -36538,6 +35884,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					26
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.033203125,
 				0.0546875,
@@ -36572,35 +35920,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.30859375,
 				0.0908203125,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-26,
-				26
 			]
 		},
 		{
-			"id": "059R1NHZ8bOQBNkl_HRD9",
 			"type": "freedraw",
-			"x": 275.3863636363658,
-			"y": 1032.4935064935091,
-			"width": 22,
-			"height": 46.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 21,
+			"versionNonce": 390827276,
+			"isDeleted": false,
+			"id": "059R1NHZ8bOQBNkl_HRD9",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 275.3863636363658,
+			"y": 1032.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 22,
+			"height": 46.00000000000023,
+			"seed": 30993420,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 30993420,
-			"version": 21,
-			"versionNonce": 390827276,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127098039,
 			"link": null,
 			"locked": false,
@@ -36686,6 +36029,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					-40
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.02734375,
 				0.1083984375,
@@ -36707,35 +36052,30 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.3154296875,
 				0.2509765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-8,
-				-40
 			]
 		},
 		{
-			"id": "phFcokFmUHMv3AHN7mV5G",
 			"type": "freedraw",
-			"x": 273.3863636363658,
-			"y": 1010.4935064935091,
-			"width": 24,
-			"height": 2,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 2072422156,
+			"isDeleted": false,
+			"id": "phFcokFmUHMv3AHN7mV5G",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 273.3863636363658,
+			"y": 1010.4935064935091,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24,
+			"height": 2,
+			"seed": 2127075764,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 2127075764,
-			"version": 8,
-			"versionNonce": 2072422156,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127098328,
 			"link": null,
 			"locked": false,
@@ -36769,6 +36109,8 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 					2
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0.0439453125,
 				0.12109375,
@@ -36777,5234 +36119,103 @@ frecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia
 				0.158203125,
 				0.0927734375,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24,
-				2
 			]
 		},
 		{
-			"id": "htiT3sZG",
 			"type": "text",
-			"x": -718.6136363636369,
-			"y": 1215.4935064935096,
-			"width": 630,
-			"height": 172,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 61,
+			"versionNonce": 1583396236,
+			"isDeleted": false,
+			"id": "htiT3sZG",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -718.6136363636369,
+			"y": 1215.4935064935096,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 630,
+			"height": 172,
+			"seed": 1659117492,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 1659117492,
-			"version": 61,
-			"versionNonce": 1583396236,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127118546,
 			"link": null,
 			"locked": false,
-			"text": "n=0,5357",
-			"rawText": "n=0,5357",
 			"fontSize": 149.60000000000034,
 			"fontFamily": 2,
+			"text": "n=0,5357",
+			"rawText": "n=0,5357",
+			"baseline": 137,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 137,
 			"containerId": null,
 			"originalText": "n=0,5357"
 		},
 		{
-			"id": "q0c9JdxL",
 			"type": "text",
-			"x": -1020.6136363636379,
-			"y": 1455.9935064935103,
-			"width": 1388.888888888888,
-			"height": 139.99999999999994,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 247,
+			"versionNonce": 1019979916,
+			"isDeleted": false,
+			"id": "q0c9JdxL",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -1020.6136363636379,
+			"y": 1455.9935064935103,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1389,
+			"height": 135,
+			"seed": 239739916,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 239739916,
-			"version": 247,
-			"versionNonce": 1019979916,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1665127207993,
 			"link": null,
 			"locked": false,
-			"text": "Esto significa que cuando n sea igual a 0,5357 estaremos en la unidad de \nfrecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia\n",
-			"rawText": "Esto significa que cuando n sea igual a 0,5357 estaremos en la unidad de \nfrecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia\n",
 			"fontSize": 39.99999999999998,
 			"fontFamily": 2,
+			"text": "Esto significa que cuando n sea igual a 0,5357 estaremos en la unidad de \nfrecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia\n",
+			"rawText": "Esto significa que cuando n sea igual a 0,5357 estaremos en la unidad de \nfrecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia\n",
+			"baseline": 126,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 130.99999999999994,
 			"containerId": null,
 			"originalText": "Esto significa que cuando n sea igual a 0,5357 estaremos en la unidad de \nfrecuencia del sistema adoptando 1/tau como unidad de medida de frecuencia\n"
 		},
 		{
-			"id": "KEedkrh4GD9r_He-YRl-v",
 			"type": "rectangle",
-			"x": -2087.6691919191935,
-			"y": 374.66341991342154,
-			"width": 136.66666666666652,
-			"height": 6.6666666666667425,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
+			"version": 11,
+			"versionNonce": 1106869044,
+			"isDeleted": true,
+			"id": "KEedkrh4GD9r_He-YRl-v",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -2087.6691919191935,
+			"y": 374.66341991342154,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 136.66666666666652,
+			"height": 6.6666666666667425,
+			"seed": 1759426316,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
-			"seed": 1759426316,
-			"version": 10,
-			"versionNonce": 436573620,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1665127222707,
+			"boundElements": [],
+			"updated": 1665127649628,
 			"link": null,
 			"locked": false
-		},
-		{
-			"id": "wW-Hl_Bmf7BxtMmnPwe4t",
-			"type": "freedraw",
-			"x": -770.9642857142863,
-			"y": 111.42857142857167,
-			"width": 30.000000000000114,
-			"height": 51.428571428571445,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1790252468,
-			"version": 33,
-			"versionNonce": 1932731020,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126424019,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.4285714285714448,
-					-4.285714285714334
-				],
-				[
-					0,
-					-8.571428571428669
-				],
-				[
-					2.8571428571428896,
-					-11.428571428571445
-				],
-				[
-					7.142857142857224,
-					-11.428571428571445
-				],
-				[
-					11.428571428571445,
-					-12.85714285714289
-				],
-				[
-					17.142857142857224,
-					-11.428571428571445
-				],
-				[
-					21.428571428571445,
-					-8.571428571428669
-				],
-				[
-					22.85714285714289,
-					-5.714285714285779
-				],
-				[
-					24.285714285714334,
-					-2.8571428571428896
-				],
-				[
-					22.85714285714289,
-					1.4285714285714448
-				],
-				[
-					21.428571428571445,
-					7.14285714285711
-				],
-				[
-					18.57142857142867,
-					11.428571428571445
-				],
-				[
-					14.285714285714334,
-					17.14285714285711
-				],
-				[
-					10,
-					21.428571428571445
-				],
-				[
-					7.142857142857224,
-					25.71428571428578
-				],
-				[
-					4.285714285714334,
-					28.571428571428555
-				],
-				[
-					2.8571428571428896,
-					31.428571428571445
-				],
-				[
-					1.4285714285714448,
-					32.85714285714289
-				],
-				[
-					1.4285714285714448,
-					34.285714285714334
-				],
-				[
-					4.285714285714334,
-					37.142857142857224
-				],
-				[
-					7.142857142857224,
-					38.571428571428555
-				],
-				[
-					11.428571428571445,
-					38.571428571428555
-				],
-				[
-					14.285714285714334,
-					38.571428571428555
-				],
-				[
-					18.57142857142867,
-					38.571428571428555
-				],
-				[
-					21.428571428571445,
-					37.142857142857224
-				],
-				[
-					24.285714285714334,
-					35.71428571428578
-				],
-				[
-					27.142857142857224,
-					32.85714285714289
-				],
-				[
-					28.57142857142867,
-					32.85714285714289
-				],
-				[
-					28.57142857142867,
-					32.85714285714289
-				]
-			],
-			"pressures": [
-				0.05078125,
-				0.115234375,
-				0.162109375,
-				0.17578125,
-				0.181640625,
-				0.181640625,
-				0.1796875,
-				0.189453125,
-				0.1953125,
-				0.201171875,
-				0.201171875,
-				0.2041015625,
-				0.2060546875,
-				0.203125,
-				0.2080078125,
-				0.20703125,
-				0.2041015625,
-				0.2080078125,
-				0.2041015625,
-				0.1982421875,
-				0.203125,
-				0.2080078125,
-				0.20703125,
-				0.201171875,
-				0.203125,
-				0.20703125,
-				0.2041015625,
-				0.2060546875,
-				0.203125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				28.57142857142867,
-				32.85714285714289
-			]
-		},
-		{
-			"id": "MJYmizyoFmqPaYJMCtnMl",
-			"type": "freedraw",
-			"x": -659.5357142857147,
-			"y": 131.42857142857167,
-			"width": 30,
-			"height": 65.7142857142859,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2142763404,
-			"version": 41,
-			"versionNonce": 588057484,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126435748,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					5.714285714285779
-				],
-				[
-					0,
-					8.571428571428555
-				],
-				[
-					2.857142857142776,
-					11.428571428571445
-				],
-				[
-					5.714285714285666,
-					14.285714285714334
-				],
-				[
-					8.571428571428555,
-					15.71428571428578
-				],
-				[
-					11.428571428571445,
-					17.142857142857224
-				],
-				[
-					14.285714285714334,
-					17.142857142857224
-				],
-				[
-					15.714285714285666,
-					17.142857142857224
-				],
-				[
-					20,
-					15.71428571428578
-				],
-				[
-					21.428571428571445,
-					14.285714285714334
-				],
-				[
-					24.285714285714334,
-					12.85714285714289
-				],
-				[
-					25.71428571428578,
-					10
-				],
-				[
-					27.14285714285711,
-					5.714285714285779
-				],
-				[
-					27.14285714285711,
-					1.4285714285714448
-				],
-				[
-					27.14285714285711,
-					-1.4285714285714448
-				],
-				[
-					27.14285714285711,
-					-4.285714285714334
-				],
-				[
-					27.14285714285711,
-					-8.571428571428555
-				],
-				[
-					25.71428571428578,
-					-11.428571428571445
-				],
-				[
-					24.285714285714334,
-					-14.285714285714334
-				],
-				[
-					22.85714285714289,
-					-17.142857142857224
-				],
-				[
-					21.428571428571445,
-					-20
-				],
-				[
-					20,
-					-22.85714285714289
-				],
-				[
-					18.571428571428555,
-					-25.71428571428578
-				],
-				[
-					17.14285714285711,
-					-28.57142857142867
-				],
-				[
-					15.714285714285666,
-					-31.428571428571445
-				],
-				[
-					14.285714285714334,
-					-34.285714285714334
-				],
-				[
-					12.85714285714289,
-					-35.71428571428578
-				],
-				[
-					12.85714285714289,
-					-37.142857142857224
-				],
-				[
-					12.85714285714289,
-					-38.57142857142867
-				],
-				[
-					14.285714285714334,
-					-41.428571428571445
-				],
-				[
-					17.14285714285711,
-					-42.85714285714289
-				],
-				[
-					18.571428571428555,
-					-44.285714285714334
-				],
-				[
-					24.285714285714334,
-					-47.142857142857224
-				],
-				[
-					25.71428571428578,
-					-48.57142857142867
-				],
-				[
-					28.571428571428555,
-					-48.57142857142867
-				],
-				[
-					30,
-					-48.57142857142867
-				],
-				[
-					30,
-					-48.57142857142867
-				]
-			],
-			"pressures": [
-				0.02734375,
-				0.0634765625,
-				0.076171875,
-				0.095703125,
-				0.1015625,
-				0.123046875,
-				0.1357421875,
-				0.1494140625,
-				0.15625,
-				0.1611328125,
-				0.1669921875,
-				0.171875,
-				0.1796875,
-				0.1923828125,
-				0.1953125,
-				0.197265625,
-				0.2021484375,
-				0.203125,
-				0.2080078125,
-				0.203125,
-				0.2041015625,
-				0.2021484375,
-				0.2021484375,
-				0.2080078125,
-				0.203125,
-				0.2080078125,
-				0.20703125,
-				0.2099609375,
-				0.2109375,
-				0.2109375,
-				0.216796875,
-				0.21484375,
-				0.21484375,
-				0.2080078125,
-				0.208984375,
-				0.2119140625,
-				0.1328125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				30,
-				-48.57142857142867
-			]
-		},
-		{
-			"id": "7z_HU79satsECl6DSMrGt",
-			"type": "freedraw",
-			"x": -636.6785714285718,
-			"y": 117.14285714285734,
-			"width": 25.71428571428578,
-			"height": 5.714285714285666,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 657549748,
-			"version": 14,
-			"versionNonce": 683950900,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126435748,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4285714285714448,
-					0
-				],
-				[
-					2.8571428571428896,
-					0
-				],
-				[
-					7.14285714285711,
-					-1.4285714285714448
-				],
-				[
-					10,
-					-1.4285714285714448
-				],
-				[
-					14.285714285714334,
-					-2.8571428571428896
-				],
-				[
-					20,
-					-4.285714285714221
-				],
-				[
-					22.85714285714289,
-					-4.285714285714221
-				],
-				[
-					24.285714285714334,
-					-5.714285714285666
-				],
-				[
-					25.71428571428578,
-					-5.714285714285666
-				],
-				[
-					25.71428571428578,
-					-5.714285714285666
-				]
-			],
-			"pressures": [
-				0.0302734375,
-				0.056640625,
-				0.0908203125,
-				0.1201171875,
-				0.1396484375,
-				0.15234375,
-				0.173828125,
-				0.181640625,
-				0.1865234375,
-				0.1875,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				25.71428571428578,
-				-5.714285714285666
-			]
-		},
-		{
-			"id": "ZCskIkrV5UuIcnJVHWVeS",
-			"type": "freedraw",
-			"x": -656.6785714285719,
-			"y": 154.28571428571456,
-			"width": 8.571428571428555,
-			"height": 10.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 639302284,
-			"version": 35,
-			"versionNonce": 700303156,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1.4285714285714448
-				],
-				[
-					-1.4285714285713311,
-					2.8571428571428896
-				],
-				[
-					0,
-					2.8571428571428896
-				],
-				[
-					1.4285714285714448,
-					2.8571428571428896
-				],
-				[
-					1.4285714285714448,
-					1.4285714285714448
-				],
-				[
-					2.8571428571428896,
-					1.4285714285714448
-				],
-				[
-					2.8571428571428896,
-					0
-				],
-				[
-					2.8571428571428896,
-					-1.4285714285714448
-				],
-				[
-					1.4285714285714448,
-					-2.8571428571428896
-				],
-				[
-					0,
-					-4.285714285714334
-				],
-				[
-					-1.4285714285713311,
-					-4.285714285714334
-				],
-				[
-					-4.285714285714221,
-					-2.8571428571428896
-				],
-				[
-					-4.285714285714221,
-					-1.4285714285714448
-				],
-				[
-					-4.285714285714221,
-					0
-				],
-				[
-					-4.285714285714221,
-					2.8571428571428896
-				],
-				[
-					-2.857142857142776,
-					4.285714285714334
-				],
-				[
-					-1.4285714285713311,
-					5.714285714285779
-				],
-				[
-					0,
-					5.714285714285779
-				],
-				[
-					1.4285714285714448,
-					4.285714285714334
-				],
-				[
-					2.8571428571428896,
-					1.4285714285714448
-				],
-				[
-					1.4285714285714448,
-					-1.4285714285714448
-				],
-				[
-					-1.4285714285713311,
-					-1.4285714285714448
-				],
-				[
-					-2.857142857142776,
-					-1.4285714285714448
-				],
-				[
-					-4.285714285714221,
-					0
-				],
-				[
-					-5.714285714285666,
-					1.4285714285714448
-				],
-				[
-					-5.714285714285666,
-					2.8571428571428896
-				],
-				[
-					-4.285714285714221,
-					4.285714285714334
-				],
-				[
-					-1.4285714285713311,
-					4.285714285714334
-				],
-				[
-					0,
-					5.714285714285779
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0.0263671875,
-				0.0439453125,
-				0.0595703125,
-				0.08984375,
-				0.13671875,
-				0.1396484375,
-				0.15625,
-				0.16015625,
-				0.1767578125,
-				0.1884765625,
-				0.193359375,
-				0.197265625,
-				0.203125,
-				0.2080078125,
-				0.21484375,
-				0.2197265625,
-				0.216796875,
-				0.2099609375,
-				0.2109375,
-				0.2119140625,
-				0.21484375,
-				0.2177734375,
-				0.216796875,
-				0.2177734375,
-				0.2158203125,
-				0.2177734375,
-				0.220703125,
-				0.220703125,
-				0.1904296875,
-				0.09375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				5.714285714285779
-			]
-		},
-		{
-			"id": "S2elyvEzZJU6-ViUWu7aX",
-			"type": "freedraw",
-			"x": -629.5357142857147,
-			"y": 121.42857142857167,
-			"width": 34.285714285714334,
-			"height": 48.57142857142867,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 115858484,
-			"version": 28,
-			"versionNonce": 793540108,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4285714285714448,
-					0
-				],
-				[
-					1.4285714285714448,
-					1.4285714285714448
-				],
-				[
-					1.4285714285714448,
-					2.8571428571428896
-				],
-				[
-					0,
-					7.14285714285711
-				],
-				[
-					-1.4285714285714448,
-					11.428571428571445
-				],
-				[
-					-5.714285714285666,
-					18.571428571428555
-				],
-				[
-					-7.14285714285711,
-					22.85714285714289
-				],
-				[
-					-8.571428571428555,
-					27.142857142857224
-				],
-				[
-					-10,
-					31.428571428571445
-				],
-				[
-					-10,
-					35.71428571428578
-				],
-				[
-					-11.428571428571445,
-					40
-				],
-				[
-					-12.85714285714289,
-					44.285714285714334
-				],
-				[
-					-12.85714285714289,
-					45.71428571428578
-				],
-				[
-					-12.85714285714289,
-					47.142857142857224
-				],
-				[
-					-11.428571428571445,
-					47.142857142857224
-				],
-				[
-					-7.14285714285711,
-					48.57142857142867
-				],
-				[
-					-4.285714285714221,
-					48.57142857142867
-				],
-				[
-					1.4285714285714448,
-					48.57142857142867
-				],
-				[
-					7.142857142857224,
-					47.142857142857224
-				],
-				[
-					11.428571428571445,
-					45.71428571428578
-				],
-				[
-					17.142857142857224,
-					44.285714285714334
-				],
-				[
-					20,
-					42.85714285714289
-				],
-				[
-					21.428571428571445,
-					41.428571428571445
-				],
-				[
-					21.428571428571445,
-					41.428571428571445
-				]
-			],
-			"pressures": [
-				0.033203125,
-				0.0771484375,
-				0.1416015625,
-				0.16796875,
-				0.18359375,
-				0.19140625,
-				0.197265625,
-				0.193359375,
-				0.197265625,
-				0.1923828125,
-				0.2021484375,
-				0.20703125,
-				0.212890625,
-				0.2158203125,
-				0.2177734375,
-				0.2197265625,
-				0.220703125,
-				0.2255859375,
-				0.2333984375,
-				0.240234375,
-				0.2451171875,
-				0.2431640625,
-				0.2333984375,
-				0.185546875,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				21.428571428571445,
-				41.428571428571445
-			]
-		},
-		{
-			"id": "R-uzCuK-knzJJDTdNOYLV",
-			"type": "freedraw",
-			"x": -615.2500000000003,
-			"y": 97.14285714285734,
-			"width": 15.71428571428578,
-			"height": 24.285714285714334,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 41273268,
-			"version": 26,
-			"versionNonce": 308723892,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.4285714285714448
-				],
-				[
-					1.4285714285714448,
-					-1.4285714285714448
-				],
-				[
-					4.285714285714334,
-					-2.8571428571428896
-				],
-				[
-					7.14285714285711,
-					-2.8571428571428896
-				],
-				[
-					8.571428571428555,
-					-2.8571428571428896
-				],
-				[
-					10,
-					-2.8571428571428896
-				],
-				[
-					10,
-					-1.4285714285714448
-				],
-				[
-					11.428571428571445,
-					0
-				],
-				[
-					10,
-					2.8571428571428896
-				],
-				[
-					7.14285714285711,
-					7.14285714285711
-				],
-				[
-					5.714285714285666,
-					8.571428571428555
-				],
-				[
-					2.8571428571428896,
-					11.428571428571445
-				],
-				[
-					1.4285714285714448,
-					12.85714285714289
-				],
-				[
-					0,
-					15.71428571428578
-				],
-				[
-					-1.4285714285714448,
-					17.14285714285711
-				],
-				[
-					-1.4285714285714448,
-					18.571428571428555
-				],
-				[
-					-1.4285714285714448,
-					20
-				],
-				[
-					2.8571428571428896,
-					21.428571428571445
-				],
-				[
-					5.714285714285666,
-					21.428571428571445
-				],
-				[
-					11.428571428571445,
-					21.428571428571445
-				],
-				[
-					14.285714285714334,
-					20
-				],
-				[
-					14.285714285714334,
-					20
-				]
-			],
-			"pressures": [
-				0.029296875,
-				0.0947265625,
-				0.1298828125,
-				0.158203125,
-				0.1884765625,
-				0.19921875,
-				0.216796875,
-				0.2216796875,
-				0.228515625,
-				0.2294921875,
-				0.228515625,
-				0.2294921875,
-				0.234375,
-				0.224609375,
-				0.2236328125,
-				0.2236328125,
-				0.224609375,
-				0.2314453125,
-				0.234375,
-				0.2353515625,
-				0.232421875,
-				0.2109375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14.285714285714334,
-				20
-			]
-		},
-		{
-			"id": "WtT9qSR7mZb1I6PldC9eO",
-			"type": "freedraw",
-			"x": -642.3928571428576,
-			"y": 175.714285714286,
-			"width": 60.000000000000114,
-			"height": 7.14285714285711,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1457150388,
-			"version": 15,
-			"versionNonce": 1021957260,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4.285714285714334,
-					1.4285714285714448
-				],
-				[
-					8.571428571428669,
-					1.4285714285714448
-				],
-				[
-					14.285714285714334,
-					1.4285714285714448
-				],
-				[
-					27.142857142857224,
-					0
-				],
-				[
-					32.85714285714289,
-					-1.4285714285714448
-				],
-				[
-					41.42857142857156,
-					-2.8571428571428896
-				],
-				[
-					48.57142857142867,
-					-4.285714285714221
-				],
-				[
-					54.28571428571445,
-					-5.714285714285666
-				],
-				[
-					57.142857142857224,
-					-5.714285714285666
-				],
-				[
-					60.000000000000114,
-					-4.285714285714221
-				],
-				[
-					60.000000000000114,
-					-4.285714285714221
-				]
-			],
-			"pressures": [
-				0.0478515625,
-				0.201171875,
-				0.220703125,
-				0.236328125,
-				0.25,
-				0.2548828125,
-				0.259765625,
-				0.26171875,
-				0.255859375,
-				0.2421875,
-				0.1767578125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				60.000000000000114,
-				-4.285714285714221
-			]
-		},
-		{
-			"id": "0fkVt9m8NsDJGnFqskMkr",
-			"type": "freedraw",
-			"x": -595.2500000000003,
-			"y": 191.4285714285718,
-			"width": 44.285714285714334,
-			"height": 34.285714285714334,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2030383756,
-			"version": 34,
-			"versionNonce": 1052019252,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.4285714285714448,
-					2.8571428571428896
-				],
-				[
-					-2.8571428571428896,
-					5.714285714285666
-				],
-				[
-					-4.285714285714221,
-					10
-				],
-				[
-					-8.571428571428555,
-					14.285714285714334
-				],
-				[
-					-12.85714285714289,
-					20
-				],
-				[
-					-18.571428571428555,
-					24.285714285714334
-				],
-				[
-					-22.85714285714289,
-					27.14285714285711
-				],
-				[
-					-25.71428571428578,
-					28.571428571428555
-				],
-				[
-					-28.571428571428555,
-					28.571428571428555
-				],
-				[
-					-34.285714285714334,
-					27.14285714285711
-				],
-				[
-					-35.71428571428578,
-					25.71428571428578
-				],
-				[
-					-38.571428571428555,
-					24.285714285714334
-				],
-				[
-					-40,
-					22.85714285714289
-				],
-				[
-					-40,
-					20
-				],
-				[
-					-40,
-					18.571428571428555
-				],
-				[
-					-40,
-					14.285714285714334
-				],
-				[
-					-37.142857142857224,
-					11.428571428571445
-				],
-				[
-					-35.71428571428578,
-					8.571428571428555
-				],
-				[
-					-34.285714285714334,
-					7.14285714285711
-				],
-				[
-					-31.428571428571445,
-					7.14285714285711
-				],
-				[
-					-28.571428571428555,
-					10
-				],
-				[
-					-24.285714285714334,
-					12.85714285714289
-				],
-				[
-					-21.428571428571445,
-					17.14285714285711
-				],
-				[
-					-15.714285714285666,
-					21.428571428571445
-				],
-				[
-					-11.428571428571445,
-					25.71428571428578
-				],
-				[
-					-5.714285714285666,
-					28.571428571428555
-				],
-				[
-					-1.4285714285714448,
-					31.428571428571445
-				],
-				[
-					2.8571428571428896,
-					34.285714285714334
-				],
-				[
-					4.285714285714334,
-					34.285714285714334
-				],
-				[
-					4.285714285714334,
-					34.285714285714334
-				]
-			],
-			"pressures": [
-				0.064453125,
-				0.095703125,
-				0.12890625,
-				0.1650390625,
-				0.1943359375,
-				0.212890625,
-				0.224609375,
-				0.236328125,
-				0.2412109375,
-				0.2392578125,
-				0.244140625,
-				0.244140625,
-				0.236328125,
-				0.2333984375,
-				0.2275390625,
-				0.2255859375,
-				0.21484375,
-				0.2119140625,
-				0.20703125,
-				0.201171875,
-				0.2021484375,
-				0.2099609375,
-				0.2158203125,
-				0.21484375,
-				0.21875,
-				0.224609375,
-				0.228515625,
-				0.220703125,
-				0.1904296875,
-				0.107421875,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4.285714285714334,
-				34.285714285714334
-			]
-		},
-		{
-			"id": "QFu3yuKa82ZLs5FV_UiKA",
-			"type": "freedraw",
-			"x": -532.3928571428573,
-			"y": 130.00000000000023,
-			"width": 20,
-			"height": 1.4285714285714448,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 84449932,
-			"version": 11,
-			"versionNonce": 475489036,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.8571428571428896,
-					0
-				],
-				[
-					5.714285714285666,
-					0
-				],
-				[
-					8.571428571428555,
-					0
-				],
-				[
-					12.85714285714289,
-					0
-				],
-				[
-					17.14285714285711,
-					0
-				],
-				[
-					20,
-					1.4285714285714448
-				],
-				[
-					20,
-					1.4285714285714448
-				]
-			],
-			"pressures": [
-				0.0361328125,
-				0.201171875,
-				0.232421875,
-				0.2470703125,
-				0.26171875,
-				0.263671875,
-				0.228515625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20,
-				1.4285714285714448
-			]
-		},
-		{
-			"id": "cju-GSAwKKbmF1qgAsgaQ",
-			"type": "freedraw",
-			"x": -532.3928571428573,
-			"y": 138.57142857142878,
-			"width": 17.14285714285711,
-			"height": 1.4285714285714448,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 730819124,
-			"version": 12,
-			"versionNonce": 26026932,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4285714285714448,
-					0
-				],
-				[
-					2.8571428571428896,
-					0
-				],
-				[
-					5.714285714285666,
-					1.4285714285714448
-				],
-				[
-					10,
-					1.4285714285714448
-				],
-				[
-					12.85714285714289,
-					1.4285714285714448
-				],
-				[
-					15.714285714285666,
-					1.4285714285714448
-				],
-				[
-					17.14285714285711,
-					1.4285714285714448
-				],
-				[
-					17.14285714285711,
-					1.4285714285714448
-				]
-			],
-			"pressures": [
-				0.0458984375,
-				0.099609375,
-				0.1572265625,
-				0.1826171875,
-				0.1943359375,
-				0.1962890625,
-				0.197265625,
-				0.173828125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				17.14285714285711,
-				1.4285714285714448
-			]
-		},
-		{
-			"id": "aTzXa5e6iI8A79h_EEuKF",
-			"type": "freedraw",
-			"x": -469.53571428571445,
-			"y": 142.85714285714312,
-			"width": 32.85714285714289,
-			"height": 31.42857142857156,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 170035636,
-			"version": 50,
-			"versionNonce": 68100492,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.4285714285713311,
-					-1.4285714285714448
-				],
-				[
-					-1.4285714285713311,
-					-2.8571428571428896
-				],
-				[
-					-1.4285714285713311,
-					-5.714285714285666
-				],
-				[
-					-1.4285714285713311,
-					-10
-				],
-				[
-					0,
-					-14.285714285714334
-				],
-				[
-					0,
-					-18.571428571428555
-				],
-				[
-					1.4285714285714448,
-					-22.85714285714289
-				],
-				[
-					2.8571428571428896,
-					-24.285714285714334
-				],
-				[
-					2.8571428571428896,
-					-25.71428571428578
-				],
-				[
-					4.285714285714334,
-					-25.71428571428578
-				],
-				[
-					5.714285714285779,
-					-25.71428571428578
-				],
-				[
-					10.000000000000114,
-					-25.71428571428578
-				],
-				[
-					12.85714285714289,
-					-22.85714285714289
-				],
-				[
-					15.71428571428578,
-					-18.571428571428555
-				],
-				[
-					17.142857142857224,
-					-15.71428571428578
-				],
-				[
-					17.142857142857224,
-					-11.428571428571445
-				],
-				[
-					17.142857142857224,
-					-8.571428571428555
-				],
-				[
-					17.142857142857224,
-					-4.285714285714334
-				],
-				[
-					15.71428571428578,
-					-2.8571428571428896
-				],
-				[
-					15.71428571428578,
-					-1.4285714285714448
-				],
-				[
-					15.71428571428578,
-					0
-				],
-				[
-					14.285714285714334,
-					0
-				],
-				[
-					12.85714285714289,
-					1.4285714285714448
-				],
-				[
-					11.428571428571445,
-					0
-				],
-				[
-					11.428571428571445,
-					-2.8571428571428896
-				],
-				[
-					11.428571428571445,
-					-5.714285714285666
-				],
-				[
-					11.428571428571445,
-					-11.428571428571445
-				],
-				[
-					12.85714285714289,
-					-14.285714285714334
-				],
-				[
-					14.285714285714334,
-					-17.142857142857224
-				],
-				[
-					15.71428571428578,
-					-20
-				],
-				[
-					17.142857142857224,
-					-20
-				],
-				[
-					18.57142857142867,
-					-21.428571428571445
-				],
-				[
-					21.42857142857156,
-					-22.85714285714289
-				],
-				[
-					22.85714285714289,
-					-22.85714285714289
-				],
-				[
-					25.71428571428578,
-					-21.428571428571445
-				],
-				[
-					28.57142857142867,
-					-18.571428571428555
-				],
-				[
-					30.000000000000114,
-					-15.71428571428578
-				],
-				[
-					31.42857142857156,
-					-10
-				],
-				[
-					31.42857142857156,
-					-7.14285714285711
-				],
-				[
-					31.42857142857156,
-					-4.285714285714334
-				],
-				[
-					31.42857142857156,
-					-1.4285714285714448
-				],
-				[
-					31.42857142857156,
-					0
-				],
-				[
-					31.42857142857156,
-					2.8571428571428896
-				],
-				[
-					31.42857142857156,
-					4.285714285714334
-				],
-				[
-					30.000000000000114,
-					5.714285714285779
-				],
-				[
-					30.000000000000114,
-					5.714285714285779
-				]
-			],
-			"pressures": [
-				0.04296875,
-				0.1064453125,
-				0.11328125,
-				0.150390625,
-				0.1826171875,
-				0.19921875,
-				0.2060546875,
-				0.203125,
-				0.20703125,
-				0.2099609375,
-				0.2119140625,
-				0.2080078125,
-				0.2138671875,
-				0.2119140625,
-				0.2158203125,
-				0.2119140625,
-				0.2177734375,
-				0.2177734375,
-				0.2099609375,
-				0.20703125,
-				0.20703125,
-				0.20703125,
-				0.2119140625,
-				0.2138671875,
-				0.208984375,
-				0.1982421875,
-				0.205078125,
-				0.203125,
-				0.2060546875,
-				0.2109375,
-				0.2080078125,
-				0.20703125,
-				0.1982421875,
-				0.2060546875,
-				0.2109375,
-				0.208984375,
-				0.2109375,
-				0.216796875,
-				0.2236328125,
-				0.2177734375,
-				0.21484375,
-				0.21484375,
-				0.2119140625,
-				0.2080078125,
-				0.181640625,
-				0.0615234375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				30.000000000000114,
-				5.714285714285779
-			]
-		},
-		{
-			"id": "H7k6f6i_Xn8uPMcmpPSqQ",
-			"type": "freedraw",
-			"x": -410.9642857142858,
-			"y": 138.57142857142878,
-			"width": 2.857142857142776,
-			"height": 2.8571428571428896,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1874505140,
-			"version": 12,
-			"versionNonce": 1558959500,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126589995,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.4285714285714448,
-					0
-				],
-				[
-					-2.857142857142776,
-					0
-				],
-				[
-					-2.857142857142776,
-					1.4285714285714448
-				],
-				[
-					-2.857142857142776,
-					2.8571428571428896
-				],
-				[
-					-1.4285714285714448,
-					2.8571428571428896
-				],
-				[
-					-2.857142857142776,
-					2.8571428571428896
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0.033203125,
-				0.0693359375,
-				0.1416015625,
-				0.15234375,
-				0.1884765625,
-				0.2353515625,
-				0.1484375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-2.857142857142776,
-				2.8571428571428896
-			]
-		},
-		{
-			"id": "uv-hS-qdV1JtoarGNHVtM",
-			"type": "freedraw",
-			"x": -388.1071428571429,
-			"y": 120.00000000000023,
-			"width": 2.8571428571428896,
-			"height": 28.57142857142867,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 693345588,
-			"version": 14,
-			"versionNonce": 1628867892,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4285714285714448,
-					0
-				],
-				[
-					1.4285714285714448,
-					1.4285714285714448
-				],
-				[
-					1.4285714285714448,
-					2.8571428571428896
-				],
-				[
-					2.8571428571428896,
-					7.14285714285711
-				],
-				[
-					1.4285714285714448,
-					12.85714285714289
-				],
-				[
-					0,
-					17.142857142857224
-				],
-				[
-					0,
-					22.85714285714289
-				],
-				[
-					0,
-					25.71428571428578
-				],
-				[
-					0,
-					28.57142857142867
-				],
-				[
-					0,
-					28.57142857142867
-				]
-			],
-			"pressures": [
-				0.056640625,
-				0.10546875,
-				0.1630859375,
-				0.169921875,
-				0.2001953125,
-				0.2197265625,
-				0.2314453125,
-				0.2412109375,
-				0.244140625,
-				0.19140625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				28.57142857142867
-			]
-		},
-		{
-			"id": "cpp4XI_Ij0-wgEQQhPLZz",
-			"type": "freedraw",
-			"x": -376.67857142857144,
-			"y": 122.85714285714312,
-			"width": 2.857142857142776,
-			"height": 28.571428571428555,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 97592884,
-			"version": 15,
-			"versionNonce": 1263210508,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4285714285714448,
-					1.4285714285714448
-				],
-				[
-					1.4285714285714448,
-					5.714285714285666
-				],
-				[
-					1.4285714285714448,
-					8.571428571428555
-				],
-				[
-					1.4285714285714448,
-					14.285714285714334
-				],
-				[
-					0,
-					18.571428571428555
-				],
-				[
-					0,
-					21.428571428571445
-				],
-				[
-					0,
-					22.85714285714289
-				],
-				[
-					0,
-					25.71428571428578
-				],
-				[
-					0,
-					28.571428571428555
-				],
-				[
-					-1.4285714285713311,
-					28.571428571428555
-				],
-				[
-					-1.4285714285713311,
-					28.571428571428555
-				]
-			],
-			"pressures": [
-				0.0546875,
-				0.11328125,
-				0.1943359375,
-				0.2265625,
-				0.2431640625,
-				0.255859375,
-				0.263671875,
-				0.259765625,
-				0.2255859375,
-				0.1689453125,
-				0.109375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-1.4285714285713311,
-				28.571428571428555
-			]
-		},
-		{
-			"id": "aeXyt0KFwP9e9dEQsQMsD",
-			"type": "freedraw",
-			"x": -395.25,
-			"y": 121.42857142857167,
-			"width": 34.285714285714334,
-			"height": 4.285714285714221,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2014105100,
-			"version": 14,
-			"versionNonce": 783730356,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.8571428571428896,
-					0
-				],
-				[
-					8.571428571428555,
-					1.4285714285714448
-				],
-				[
-					14.285714285714334,
-					1.4285714285714448
-				],
-				[
-					20,
-					2.8571428571428896
-				],
-				[
-					25.71428571428578,
-					2.8571428571428896
-				],
-				[
-					28.57142857142867,
-					2.8571428571428896
-				],
-				[
-					31.428571428571445,
-					4.285714285714221
-				],
-				[
-					32.85714285714289,
-					4.285714285714221
-				],
-				[
-					34.285714285714334,
-					4.285714285714221
-				],
-				[
-					34.285714285714334,
-					4.285714285714221
-				]
-			],
-			"pressures": [
-				0.0625,
-				0.1552734375,
-				0.1865234375,
-				0.20703125,
-				0.22265625,
-				0.2294921875,
-				0.234375,
-				0.2333984375,
-				0.224609375,
-				0.11328125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				34.285714285714334,
-				4.285714285714221
-			]
-		},
-		{
-			"id": "_CEdyHM4ouDbTXigaWI9I",
-			"type": "freedraw",
-			"x": -465.2500000000001,
-			"y": 170.00000000000034,
-			"width": 112.857142857143,
-			"height": 7.142857142857224,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 731239692,
-			"version": 25,
-			"versionNonce": 1376071308,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					7.14285714285711,
-					-2.8571428571428896
-				],
-				[
-					8.571428571428555,
-					-2.8571428571428896
-				],
-				[
-					12.85714285714289,
-					-4.285714285714334
-				],
-				[
-					20,
-					-4.285714285714334
-				],
-				[
-					27.142857142857224,
-					-5.714285714285779
-				],
-				[
-					32.85714285714289,
-					-5.714285714285779
-				],
-				[
-					41.428571428571445,
-					-5.714285714285779
-				],
-				[
-					50.000000000000114,
-					-4.285714285714334
-				],
-				[
-					61.42857142857156,
-					-2.8571428571428896
-				],
-				[
-					67.14285714285722,
-					-2.8571428571428896
-				],
-				[
-					75.71428571428578,
-					-2.8571428571428896
-				],
-				[
-					82.857142857143,
-					-1.4285714285714448
-				],
-				[
-					90.00000000000011,
-					-1.4285714285714448
-				],
-				[
-					95.7142857142859,
-					0
-				],
-				[
-					101.42857142857156,
-					1.4285714285714448
-				],
-				[
-					104.28571428571445,
-					1.4285714285714448
-				],
-				[
-					108.57142857142878,
-					1.4285714285714448
-				],
-				[
-					110.00000000000023,
-					1.4285714285714448
-				],
-				[
-					111.42857142857156,
-					1.4285714285714448
-				],
-				[
-					112.857142857143,
-					1.4285714285714448
-				],
-				[
-					112.857142857143,
-					1.4285714285714448
-				]
-			],
-			"pressures": [
-				0.0654296875,
-				0.109375,
-				0.1181640625,
-				0.1396484375,
-				0.1689453125,
-				0.193359375,
-				0.205078125,
-				0.21875,
-				0.2236328125,
-				0.23046875,
-				0.236328125,
-				0.2392578125,
-				0.2431640625,
-				0.244140625,
-				0.23828125,
-				0.236328125,
-				0.240234375,
-				0.234375,
-				0.234375,
-				0.220703125,
-				0.103515625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				112.857142857143,
-				1.4285714285714448
-			]
-		},
-		{
-			"id": "BQlVCRutrptgsEbIzHa74",
-			"type": "freedraw",
-			"x": -488.107142857143,
-			"y": 217.14285714285757,
-			"width": 35.71428571428578,
-			"height": 37.142857142857224,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 798738996,
-			"version": 33,
-			"versionNonce": 521392180,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4.285714285714334,
-					0
-				],
-				[
-					5.714285714285666,
-					-1.4285714285714448
-				],
-				[
-					8.571428571428555,
-					-2.8571428571428896
-				],
-				[
-					12.85714285714289,
-					-7.142857142857224
-				],
-				[
-					14.285714285714334,
-					-10.000000000000114
-				],
-				[
-					17.142857142857224,
-					-14.285714285714334
-				],
-				[
-					18.571428571428555,
-					-17.142857142857224
-				],
-				[
-					18.571428571428555,
-					-18.57142857142867
-				],
-				[
-					20,
-					-20.000000000000114
-				],
-				[
-					20,
-					-17.142857142857224
-				],
-				[
-					21.428571428571445,
-					-12.85714285714289
-				],
-				[
-					21.428571428571445,
-					-7.142857142857224
-				],
-				[
-					21.428571428571445,
-					-2.8571428571428896
-				],
-				[
-					20,
-					2.857142857142776
-				],
-				[
-					18.571428571428555,
-					7.14285714285711
-				],
-				[
-					17.142857142857224,
-					11.428571428571445
-				],
-				[
-					14.285714285714334,
-					12.85714285714289
-				],
-				[
-					11.428571428571445,
-					15.714285714285666
-				],
-				[
-					10,
-					15.714285714285666
-				],
-				[
-					8.571428571428555,
-					15.714285714285666
-				],
-				[
-					8.571428571428555,
-					17.14285714285711
-				],
-				[
-					11.428571428571445,
-					17.14285714285711
-				],
-				[
-					14.285714285714334,
-					17.14285714285711
-				],
-				[
-					21.428571428571445,
-					15.714285714285666
-				],
-				[
-					27.142857142857224,
-					14.28571428571422
-				],
-				[
-					31.428571428571445,
-					11.428571428571445
-				],
-				[
-					34.285714285714334,
-					10
-				],
-				[
-					35.71428571428578,
-					8.571428571428555
-				],
-				[
-					35.71428571428578,
-					8.571428571428555
-				]
-			],
-			"pressures": [
-				0.0322265625,
-				0.0830078125,
-				0.10546875,
-				0.134765625,
-				0.1650390625,
-				0.1767578125,
-				0.1884765625,
-				0.1875,
-				0.1923828125,
-				0.201171875,
-				0.2001953125,
-				0.203125,
-				0.2080078125,
-				0.203125,
-				0.2001953125,
-				0.1953125,
-				0.19140625,
-				0.1953125,
-				0.1962890625,
-				0.19921875,
-				0.2021484375,
-				0.201171875,
-				0.201171875,
-				0.2060546875,
-				0.21484375,
-				0.21875,
-				0.21875,
-				0.21484375,
-				0.07421875,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				35.71428571428578,
-				8.571428571428555
-			]
-		},
-		{
-			"id": "ioDf3W0KNbvvll1hDBH1f",
-			"type": "freedraw",
-			"x": -445.2500000000001,
-			"y": 212.85714285714323,
-			"width": 21.428571428571445,
-			"height": 25.71428571428578,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 867040396,
-			"version": 25,
-			"versionNonce": 1761049868,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-4.285714285714221,
-					2.8571428571428896
-				],
-				[
-					-5.714285714285666,
-					4.285714285714334
-				],
-				[
-					-7.14285714285711,
-					7.14285714285711
-				],
-				[
-					-8.571428571428555,
-					11.428571428571445
-				],
-				[
-					-8.571428571428555,
-					15.71428571428578
-				],
-				[
-					-7.14285714285711,
-					21.428571428571445
-				],
-				[
-					-4.285714285714221,
-					24.285714285714334
-				],
-				[
-					-2.857142857142776,
-					24.285714285714334
-				],
-				[
-					1.4285714285714448,
-					24.285714285714334
-				],
-				[
-					5.714285714285779,
-					20
-				],
-				[
-					8.571428571428669,
-					17.142857142857224
-				],
-				[
-					11.428571428571445,
-					12.85714285714289
-				],
-				[
-					11.428571428571445,
-					10
-				],
-				[
-					12.85714285714289,
-					7.14285714285711
-				],
-				[
-					10,
-					2.8571428571428896
-				],
-				[
-					7.142857142857224,
-					1.4285714285714448
-				],
-				[
-					1.4285714285714448,
-					-1.4285714285714448
-				],
-				[
-					-2.857142857142776,
-					-1.4285714285714448
-				],
-				[
-					-4.285714285714221,
-					-1.4285714285714448
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0.0576171875,
-				0.1328125,
-				0.1533203125,
-				0.177734375,
-				0.1904296875,
-				0.2109375,
-				0.216796875,
-				0.21875,
-				0.22265625,
-				0.228515625,
-				0.2255859375,
-				0.22265625,
-				0.2333984375,
-				0.2333984375,
-				0.232421875,
-				0.234375,
-				0.23046875,
-				0.2353515625,
-				0.23828125,
-				0.2333984375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-4.285714285714221,
-				-1.4285714285714448
-			]
-		},
-		{
-			"id": "UhHdWEhgML8JGHl67VCF-",
-			"type": "freedraw",
-			"x": -413.82142857142856,
-			"y": 228.571428571429,
-			"width": 11.428571428571445,
-			"height": 22.85714285714289,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2069310132,
-			"version": 18,
-			"versionNonce": 1645455796,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-2.8571428571428896
-				],
-				[
-					0,
-					-7.142857142857224
-				],
-				[
-					1.4285714285713311,
-					-10.000000000000114
-				],
-				[
-					1.4285714285713311,
-					-12.85714285714289
-				],
-				[
-					1.4285714285713311,
-					-15.71428571428578
-				],
-				[
-					1.4285714285713311,
-					-18.57142857142867
-				],
-				[
-					0,
-					-20.000000000000114
-				],
-				[
-					-2.8571428571428896,
-					-21.42857142857156
-				],
-				[
-					-4.285714285714334,
-					-21.42857142857156
-				],
-				[
-					-5.714285714285779,
-					-22.85714285714289
-				],
-				[
-					-7.142857142857224,
-					-22.85714285714289
-				],
-				[
-					-8.571428571428669,
-					-21.42857142857156
-				],
-				[
-					-10.000000000000114,
-					-21.42857142857156
-				],
-				[
-					-10.000000000000114,
-					-21.42857142857156
-				]
-			],
-			"pressures": [
-				0.0439453125,
-				0.0810546875,
-				0.12890625,
-				0.14453125,
-				0.1640625,
-				0.1943359375,
-				0.2177734375,
-				0.2275390625,
-				0.232421875,
-				0.2421875,
-				0.2529296875,
-				0.25390625,
-				0.1943359375,
-				0.0390625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-10.000000000000114,
-				-21.42857142857156
-			]
-		},
-		{
-			"id": "-Rza-PGC3TJVoUDvEXm51",
-			"type": "freedraw",
-			"x": -420.9642857142858,
-			"y": 218.5714285714289,
-			"width": 20,
-			"height": 2.8571428571428896,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 440022708,
-			"version": 11,
-			"versionNonce": 966523788,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4285714285714448,
-					1.4285714285714448
-				],
-				[
-					4.285714285714334,
-					1.4285714285714448
-				],
-				[
-					8.571428571428555,
-					1.4285714285714448
-				],
-				[
-					14.285714285714334,
-					1.4285714285714448
-				],
-				[
-					17.142857142857224,
-					1.4285714285714448
-				],
-				[
-					20,
-					2.8571428571428896
-				],
-				[
-					20,
-					2.8571428571428896
-				]
-			],
-			"pressures": [
-				0.0517578125,
-				0.0927734375,
-				0.1376953125,
-				0.1728515625,
-				0.2001953125,
-				0.2041015625,
-				0.0986328125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20,
-				2.8571428571428896
-			]
-		},
-		{
-			"id": "onRP6GgsnfmKsAkQgqYCi",
-			"type": "freedraw",
-			"x": -393.82142857142856,
-			"y": 217.14285714285757,
-			"width": 20.000000000000114,
-			"height": 28.571428571428555,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 872880268,
-			"version": 32,
-			"versionNonce": 987517748,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4285714285714448,
-					-2.8571428571428896
-				],
-				[
-					2.8571428571428896,
-					-2.8571428571428896
-				],
-				[
-					4.285714285714221,
-					-7.142857142857224
-				],
-				[
-					4.285714285714221,
-					-8.571428571428669
-				],
-				[
-					4.285714285714221,
-					-10.000000000000114
-				],
-				[
-					4.285714285714221,
-					-11.428571428571445
-				],
-				[
-					5.714285714285666,
-					-11.428571428571445
-				],
-				[
-					5.714285714285666,
-					-10.000000000000114
-				],
-				[
-					5.714285714285666,
-					-7.142857142857224
-				],
-				[
-					5.714285714285666,
-					-4.285714285714334
-				],
-				[
-					5.714285714285666,
-					0
-				],
-				[
-					5.714285714285666,
-					2.857142857142776
-				],
-				[
-					5.714285714285666,
-					7.14285714285711
-				],
-				[
-					5.714285714285666,
-					11.428571428571445
-				],
-				[
-					4.285714285714221,
-					14.28571428571422
-				],
-				[
-					2.8571428571428896,
-					15.714285714285666
-				],
-				[
-					1.4285714285714448,
-					17.14285714285711
-				],
-				[
-					0,
-					17.14285714285711
-				],
-				[
-					-2.8571428571428896,
-					15.714285714285666
-				],
-				[
-					-4.285714285714334,
-					15.714285714285666
-				],
-				[
-					-2.8571428571428896,
-					15.714285714285666
-				],
-				[
-					4.285714285714221,
-					14.28571428571422
-				],
-				[
-					7.14285714285711,
-					14.28571428571422
-				],
-				[
-					11.428571428571445,
-					12.85714285714289
-				],
-				[
-					14.285714285714334,
-					12.85714285714289
-				],
-				[
-					15.71428571428578,
-					12.85714285714289
-				],
-				[
-					15.71428571428578,
-					11.428571428571445
-				],
-				[
-					15.71428571428578,
-					11.428571428571445
-				]
-			],
-			"pressures": [
-				0.04296875,
-				0.0947265625,
-				0.107421875,
-				0.1455078125,
-				0.162109375,
-				0.181640625,
-				0.208984375,
-				0.2236328125,
-				0.228515625,
-				0.228515625,
-				0.234375,
-				0.23046875,
-				0.2353515625,
-				0.2421875,
-				0.236328125,
-				0.23828125,
-				0.23046875,
-				0.2314453125,
-				0.2333984375,
-				0.2333984375,
-				0.228515625,
-				0.2470703125,
-				0.267578125,
-				0.2724609375,
-				0.279296875,
-				0.2646484375,
-				0.2060546875,
-				0.1552734375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				15.71428571428578,
-				11.428571428571445
-			]
-		},
-		{
-			"id": "DM5csPn0bqxnkIx53oNu2",
-			"type": "freedraw",
-			"x": -369.5357142857142,
-			"y": 210.00000000000034,
-			"width": 17.142857142857224,
-			"height": 25.71428571428578,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 520528396,
-			"version": 27,
-			"versionNonce": 774679052,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1.4285714285714448
-				],
-				[
-					-1.4285714285714448,
-					4.285714285714334
-				],
-				[
-					-2.8571428571428896,
-					7.142857142857224
-				],
-				[
-					-4.285714285714334,
-					11.428571428571445
-				],
-				[
-					-4.285714285714334,
-					12.85714285714289
-				],
-				[
-					-2.8571428571428896,
-					15.71428571428578
-				],
-				[
-					-1.4285714285714448,
-					17.142857142857224
-				],
-				[
-					0,
-					17.142857142857224
-				],
-				[
-					4.285714285714221,
-					15.71428571428578
-				],
-				[
-					7.14285714285711,
-					12.85714285714289
-				],
-				[
-					8.571428571428555,
-					10
-				],
-				[
-					10,
-					5.714285714285779
-				],
-				[
-					11.428571428571445,
-					2.8571428571428896
-				],
-				[
-					12.85714285714289,
-					1.4285714285714448
-				],
-				[
-					12.85714285714289,
-					2.8571428571428896
-				],
-				[
-					12.85714285714289,
-					4.285714285714334
-				],
-				[
-					11.428571428571445,
-					10
-				],
-				[
-					10,
-					14.285714285714334
-				],
-				[
-					10,
-					18.57142857142867
-				],
-				[
-					10,
-					21.428571428571445
-				],
-				[
-					10,
-					24.285714285714334
-				],
-				[
-					10,
-					25.71428571428578
-				],
-				[
-					10,
-					25.71428571428578
-				]
-			],
-			"pressures": [
-				0.0283203125,
-				0.1162109375,
-				0.150390625,
-				0.1572265625,
-				0.1787109375,
-				0.193359375,
-				0.2001953125,
-				0.205078125,
-				0.2236328125,
-				0.23046875,
-				0.236328125,
-				0.23046875,
-				0.232421875,
-				0.23828125,
-				0.23828125,
-				0.2666015625,
-				0.271484375,
-				0.294921875,
-				0.2998046875,
-				0.3115234375,
-				0.3115234375,
-				0.2939453125,
-				0.240234375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				10,
-				25.71428571428578
-			]
-		},
-		{
-			"id": "Zp7K-OdlxK9fAbCwmg7N9",
-			"type": "freedraw",
-			"x": -293.82142857142844,
-			"y": 158.5714285714289,
-			"width": 7.14285714285711,
-			"height": 7.14285714285711,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1842243252,
-			"version": 22,
-			"versionNonce": 412031284,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126589995,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.4285714285713311,
-					0
-				],
-				[
-					-1.4285714285713311,
-					1.4285714285714448
-				],
-				[
-					0,
-					2.857142857142776
-				],
-				[
-					1.4285714285715585,
-					4.285714285714221
-				],
-				[
-					2.8571428571428896,
-					4.285714285714221
-				],
-				[
-					4.285714285714221,
-					2.857142857142776
-				],
-				[
-					5.714285714285779,
-					2.857142857142776
-				],
-				[
-					5.714285714285779,
-					1.4285714285714448
-				],
-				[
-					4.285714285714221,
-					0
-				],
-				[
-					2.8571428571428896,
-					0
-				],
-				[
-					1.4285714285715585,
-					1.4285714285714448
-				],
-				[
-					1.4285714285715585,
-					2.857142857142776
-				],
-				[
-					0,
-					4.285714285714221
-				],
-				[
-					0,
-					5.714285714285666
-				],
-				[
-					1.4285714285715585,
-					5.714285714285666
-				],
-				[
-					1.4285714285715585,
-					7.14285714285711
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0.037109375,
-				0.072265625,
-				0.1630859375,
-				0.1923828125,
-				0.2099609375,
-				0.212890625,
-				0.2265625,
-				0.2255859375,
-				0.228515625,
-				0.236328125,
-				0.23828125,
-				0.2333984375,
-				0.2333984375,
-				0.2294921875,
-				0.23046875,
-				0.2197265625,
-				0.1572265625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				1.4285714285715585,
-				7.14285714285711
-			]
-		},
-		{
-			"id": "jA3DUExXIh4anbFnhb1_z",
-			"type": "freedraw",
-			"x": -250.96428571428555,
-			"y": 151.42857142857167,
-			"width": 11.428571428571558,
-			"height": 50.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 559371700,
-			"version": 23,
-			"versionNonce": 399756468,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.4285714285714448
-				],
-				[
-					2.8571428571428896,
-					-5.714285714285666
-				],
-				[
-					5.714285714285779,
-					-10
-				],
-				[
-					7.14285714285711,
-					-14.28571428571422
-				],
-				[
-					10,
-					-18.571428571428555
-				],
-				[
-					11.428571428571558,
-					-22.85714285714289
-				],
-				[
-					11.428571428571558,
-					-24.285714285714334
-				],
-				[
-					10,
-					-22.85714285714289
-				],
-				[
-					10,
-					-17.14285714285711
-				],
-				[
-					8.571428571428669,
-					-11.428571428571445
-				],
-				[
-					8.571428571428669,
-					-5.714285714285666
-				],
-				[
-					8.571428571428669,
-					0
-				],
-				[
-					8.571428571428669,
-					5.714285714285779
-				],
-				[
-					8.571428571428669,
-					11.428571428571445
-				],
-				[
-					8.571428571428669,
-					17.142857142857224
-				],
-				[
-					8.571428571428669,
-					22.85714285714289
-				],
-				[
-					8.571428571428669,
-					25.71428571428578
-				],
-				[
-					7.14285714285711,
-					25.71428571428578
-				],
-				[
-					7.14285714285711,
-					25.71428571428578
-				]
-			],
-			"pressures": [
-				0.029296875,
-				0.087890625,
-				0.16796875,
-				0.189453125,
-				0.201171875,
-				0.21484375,
-				0.2177734375,
-				0.224609375,
-				0.2421875,
-				0.24609375,
-				0.2490234375,
-				0.251953125,
-				0.25,
-				0.2568359375,
-				0.2548828125,
-				0.244140625,
-				0.2431640625,
-				0.2177734375,
-				0.0595703125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.14285714285711,
-				25.71428571428578
-			]
-		},
-		{
-			"id": "sKFifMvldNl2DTxkozJU5",
-			"type": "freedraw",
-			"x": -266.67857142857133,
-			"y": 178.5714285714289,
-			"width": 60.00000000000023,
-			"height": 2.8571428571428896,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 771575948,
-			"version": 16,
-			"versionNonce": 1503889548,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4285714285715585,
-					0
-				],
-				[
-					2.8571428571428896,
-					0
-				],
-				[
-					10.000000000000227,
-					1.4285714285714448
-				],
-				[
-					18.57142857142867,
-					1.4285714285714448
-				],
-				[
-					27.142857142857338,
-					1.4285714285714448
-				],
-				[
-					34.28571428571445,
-					1.4285714285714448
-				],
-				[
-					41.42857142857156,
-					1.4285714285714448
-				],
-				[
-					48.57142857142867,
-					2.8571428571428896
-				],
-				[
-					54.28571428571445,
-					2.8571428571428896
-				],
-				[
-					58.57142857142867,
-					2.8571428571428896
-				],
-				[
-					60.00000000000023,
-					2.8571428571428896
-				],
-				[
-					60.00000000000023,
-					2.8571428571428896
-				]
-			],
-			"pressures": [
-				0.046875,
-				0.1162109375,
-				0.1279296875,
-				0.1767578125,
-				0.2099609375,
-				0.228515625,
-				0.2373046875,
-				0.240234375,
-				0.244140625,
-				0.2421875,
-				0.2177734375,
-				0.140625,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				60.00000000000023,
-				2.8571428571428896
-			]
-		},
-		{
-			"id": "alBeM7BlB4YsURFlIBJLK",
-			"type": "freedraw",
-			"x": -258.10714285714266,
-			"y": 197.14285714285745,
-			"width": 37.14285714285734,
-			"height": 51.42857142857156,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 994289164,
-			"version": 44,
-			"versionNonce": 715134516,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126588091,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.4285714285715585,
-					0
-				],
-				[
-					2.8571428571428896,
-					0
-				],
-				[
-					8.571428571428669,
-					0
-				],
-				[
-					15.71428571428578,
-					1.4285714285714448
-				],
-				[
-					21.42857142857156,
-					2.8571428571428896
-				],
-				[
-					25.71428571428578,
-					4.285714285714334
-				],
-				[
-					28.57142857142867,
-					5.714285714285779
-				],
-				[
-					30,
-					5.714285714285779
-				],
-				[
-					32.85714285714289,
-					7.142857142857224
-				],
-				[
-					34.28571428571445,
-					7.142857142857224
-				],
-				[
-					32.85714285714289,
-					7.142857142857224
-				],
-				[
-					31.42857142857156,
-					7.142857142857224
-				],
-				[
-					28.57142857142867,
-					8.571428571428669
-				],
-				[
-					24.285714285714448,
-					8.571428571428669
-				],
-				[
-					20,
-					10
-				],
-				[
-					15.71428571428578,
-					12.85714285714289
-				],
-				[
-					11.428571428571558,
-					15.71428571428578
-				],
-				[
-					7.14285714285711,
-					18.57142857142867
-				],
-				[
-					2.8571428571428896,
-					22.85714285714289
-				],
-				[
-					0,
-					27.142857142857224
-				],
-				[
-					-1.4285714285713311,
-					30.000000000000114
-				],
-				[
-					-2.8571428571428896,
-					37.142857142857224
-				],
-				[
-					-2.8571428571428896,
-					40.000000000000114
-				],
-				[
-					0,
-					45.71428571428578
-				],
-				[
-					4.285714285714221,
-					48.57142857142867
-				],
-				[
-					8.571428571428669,
-					51.42857142857156
-				],
-				[
-					12.85714285714289,
-					51.42857142857156
-				],
-				[
-					18.57142857142867,
-					50.000000000000114
-				],
-				[
-					22.85714285714289,
-					48.57142857142867
-				],
-				[
-					25.71428571428578,
-					47.142857142857224
-				],
-				[
-					27.14285714285711,
-					44.28571428571445
-				],
-				[
-					28.57142857142867,
-					41.42857142857156
-				],
-				[
-					28.57142857142867,
-					40.000000000000114
-				],
-				[
-					25.71428571428578,
-					37.142857142857224
-				],
-				[
-					22.85714285714289,
-					37.142857142857224
-				],
-				[
-					18.57142857142867,
-					37.142857142857224
-				],
-				[
-					15.71428571428578,
-					37.142857142857224
-				],
-				[
-					14.28571428571422,
-					38.57142857142867
-				],
-				[
-					14.28571428571422,
-					40.000000000000114
-				],
-				[
-					14.28571428571422,
-					40.000000000000114
-				]
-			],
-			"pressures": [
-				0.048828125,
-				0.1220703125,
-				0.166015625,
-				0.1953125,
-				0.2109375,
-				0.2255859375,
-				0.2314453125,
-				0.2373046875,
-				0.2373046875,
-				0.24609375,
-				0.2451171875,
-				0.244140625,
-				0.248046875,
-				0.255859375,
-				0.259765625,
-				0.263671875,
-				0.275390625,
-				0.283203125,
-				0.2861328125,
-				0.2861328125,
-				0.29296875,
-				0.29296875,
-				0.294921875,
-				0.296875,
-				0.3017578125,
-				0.2998046875,
-				0.3037109375,
-				0.3046875,
-				0.30859375,
-				0.3017578125,
-				0.3037109375,
-				0.298828125,
-				0.3037109375,
-				0.2998046875,
-				0.294921875,
-				0.2939453125,
-				0.2919921875,
-				0.287109375,
-				0.2607421875,
-				0.2138671875,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14.28571428571422,
-				40.000000000000114
-			]
-		},
-		{
-			"id": "Crky9hKhNb7vfG0o0y-VJ",
-			"type": "freedraw",
-			"x": -632.3928571428576,
-			"y": 162.85714285714323,
-			"width": 24.285714285714334,
-			"height": 30.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 984596916,
-			"version": 16,
-			"versionNonce": 71214132,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126643831,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.8571428571428896,
-					-2.8571428571428896
-				],
-				[
-					4.285714285714334,
-					-5.714285714285779
-				],
-				[
-					8.571428571428669,
-					-10.000000000000114
-				],
-				[
-					11.428571428571445,
-					-12.85714285714289
-				],
-				[
-					14.285714285714334,
-					-17.142857142857224
-				],
-				[
-					17.142857142857224,
-					-20.000000000000057
-				],
-				[
-					20.000000000000114,
-					-24.28571428571439
-				],
-				[
-					21.42857142857156,
-					-25.71428571428578
-				],
-				[
-					22.85714285714289,
-					-28.57142857142867
-				],
-				[
-					24.285714285714334,
-					-28.57142857142867
-				],
-				[
-					24.285714285714334,
-					-30.000000000000114
-				],
-				[
-					24.285714285714334,
-					-30.000000000000114
-				]
-			],
-			"pressures": [
-				0.0498046875,
-				0.1279296875,
-				0.1611328125,
-				0.193359375,
-				0.2060546875,
-				0.2197265625,
-				0.2294921875,
-				0.2412109375,
-				0.2353515625,
-				0.23828125,
-				0.23828125,
-				0.232421875,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.285714285714334,
-				-30.000000000000114
-			]
-		},
-		{
-			"id": "FJwUbPp6YI_Z884bWQRQu",
-			"type": "freedraw",
-			"x": -625.2500000000003,
-			"y": 131.42857142857173,
-			"width": 25.71428571428578,
-			"height": 38.57142857142861,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1619031092,
-			"version": 15,
-			"versionNonce": 1974213300,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126643217,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.8571428571428896,
-					5.714285714285722
-				],
-				[
-					4.285714285714221,
-					10
-				],
-				[
-					7.14285714285711,
-					15.714285714285722
-				],
-				[
-					11.428571428571445,
-					20.000000000000057
-				],
-				[
-					15.714285714285666,
-					25.714285714285722
-				],
-				[
-					18.571428571428555,
-					30.000000000000057
-				],
-				[
-					21.428571428571445,
-					32.85714285714283
-				],
-				[
-					22.85714285714289,
-					37.14285714285717
-				],
-				[
-					24.285714285714334,
-					38.57142857142861
-				],
-				[
-					25.71428571428578,
-					38.57142857142861
-				],
-				[
-					25.71428571428578,
-					38.57142857142861
-				]
-			],
-			"pressures": [
-				0.0615234375,
-				0.140625,
-				0.169921875,
-				0.2021484375,
-				0.2177734375,
-				0.2333984375,
-				0.2431640625,
-				0.25,
-				0.2451171875,
-				0.2373046875,
-				0.2001953125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				25.71428571428578,
-				38.57142857142861
-			]
-		},
-		{
-			"id": "zYXlpUb8XwUdEx0q_o__H",
-			"type": "freedraw",
-			"x": -778.6136363636369,
-			"y": 436.49350649350765,
-			"width": 244.00000000000057,
-			"height": 68.00000000000011,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "cross-hatch",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 891330868,
-			"version": 22,
-			"versionNonce": 714729396,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126707420,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					8,
-					0
-				],
-				[
-					18,
-					6
-				],
-				[
-					32,
-					16
-				],
-				[
-					54.000000000000114,
-					26
-				],
-				[
-					106.00000000000023,
-					42.000000000000114
-				],
-				[
-					138.00000000000034,
-					54.000000000000114
-				],
-				[
-					166.00000000000045,
-					62.000000000000114
-				],
-				[
-					184.00000000000045,
-					66.00000000000011
-				],
-				[
-					196.00000000000045,
-					68.00000000000011
-				],
-				[
-					210.00000000000057,
-					68.00000000000011
-				],
-				[
-					224.00000000000057,
-					68.00000000000011
-				],
-				[
-					232.00000000000057,
-					68.00000000000011
-				],
-				[
-					234.00000000000057,
-					68.00000000000011
-				],
-				[
-					240.00000000000057,
-					68.00000000000011
-				],
-				[
-					240.00000000000057,
-					66.00000000000011
-				],
-				[
-					242.00000000000057,
-					66.00000000000011
-				],
-				[
-					244.00000000000057,
-					64.00000000000011
-				],
-				[
-					244.00000000000057,
-					64.00000000000011
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				244.00000000000057,
-				64.00000000000011
-			]
-		},
-		{
-			"id": "y0cAlwFzsIY8U-qQ_Qjxt",
-			"type": "freedraw",
-			"x": -840.6136363636372,
-			"y": 376.4935064935074,
-			"width": 250.00000000000068,
-			"height": 46.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1830449204,
-			"version": 21,
-			"versionNonce": 1377869196,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126707420,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					8,
-					0
-				],
-				[
-					14.000000000000114,
-					2
-				],
-				[
-					32.000000000000114,
-					6
-				],
-				[
-					50.000000000000114,
-					10
-				],
-				[
-					82.00000000000023,
-					16.000000000000114
-				],
-				[
-					108.00000000000034,
-					20.000000000000114
-				],
-				[
-					140.00000000000034,
-					24.000000000000114
-				],
-				[
-					168.00000000000045,
-					28.000000000000114
-				],
-				[
-					194.00000000000057,
-					32.000000000000114
-				],
-				[
-					212.00000000000057,
-					36.000000000000114
-				],
-				[
-					222.00000000000057,
-					36.000000000000114
-				],
-				[
-					226.00000000000057,
-					36.000000000000114
-				],
-				[
-					230.00000000000068,
-					36.000000000000114
-				],
-				[
-					234.00000000000068,
-					40.000000000000114
-				],
-				[
-					246.00000000000068,
-					44.000000000000114
-				],
-				[
-					250.00000000000068,
-					46.000000000000114
-				],
-				[
-					250.00000000000068,
-					46.000000000000114
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				250.00000000000068,
-				46.000000000000114
-			]
-		},
-		{
-			"id": "4DKJbWapk98YxspsS4CbK",
-			"type": "freedraw",
-			"x": -924.6136363636374,
-			"y": 408.49350649350754,
-			"width": 236.00000000000068,
-			"height": 154.00000000000045,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 619057036,
-			"version": 22,
-			"versionNonce": 1407897908,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126707420,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					6,
-					6
-				],
-				[
-					10,
-					12
-				],
-				[
-					22.000000000000114,
-					20
-				],
-				[
-					36.000000000000114,
-					32.000000000000114
-				],
-				[
-					56.00000000000023,
-					48.000000000000114
-				],
-				[
-					110.00000000000034,
-					74.00000000000023
-				],
-				[
-					140.00000000000045,
-					92.00000000000023
-				],
-				[
-					160.00000000000045,
-					104.00000000000023
-				],
-				[
-					178.00000000000045,
-					114.00000000000023
-				],
-				[
-					188.00000000000057,
-					120.00000000000023
-				],
-				[
-					198.00000000000057,
-					124.00000000000023
-				],
-				[
-					208.00000000000057,
-					132.00000000000023
-				],
-				[
-					214.00000000000057,
-					140.00000000000045
-				],
-				[
-					220.00000000000057,
-					144.00000000000045
-				],
-				[
-					226.00000000000068,
-					148.00000000000045
-				],
-				[
-					232.00000000000068,
-					152.00000000000045
-				],
-				[
-					236.00000000000068,
-					154.00000000000045
-				],
-				[
-					236.00000000000068,
-					154.00000000000045
-				]
-			],
-			"pressures": [],
-			"simulatePressure": true,
-			"lastCommittedPoint": [
-				236.00000000000068,
-				154.00000000000045
-			]
-		},
-		{
-			"id": "vrWJ2QhN8-ekL1KszEwVd",
-			"type": "freedraw",
-			"x": -542.6136363636364,
-			"y": 512.4935064935078,
-			"width": 54.000000000000114,
-			"height": 76.00000000000023,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1695339148,
-			"version": 44,
-			"versionNonce": 1938973620,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126779909,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2,
-					0
-				],
-				[
-					4,
-					0
-				],
-				[
-					12,
-					2
-				],
-				[
-					22.000000000000114,
-					2
-				],
-				[
-					30.000000000000114,
-					2
-				],
-				[
-					36.000000000000114,
-					2
-				],
-				[
-					40.000000000000114,
-					2
-				],
-				[
-					42.000000000000114,
-					2
-				],
-				[
-					42.000000000000114,
-					4
-				],
-				[
-					40.000000000000114,
-					4
-				],
-				[
-					34.000000000000114,
-					6
-				],
-				[
-					28.000000000000114,
-					8
-				],
-				[
-					22.000000000000114,
-					10
-				],
-				[
-					16.000000000000114,
-					14
-				],
-				[
-					10,
-					18
-				],
-				[
-					6,
-					22
-				],
-				[
-					-2,
-					30.000000000000227
-				],
-				[
-					-6,
-					34.00000000000023
-				],
-				[
-					-8,
-					40.00000000000023
-				],
-				[
-					-12,
-					48.00000000000023
-				],
-				[
-					-12,
-					52.00000000000023
-				],
-				[
-					-10,
-					60.00000000000023
-				],
-				[
-					-6,
-					66.00000000000023
-				],
-				[
-					-4,
-					70.00000000000023
-				],
-				[
-					2,
-					74.00000000000023
-				],
-				[
-					6,
-					76.00000000000023
-				],
-				[
-					12,
-					76.00000000000023
-				],
-				[
-					14.000000000000114,
-					76.00000000000023
-				],
-				[
-					20.000000000000114,
-					74.00000000000023
-				],
-				[
-					22.000000000000114,
-					72.00000000000023
-				],
-				[
-					22.000000000000114,
-					68.00000000000023
-				],
-				[
-					22.000000000000114,
-					64.00000000000023
-				],
-				[
-					20.000000000000114,
-					60.00000000000023
-				],
-				[
-					18.000000000000114,
-					58.00000000000023
-				],
-				[
-					16.000000000000114,
-					58.00000000000023
-				],
-				[
-					14.000000000000114,
-					58.00000000000023
-				],
-				[
-					12,
-					58.00000000000023
-				],
-				[
-					10,
-					60.00000000000023
-				],
-				[
-					10,
-					62.00000000000023
-				],
-				[
-					10,
-					62.00000000000023
-				]
-			],
-			"pressures": [
-				0.0283203125,
-				0.1357421875,
-				0.1435546875,
-				0.1650390625,
-				0.1787109375,
-				0.1884765625,
-				0.197265625,
-				0.20703125,
-				0.2109375,
-				0.23046875,
-				0.240234375,
-				0.2529296875,
-				0.25390625,
-				0.259765625,
-				0.267578125,
-				0.2734375,
-				0.2744140625,
-				0.2744140625,
-				0.27734375,
-				0.27734375,
-				0.2763671875,
-				0.2783203125,
-				0.279296875,
-				0.275390625,
-				0.2783203125,
-				0.279296875,
-				0.27734375,
-				0.279296875,
-				0.2822265625,
-				0.28515625,
-				0.2861328125,
-				0.2841796875,
-				0.2841796875,
-				0.2822265625,
-				0.28125,
-				0.2841796875,
-				0.28515625,
-				0.27734375,
-				0.2705078125,
-				0.208984375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				10,
-				62.00000000000023
-			]
-		},
-		{
-			"id": "Bud1fOh8PzthhpUZ1T_ij",
-			"type": "freedraw",
-			"x": -194.61363636363535,
-			"y": 516.4935064935078,
-			"width": 66,
-			"height": 56.00000000000017,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1044044724,
-			"version": 46,
-			"versionNonce": 1100161972,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126857673,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-6,
-					0
-				],
-				[
-					-6,
-					2
-				],
-				[
-					-10,
-					8
-				],
-				[
-					-10,
-					12
-				],
-				[
-					-12,
-					18
-				],
-				[
-					-12,
-					24
-				],
-				[
-					-10,
-					32
-				],
-				[
-					-6,
-					38.00000000000023
-				],
-				[
-					-2,
-					42.00000000000023
-				],
-				[
-					2,
-					46.00000000000023
-				],
-				[
-					4,
-					46.00000000000023
-				],
-				[
-					6,
-					46.00000000000023
-				],
-				[
-					10,
-					44.00000000000023
-				],
-				[
-					16,
-					40.00000000000023
-				],
-				[
-					20,
-					34.00000000000023
-				],
-				[
-					24,
-					30
-				],
-				[
-					26,
-					24
-				],
-				[
-					26,
-					20
-				],
-				[
-					26,
-					18
-				],
-				[
-					26,
-					16
-				],
-				[
-					24,
-					14
-				],
-				[
-					22,
-					16
-				],
-				[
-					22,
-					20
-				],
-				[
-					22,
-					26
-				],
-				[
-					22,
-					32
-				],
-				[
-					26,
-					38.00000000000023
-				],
-				[
-					28,
-					42.00000000000023
-				],
-				[
-					30,
-					46.00000000000023
-				],
-				[
-					36,
-					46.00000000000023
-				],
-				[
-					38,
-					48.00000000000023
-				],
-				[
-					42,
-					46.00000000000023
-				],
-				[
-					46,
-					42.00000000000023
-				],
-				[
-					50,
-					36.00000000000023
-				],
-				[
-					52,
-					28
-				],
-				[
-					54,
-					20
-				],
-				[
-					54,
-					16
-				],
-				[
-					52,
-					6
-				],
-				[
-					50,
-					2
-				],
-				[
-					48,
-					-4
-				],
-				[
-					46,
-					-5.999999999999943
-				],
-				[
-					44,
-					-7.999999999999943
-				],
-				[
-					44,
-					-7.999999999999943
-				]
-			],
-			"pressures": [
-				0.0390625,
-				0.1259765625,
-				0.1357421875,
-				0.1806640625,
-				0.19921875,
-				0.2236328125,
-				0.240234375,
-				0.2509765625,
-				0.2607421875,
-				0.267578125,
-				0.2705078125,
-				0.2724609375,
-				0.2724609375,
-				0.2783203125,
-				0.2783203125,
-				0.2783203125,
-				0.275390625,
-				0.26953125,
-				0.2783203125,
-				0.28125,
-				0.2841796875,
-				0.2880859375,
-				0.28515625,
-				0.28515625,
-				0.2880859375,
-				0.28515625,
-				0.2880859375,
-				0.2880859375,
-				0.287109375,
-				0.291015625,
-				0.2919921875,
-				0.2890625,
-				0.28515625,
-				0.2822265625,
-				0.28515625,
-				0.2861328125,
-				0.2841796875,
-				0.287109375,
-				0.28515625,
-				0.2822265625,
-				0.271484375,
-				0.1123046875,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				44,
-				-7.999999999999943
-			]
-		},
-		{
-			"id": "Drn2GJhUVNvYd9eMVFwsN",
-			"type": "freedraw",
-			"x": -112.61363636363512,
-			"y": 542.4935064935078,
-			"width": 30,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 2094898356,
-			"version": 13,
-			"versionNonce": 2070220812,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126858359,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4,
-					0
-				],
-				[
-					6,
-					0
-				],
-				[
-					12,
-					0
-				],
-				[
-					18,
-					0
-				],
-				[
-					22,
-					0
-				],
-				[
-					26,
-					0
-				],
-				[
-					28,
-					0
-				],
-				[
-					30,
-					0
-				],
-				[
-					30,
-					0
-				]
-			],
-			"pressures": [
-				0.037109375,
-				0.1142578125,
-				0.1416015625,
-				0.1875,
-				0.208984375,
-				0.2216796875,
-				0.23046875,
-				0.220703125,
-				0.1044921875,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				30,
-				0
-			]
-		},
-		{
-			"id": "Q_v7zhMnJVyRFTL5qtA0v",
-			"type": "freedraw",
-			"x": -100.61363636363512,
-			"y": 556.493506493508,
-			"width": 26,
-			"height": 0,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1633542412,
-			"version": 14,
-			"versionNonce": 795419020,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126857673,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4,
-					0
-				],
-				[
-					6,
-					0
-				],
-				[
-					8,
-					0
-				],
-				[
-					12,
-					0
-				],
-				[
-					14,
-					0
-				],
-				[
-					20,
-					0
-				],
-				[
-					22,
-					0
-				],
-				[
-					24,
-					0
-				],
-				[
-					26,
-					0
-				],
-				[
-					26,
-					0
-				]
-			],
-			"pressures": [
-				0.0498046875,
-				0.1474609375,
-				0.1611328125,
-				0.1787109375,
-				0.203125,
-				0.208984375,
-				0.2236328125,
-				0.228515625,
-				0.240234375,
-				0.1923828125,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				26,
-				0
-			]
-		},
-		{
-			"id": "QjGy2UKyPiYw8WTFSMCEE",
-			"type": "freedraw",
-			"x": -616.6136363636366,
-			"y": 774.4935064935084,
-			"width": 44.000000000000114,
-			"height": 60.000000000000114,
-			"angle": 0,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"seed": 1363948172,
-			"version": 54,
-			"versionNonce": 431192884,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1665126953933,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-2
-				],
-				[
-					2,
-					-2
-				],
-				[
-					10.000000000000114,
-					-2
-				],
-				[
-					18.000000000000114,
-					-2
-				],
-				[
-					22.000000000000114,
-					-2
-				],
-				[
-					30.000000000000114,
-					-2
-				],
-				[
-					32.000000000000114,
-					-2
-				],
-				[
-					36.000000000000114,
-					0
-				],
-				[
-					38.000000000000114,
-					0
-				],
-				[
-					40.000000000000114,
-					0
-				],
-				[
-					38.000000000000114,
-					0
-				],
-				[
-					38.000000000000114,
-					2
-				],
-				[
-					36.000000000000114,
-					2
-				],
-				[
-					30.000000000000114,
-					2
-				],
-				[
-					28.000000000000114,
-					4
-				],
-				[
-					24.000000000000114,
-					4
-				],
-				[
-					18.000000000000114,
-					6
-				],
-				[
-					14.000000000000114,
-					10
-				],
-				[
-					10.000000000000114,
-					12
-				],
-				[
-					6.000000000000114,
-					16
-				],
-				[
-					2,
-					18.000000000000114
-				],
-				[
-					0,
-					22.000000000000114
-				],
-				[
-					-2,
-					26.000000000000114
-				],
-				[
-					-2,
-					30.000000000000114
-				],
-				[
-					-4,
-					36.000000000000114
-				],
-				[
-					-4,
-					40.000000000000114
-				],
-				[
-					-2,
-					44.000000000000114
-				],
-				[
-					2,
-					48.000000000000114
-				],
-				[
-					4.000000000000114,
-					52.000000000000114
-				],
-				[
-					8.000000000000114,
-					54.000000000000114
-				],
-				[
-					14.000000000000114,
-					56.000000000000114
-				],
-				[
-					18.000000000000114,
-					58.000000000000114
-				],
-				[
-					20.000000000000114,
-					58.000000000000114
-				],
-				[
-					22.000000000000114,
-					58.000000000000114
-				],
-				[
-					26.000000000000114,
-					58.000000000000114
-				],
-				[
-					30.000000000000114,
-					54.000000000000114
-				],
-				[
-					32.000000000000114,
-					52.000000000000114
-				],
-				[
-					34.000000000000114,
-					50.000000000000114
-				],
-				[
-					34.000000000000114,
-					46.000000000000114
-				],
-				[
-					36.000000000000114,
-					46.000000000000114
-				],
-				[
-					36.000000000000114,
-					44.000000000000114
-				],
-				[
-					36.000000000000114,
-					42.000000000000114
-				],
-				[
-					34.000000000000114,
-					40.000000000000114
-				],
-				[
-					32.000000000000114,
-					38.000000000000114
-				],
-				[
-					30.000000000000114,
-					38.000000000000114
-				],
-				[
-					28.000000000000114,
-					38.000000000000114
-				],
-				[
-					26.000000000000114,
-					38.000000000000114
-				],
-				[
-					24.000000000000114,
-					40.000000000000114
-				],
-				[
-					24.000000000000114,
-					42.000000000000114
-				],
-				[
-					24.000000000000114,
-					42.000000000000114
-				]
-			],
-			"pressures": [
-				0.0390625,
-				0.158203125,
-				0.173828125,
-				0.208984375,
-				0.2294921875,
-				0.2392578125,
-				0.2451171875,
-				0.2451171875,
-				0.25,
-				0.25390625,
-				0.26171875,
-				0.26171875,
-				0.2568359375,
-				0.259765625,
-				0.265625,
-				0.2626953125,
-				0.26171875,
-				0.263671875,
-				0.2646484375,
-				0.265625,
-				0.2724609375,
-				0.2763671875,
-				0.28125,
-				0.28125,
-				0.283203125,
-				0.28515625,
-				0.2861328125,
-				0.2861328125,
-				0.2900390625,
-				0.291015625,
-				0.29296875,
-				0.2890625,
-				0.2880859375,
-				0.2900390625,
-				0.2900390625,
-				0.2890625,
-				0.283203125,
-				0.2841796875,
-				0.2802734375,
-				0.2763671875,
-				0.271484375,
-				0.2744140625,
-				0.2783203125,
-				0.2802734375,
-				0.2822265625,
-				0.28515625,
-				0.28125,
-				0.2802734375,
-				0.267578125,
-				0.1513671875,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.000000000000114,
-				42.000000000000114
-			]
 		}
 	],
 	"appState": {
