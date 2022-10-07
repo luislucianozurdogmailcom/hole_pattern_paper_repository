@@ -7,8 +7,12 @@
         "id": "00822ec0e3b80abe",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "COMANDOS GIT.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "COMANDOS GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "COMANDOS GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "COMANDOS GIT.md"
+              }
             }
           },
           {
@@ -128,7 +136,7 @@
     "direction": "horizontal",
     "width": 299.5
   },
-  "active": "ed8b129f34b28cb8",
+  "active": "00822ec0e3b80abe",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2022-10-06 22.40.05.excalidraw.md",
     "Hole Pattern/Concepts/Construction aplications.md",
