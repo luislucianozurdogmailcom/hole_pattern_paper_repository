@@ -1,38 +1,31 @@
 {
   "main": {
-    "id": "6a482028cf95d564",
+    "id": "1e416387bf2f4680",
     "type": "split",
     "children": [
       {
-        "id": "2994b14b40852e57",
+        "id": "ca2bcfb9f96b2462",
         "type": "leaf",
         "state": {
-<<<<<<< HEAD
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Hole Pattern/Concepts/Moore's Law.md",
-            "mode": "source",
-            "source": false
+            "file": "Excalidraw/Drawing 2022-10-07 02.27.19.excalidraw.md"
           }
-=======
-          "type": "empty",
-          "state": {}
->>>>>>> da054c9ed6c95f4816c579b84c1dc33f9d73fd05
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b054855273127ef3",
+    "id": "dbe2650c4673601f",
     "type": "split",
     "children": [
       {
-        "id": "1c4da5ee781e5111",
+        "id": "7cb04cd79b16e7b1",
         "type": "tabs",
         "children": [
           {
-            "id": "d592fd46ade778bd",
+            "id": "11daf3974040fcbd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,13 +33,13 @@
             }
           },
           {
-            "id": "adf7bdbc6936d80c",
+            "id": "fd1c5ffb05d20189",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -55,7 +48,7 @@
             }
           },
           {
-            "id": "7d00a28f6410d96a",
+            "id": "079aec7cb3f30657",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -66,53 +59,55 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 173.5
   },
   "right": {
-    "id": "5775a44af293c22a",
+    "id": "a7e33999e0369be2",
     "type": "split",
     "children": [
       {
-        "id": "a49e4c8c0910f8c2",
+        "id": "cf78d99cee539d39",
         "type": "tabs",
         "children": [
           {
-            "id": "b5fb9d3d3f616839",
+            "id": "88904069e835af4f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aaf7faae3917cea5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Hole Pattern/Concepts/Moore's Law.md",
-=======
->>>>>>> da054c9ed6c95f4816c579b84c1dc33f9d73fd05
+                "file": "Excalidraw/Drawing 2022-10-07 02.27.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "56ac7e95255bed99",
+            "id": "3dab2eb769740eae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Hole Pattern/Concepts/Moore's Law.md",
-=======
->>>>>>> da054c9ed6c95f4816c579b84c1dc33f9d73fd05
+                "file": "Excalidraw/Drawing 2022-10-07 02.27.19.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bc9d6f403641b7e1",
+            "id": "5b36e9275eba0aa1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,58 +118,28 @@
             }
           },
           {
-            "id": "fdbab3feb377e15b",
+            "id": "5d8ab53b7373114c",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
               "state": {
-                "file": "Hole Pattern/Concepts/Moore's Law.md"
+                "file": "Excalidraw/Drawing 2022-10-07 02.27.19.excalidraw.md"
               }
-=======
-              "state": {}
->>>>>>> da054c9ed6c95f4816c579b84c1dc33f9d73fd05
-            }
-          },
-          {
-            "id": "ed8b129f34b28cb8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300,
+    "collapsed": true
   },
-  "active": "2994b14b40852e57",
+  "active": "ca2bcfb9f96b2462",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "REPOSITORIO.md",
-    "Hole Pattern/Concepts/Moore's Law.md",
+    "Hole Pattern/Concepts/Archivo nuevo para prueba.md",
     "Hole Pattern/Concepts/Manipulation heat flux.md",
-    "COMANDOS GIT.md",
-    "aasdasd.md",
-    "Hole Pattern/Concepts/Thermal systems or devices.md",
     "Hole Pattern/Concepts/Industrial aplications.md",
-    "asdasdas.md",
     "Hole Pattern/Concepts/Construction aplications.md",
-    "Excalidraw/Drawing 2022-10-06 22.40.05.excalidraw.md"
-=======
-    "asdasdas.md",
-    "COMANDOS GIT.md",
-    "REPOSITORIO.md",
-    "Hole Pattern/Concepts/Construction aplications.md",
-    "Hole Pattern/Concepts/Industrial aplications.md",
-    "Hole Pattern/Concepts/Manipulation heat flux.md",
-    "Hole Pattern/Concepts/Moore's Law.md",
-    "Hole Pattern/Concepts/Thermal agressive enviroments.md",
-    "Excalidraw/Drawing 2022-10-06 22.40.05.excalidraw.md",
-    "Hole Pattern/Concepts/Thermal systems or devices.md"
->>>>>>> da054c9ed6c95f4816c579b84c1dc33f9d73fd05
+    "Excalidraw/Drawing 2022-10-07 02.27.19.excalidraw.md"
   ]
 }
