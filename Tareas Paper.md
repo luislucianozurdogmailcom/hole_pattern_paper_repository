@@ -8,8 +8,6 @@ kanban-plugin: basic
 
 - [ ] Agregar mas explicaciones en Resultados
 - [ ] Resolver las correcciones en rojo en Resultados
-- [ ] Tarjeta exclusivamente de prueba
-- [ ] dfdfdsfdf
 
 
 ## En proceso

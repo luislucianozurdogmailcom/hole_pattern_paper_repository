@@ -7,9 +7,11 @@
         "id": "ca2bcfb9f96b2462",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Tareas Paper.md"
+            "file": "Hole Pattern/Concepts/Anisotropy.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas Paper.md",
+                "file": "Hole Pattern/Concepts/Anisotropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas Paper.md",
+                "file": "Hole Pattern/Concepts/Anisotropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas Paper.md"
+                "file": "Hole Pattern/Concepts/Anisotropy.md"
               }
             }
           }
@@ -131,20 +133,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "ca2bcfb9f96b2462",
   "lastOpenFiles": [
     "Excalidraw/Frecuencia calculo auxiliar.md",
-    "Tareas Paper.md",
-    "Audios/Recording 20221007061500.webm",
-    "Hole Pattern/Recording 20221007061226.webm",
-    "Hole Pattern/Concepts/Thermal agressive enviroments.md",
-    "Hole Pattern/Concepts/Thermal systems or devices.md",
-    "Hole Pattern/Concepts/Moore's Law.md",
-    "Hole Pattern/Concepts/Manipulation heat flux.md",
-    "Hole Pattern/Concepts/Industrial aplications.md",
-    "Hole Pattern/Concepts/Construction aplications.md"
+    "Hole Pattern/Pappers/@lohThermalRectificationReversal2012.md",
+    "Hole Pattern/Pappers/@nguyenActiveThermalCloak2015.md",
+    "Hole Pattern/Pappers/@Thirsk2009.md",
+    "Hole Pattern/Pappers/@Saeid2005.md",
+    "Hole Pattern/Pappers/@heThermalManagementTemperature2021.md",
+    "Hole Pattern/Pappers/@hombergerSiliconcarbideSiCSemiconductor2004.md",
+    "Hole Pattern/Pappers/@gaoNovelLowColored2018.md",
+    "Hole Pattern/Pappers/@Al-Tamimi2017a.md",
+    "Hole Pattern/Pappers/@bergmanFundamentalsHeatMass2011.md"
   ]
 }
