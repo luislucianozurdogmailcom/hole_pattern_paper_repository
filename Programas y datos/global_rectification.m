@@ -29,6 +29,8 @@ xlim([0 1])
 xlabel('Length [L]')
 ylabel('Length [L]')
 ylim([0 1])
+yticks([0,0.5,1])
+yticklabels({'0','0.5','1'})
 t = title('a)', 'Units', 'normalized', 'Position', [-0.2, 0.8, 0]); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%%%  Gráfico Medialuna  %%%%%%%%%%%%%%%%%%%%%%%%
@@ -41,6 +43,8 @@ xlim([0 1])
 ylim([0 1])
 xlabel('Length [L]')
 ylabel('Length [L]')
+yticks([0,0.5,1])
+yticklabels({'0','0.5','1'})
 t = title('b)', 'Units', 'normalized', 'Position', [-0.2, 0.8, 0]); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Triangulo 0.25  %%%%%%%%%%%%%%%%%%%%%%%

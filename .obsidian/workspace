@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ca2bcfb9f96b2462",
+        "id": "8eec95c7a3696563",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Figuras/globalRectification.png"
+            "file": "Hole Pattern/Concepts/Negative rectification.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Figuras/globalRectification.png",
+                "file": "Hole Pattern/Concepts/Negative rectification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Figuras/globalRectification.png",
+                "file": "Hole Pattern/Concepts/Negative rectification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Figuras/globalRectification.png"
+                "file": "Hole Pattern/Concepts/Negative rectification.md"
               }
             }
           }
@@ -134,12 +136,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca2bcfb9f96b2462",
+  "active": "8eec95c7a3696563",
   "lastOpenFiles": [
-    "Figuras/localHeatFluxes.png",
-    "Figuras/globalRectification.png",
-    "Figuras/globalRectification_original.png",
     "Tareas Paper.md",
+    "Figuras/globalRectification.png",
+    "Figuras/localHeatFluxes.png",
+    "Figuras/globalRectification_original.png",
     "Excalidraw/Frecuencia calculo auxiliar.md",
     "Excalidraw/Adimensionalización del flujo.md",
     "Excalidraw/Pasted Image 20221010232944_140.png",
