@@ -6,5 +6,6 @@
     "en-US",
     "en-GB"
   ],
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }
