@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "1e416387bf2f4680",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d78e9f56fa2892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4bb54cbaad52b83",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbe2650c4673601f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cb04cd79b16e7b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11daf3974040fcbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd1c5ffb05d20189",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "079aec7cb3f30657",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a7e33999e0369be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf78d99cee539d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88904069e835af4f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aaf7faae3917cea5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3dab2eb769740eae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b36e9275eba0aa1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5d8ab53b7373114c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a4bb54cbaad52b83",
+  "lastOpenFiles": [
+    "208.pdf",
+    "Anotaciones del protocolo del paper.md",
+    "Tareas Paper.md",
+    "Excalidraw/Frecuencia calculo auxiliar.md",
+    "Figuras/localRectification.png",
+    "Figuras/localHeatFluxes.png",
+    "Figuras/globalRectification_original.png",
+    "Figuras/globalRectification.png",
+    "Hole Pattern/Concepts/Space harsh environment.md",
+    "Hole Pattern/Pappers/@Saeid2005.md"
+  ]
+}
