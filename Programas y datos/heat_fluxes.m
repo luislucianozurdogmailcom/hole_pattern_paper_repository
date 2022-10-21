@@ -53,7 +53,7 @@ xticklabels({'0','L'})
 yticks([0,200])
 yticklabels({'0','L'})
 ylabel('Length (y-direction)')
-t = title('a)', 'Units', 'normalized', 'Position', [-0.2, 0.9, 0]); % Set Title with correct Position
+t = title('a)', 'Units', 'normalized', 'Position', [-0.3, 0.9, 0]); % Set Title with correct Position
 %axis equal;
 %%%%%%%%%%%%%%%%%%%%%  Gráfico Medialuna  %%%%%%%%%%%%%%%%%%%%%%%%
 subplot(3,2,2)
@@ -80,7 +80,7 @@ xticklabels({'0','L'})
 yticks([0,200])
 yticklabels({'0','L'})
 ylabel('Length (y-direction)')
-t = title('b)', 'Units', 'normalized', 'Position', [-0.2, 0.9, 0]); % Set Title with correct Position
+t = title('b)', 'Units', 'normalized', 'Position', [-0.3, 0.9, 0]); % Set Title with correct Position
 %axis equal;
 %%%%%%%%%%%%%%%%%%%  Gráfico Triangulo 0.5  %%%%%%%%%%%%%%%%%%%%%%%
 subplot(3,2,[3,5])
@@ -141,12 +141,12 @@ plot(A_max,HA_max,'v','MarkerSize',3,'LineWidth',5,'color','k');
 
 
 hold off
-xlim([0 100])
-ylabel('Heat Flux [k \DeltaT/\Deltax]')
-xlabel('Frecuency [1/\tau]')
+xlim([0 600])
+ylabel('Heat Flux [J/J*]')
+xlabel('Frecuency [\omega/\Omega]','FontSize',10)
 set(gca,'YScale','log')
 ylim([0.01 1000])
-t = title('c)', 'Units', 'normalized', 'Position', [-0.2, 0.95, 0]); % Set Title with correct Position
+t = title('c)', 'Units', 'normalized', 'Position', [-0.3, 0.95, 0]); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Medialuna 0.5  %%%%%%%%%%%%%%%%%%%%%%%
 subplot(3,2,[4,6])
@@ -207,9 +207,15 @@ plot(A1_max,HA1_max,'v','MarkerSize',3,'LineWidth',5,'color','k');
 
 
 hold off
-xlim([0 100])
-ylabel('Heat Flux [k \DeltaT/\Deltax]')
-xlabel('Frecuency [1/\tau]')
+xlim([0 600])
+ylabel('Heat Flux [J/J*]')
+xlabel('Frecuency [\omega/\Omega]','FontSize',10)
 set(gca,'YScale','log')
 ylim([0.01 1000])
-t = title('d)', 'Units', 'normalized', 'Position', [-0.2, 0.95, 0]); % Set Title with correct Position
+t = title('d)', 'Units', 'normalized', 'Position', [-0.3, 0.95, 0]); % Set Title with correct Position
+
+x0=10;
+y0=10;
+width=500;
+height=700
+set(gcf,'position',[x0,y0,width,height])

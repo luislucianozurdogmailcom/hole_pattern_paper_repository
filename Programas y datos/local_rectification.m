@@ -1,92 +1,14 @@
 %%%%%%%%%%%%%%%%%%%%Editar Grafico%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 lw = 3; %LineWidth
 mz = 7; %MarkSize
+fz = 10; %FontSize
 
 %%%%%%%%%%%%%%%%%%%%%%%Posiciones de medición$$$$$$$$$$$$$$$$$$$$$$$$$
 x0=[1/200,1/200,1/200,1/200,1/200,1/200,1/200,1/200,1/200,1/200,1/200];
 y1=[0,20/200,40/200,60/200,80/200,100/200,120/200,140/200,160/200,180/200,200/200];
 
-x1=[22.2/200,22.2/200,22.2/200,22.2/200,22.2/200,22.2/200,22.2/200,22.2/200,22.2/200,22.2/200,22.2/200];
-x2=[44.4,44.4,44.4,44.4,44.4,44.4,44.4,44.4,44.4,44.4,44.4];
-x3=[66.6,66.6,66.6,66.6,66.6,66.6,66.6,66.6,66.6,66.6,66.6];
-x4=[88.8,88.8,88.8,88.8,88.8,88.8,88.8,88.8,88.8,88.8,88.8];
-x5=[111,111,111,111,111,111,111,111,111,111,111];
-x6=[133.2,133.2,133.2,133.2,133.2,133.2,133.2,133.2,133.2,133.2,133.2];
-x7=[155.4,155.4,155.4,155.4,155.4,155.4,155.4,155.4,155.4,155.4,155.4];
-x8=[177.6,177.6,177.6,177.6,177.6,177.6,177.6,177.6,177.6,177.6,177.6];
-x9=[199,199,199,199,199,199,199,199,199,199,199];
-
-%rescaleo
-x2 = x2/200
-x3 = x3/200
-x4 = x4/200
-x5 = x5/200
-x6 = x6/200
-x7 = x7/200
-x8 = x8/200
-x9 = x9/200
-
-%%%%%%%%%%%%%%%%%%%%%%%%Figura medialuna%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-r = 50/200;
-phi = -pi/2:0.01:pi/2;
-x_1 = r*cos(phi)+75/200;
-y_1 = r*sin(phi)+100/200;
-
-%%%%%%%%%%%%%%%%%%%%%%%%Figura triángulo%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-a=[40/200,40/200];
-b=[40/200,160/200];
-c=[160/200,100/200];
-x=[a(1) b(1) c(1) a(1)];
-y=[a(2) b(2) c(2) a(2)];
-
-%%%%%%%%%%%%%%%%%%%%%%  Gráfico Triángulo  %%%%%%%%%%%%%%%%%%%%%%%%%%
-subplot(7,2,1)
-plot(x0,y1,'-','LineWidth',lw,'color','#A2142F','MarkerSize',mz);
-hold on
-plot(x1,y1,'-','LineWidth',lw,'color','#4DBEEE','MarkerSize',mz);
-plot(x2,y1,'-','LineWidth',lw,'color','#77AC30','MarkerSize',mz);
-plot(x3,y1,'-','LineWidth',lw,'color','#7E2F8E','MarkerSize',mz);
-plot(x4,y1,'-','LineWidth',lw,'color','#EDB120','MarkerSize',mz);
-plot(x5,y1,'-','LineWidth',lw,'color','#D95319','MarkerSize',mz);
-plot(x6,y1,'-','LineWidth',lw,'color','#0072BD','MarkerSize',mz);
-plot(x7,y1,'-','LineWidth',lw,'color','b','MarkerSize',mz);
-plot(x8,y1,'-','LineWidth',lw,'color','r','MarkerSize',mz);
-plot(x9,y1,'-','LineWidth',lw,'color','m','MarkerSize',mz);
-triangulo=patch(x,y,'black');
-hold off
-xlim([0 1])
-yticks([0,0.5,1])
-yticklabels({'0','0.5','1'})
-ylabel('Length [L]')
-ylabel('Length [L]')
-ylim([0 1])
-t = title('a)', 'Units', 'normalized', 'Position', [-0.15, 0.8, 0]); % Set Title with correct Position
-
-%%%%%%%%%%%%%%%%%%%%%  Gráfico Medialuna  %%%%%%%%%%%%%%%%%%%%%%%%
-subplot(7,2,2)
-plot(x0,y1,'-','LineWidth',lw,'color','#A2142F','MarkerSize',mz);
-hold on
-plot(x1,y1,'-','LineWidth',lw,'color','#4DBEEE','MarkerSize',mz);
-plot(x2,y1,'-','LineWidth',lw,'color','#77AC30','MarkerSize',mz);
-plot(x3,y1,'-','LineWidth',lw,'color','#7E2F8E','MarkerSize',mz);
-plot(x4,y1,'-','LineWidth',lw,'color','#EDB120','MarkerSize',mz);
-plot(x5,y1,'-','LineWidth',lw,'color','#D95319','MarkerSize',mz);
-plot(x6,y1,'-','LineWidth',lw,'color','#0072BD','MarkerSize',mz);
-plot(x7,y1,'-','LineWidth',lw,'color','b','MarkerSize',mz);
-plot(x8,y1,'-','LineWidth',lw,'color','r','MarkerSize',mz);
-plot(x9,y1,'-','LineWidth',lw,'color','m','MarkerSize',mz);
-plot(x_1,y_1,'b','LineWidth',5,'color','k','MarkerSize',mz);
-hold off
-xlim([0 1])
-ylim([0 1])
-yticks([0,0.5,1])
-yticklabels({'0','0.5','1'})
-xlabel('Length [L]')
-ylabel('Length [L]')
-t = title('b)', 'Units', 'normalized', 'Position', [-0.15, 0.8, 0]); % Set Title with correct Position
-
 %%%%%%%%%%%%%%%%%%%  Gráfico Triangulo 0.25  %%%%%%%%%%%%%%%%%%%%%%%
-subplot(7,2,[3,5])
+subplot(6,2,[1,3])
 Array=csvread('salida - Triangulo - 0.25.csv');
 A = Array(:, 4);
 
@@ -153,13 +75,14 @@ plot(A, (HB/HE)*100, 'LineWidth',lw,'color','b','MarkerSize',mz)
 plot(A, (IB/IE)*100, 'LineWidth',lw,'color','r','MarkerSize',mz)
 plot(A, (JB/JE)*100, 'LineWidth',lw,'color','m','MarkerSize',mz)
 hold off
-xlim([0 50])
+
+xlim([0 300])
 %xlabel('Frecuency[1/s]')
-ylabel('Rectification [%]')
-t = title('c)', 'Units', 'normalized', 'Position', [-0.15, 0.8, 0]); % Set Title with correct Position
+ylabel('Rectification [%]','FontSize',fz)
+t = title('a)', 'Units', 'normalized', 'Position', [-0.15, 1, 0],'FontSize',fz); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Medialuna 0.25  %%%%%%%%%%%%%%%%%%%%%%%
-subplot(7,2,[4,6])
+subplot(6,2,[2,4])
 Array1=csvread('salida - Medialuna - 0.25.csv');
 A1 = Array1(:, 4);
 
@@ -226,13 +149,13 @@ plot(A1, (HB1/HE1)*100, 'LineWidth',lw,'color','b','MarkerSize',mz)
 plot(A1, (IB1/IE1)*100, 'LineWidth',lw,'color','r','MarkerSize',mz)
 plot(A1, (JB1/JE1)*100, 'LineWidth',lw,'color','m','MarkerSize',mz)
 hold off
-xlim([0 50])
+xlim([0 300])
 %xlabel('Frecuency[1/s]')
-ylabel('Rectification [%]')
-t = title('d)', 'Units', 'normalized', 'Position', [-0.15, 0.8, 0]); % Set Title with correct Position
+ylabel('Rectification [%]','FontSize',fz)
+t = title('b)', 'Units', 'normalized', 'Position', [-0.15, 1, 0],'FontSize',fz); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Triangulo 0.5  %%%%%%%%%%%%%%%%%%%%%%%
-subplot(7,2,[7,9])
+subplot(6,2,[5,7])
 Array2=csvread('salida - Triangulo - 0.5.csv');
 A2 = Array2(:, 4);
 
@@ -299,13 +222,13 @@ plot(A2, (HB2/HE2)*100, 'LineWidth',lw,'color','b','MarkerSize',mz)
 plot(A2, (IB2/IE2)*100, 'LineWidth',lw,'color','r','MarkerSize',mz)
 plot(A2, (JB2/JE2)*100, 'LineWidth',lw,'color','m','MarkerSize',mz)
 hold off
-xlim([0 50])
+xlim([0 300])
 %xlabel('Frecuency[1/s]')
-ylabel('Rectification [%]')
-t = title('e)', 'Units', 'normalized', 'Position', [-0.15, 0.8, 0]); % Set Title with correct Position
+ylabel('Rectification [%]','FontSize',fz)
+t = title('c)', 'Units', 'normalized', 'Position', [-0.15, 1, 0],'FontSize',fz); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Medialuna 0.5  %%%%%%%%%%%%%%%%%%%%%%%
-subplot(7,2,[8,10])
+subplot(6,2,[6,8])
 Array3=csvread('salida - Medialuna - 0.5.csv');
 A3 = Array3(:, 4);
 
@@ -372,13 +295,13 @@ plot(A3, (HB3/HE3)*100, 'LineWidth',lw,'color','b','MarkerSize',mz)
 plot(A3, (IB3/IE3)*100, 'LineWidth',lw,'color','r','MarkerSize',mz)
 plot(A3, (JB3/JE3)*100, 'LineWidth',lw,'color','m','MarkerSize',mz)
 hold off
-xlim([0 50])
+xlim([0 300])
 %xlabel('Frecuency[1/s]')
-ylabel('Rectification [%]')
-t = title('f)', 'Units', 'normalized', 'Position', [-0.15, 0.8, 0]); % Set Title with correct Position
+ylabel('Rectification [%]','FontSize',fz)
+t = title('d)', 'Units', 'normalized', 'Position', [-0.15, 1, 0],'FontSize',fz); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Triangulo 0.75  %%%%%%%%%%%%%%%%%%%%%%%
-subplot(7,2,[11,13])
+subplot(6,2,[9,11])
 Array4=csvread('salida - Triangulo - 0.75.csv');
 A4 = Array4(:, 4);
 
@@ -445,13 +368,13 @@ plot(A4, (HB4/HE4)*100, 'LineWidth',lw,'color','b','MarkerSize',mz)
 plot(A4, (IB4/IE4)*100, 'LineWidth',lw,'color','r','MarkerSize',mz)
 plot(A4, (JB4/JE4)*100, 'LineWidth',lw,'color','m','MarkerSize',mz)
 hold off
-xlim([0 50])
-xlabel('Frecuency[1/\tau]')
-ylabel('Rectification [%]')
-t = title('g)', 'Units', 'normalized', 'Position', [-0.15, 0.8, 0]); % Set Title with correct Position
+xlim([0 300])
+xlabel('Frecuency [\omega/\Omega]','FontSize',fz)
+ylabel('Rectification [%]','FontSize',fz)
+t = title('e)', 'Units', 'normalized', 'Position', [-0.15, 1, 0],'FontSize',fz); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Medialuna 0.75  %%%%%%%%%%%%%%%%%%%%%%%
-subplot(7,2,[12,14])
+subplot(6,2,[10,12])
 Array5=csvread('salida - Medialuna - 0.75.csv');
 A5 = Array5(:, 4);
 
@@ -518,7 +441,14 @@ plot(A5, (HB5/HE5)*100, 'LineWidth',lw,'color','b','MarkerSize',mz)
 plot(A5, (IB5/IE5)*100, 'LineWidth',lw,'color','r','MarkerSize',mz)
 plot(A5, (JB5/JE5)*100, 'LineWidth',lw,'color','m','MarkerSize',mz)
 hold off
-xlim([0 50])
-xlabel('Frecuency[1/\tau]')
-ylabel('Rectification [%]')
-t = title('h)', 'Units', 'normalized', 'Position', [-0.15, 0.8, 0]); % Set Title with correct Position
+xlim([0 300])
+xlabel('Frecuency [\omega/\Omega]','FontSize',fz)
+ylabel('Rectification [%]','FontSize',fz)
+t = title('f)', 'Units', 'normalized', 'Position', [-0.15, 1, 0],'FontSize',fz); % Set Title with correct Position
+
+x0=10;
+y0=10;
+width=700;
+height=700
+set(gcf,'position',[x0,y0,width,height])
+
