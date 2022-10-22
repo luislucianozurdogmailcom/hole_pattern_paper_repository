@@ -28,7 +28,7 @@ plot(A, (AB/AE)*100,'LineWidth',lw,'color',[162/255,20/255,47/255],'MarkerSize',
 xlim([0 300])
 ylim([-0.28,0.27])
 ylabel('Rectification [%]','FontSize',fz)
-t = title('c)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
+t = title('a)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Medialuna 0.25  %%%%%%%%%%%%%%%%%%%%%%%
 subplot(6,2,[2,4])
@@ -51,7 +51,7 @@ plot(A1, (AB1/AE1)*100,'LineWidth',lw,'color',[162/255,20/255,47/255],'MarkerSiz
 xlim([0 250])
 ylim([-0.12, 0.12]);
 ylabel('Rectification [%]','FontSize',fz)
-t = title('d)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
+t = title('b)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Triangulo 0.5  %%%%%%%%%%%%%%%%%%%%%%%
 subplot(6,2,[5,7])
@@ -73,7 +73,7 @@ plot(A2, (AB2/AE2)*100,'LineWidth',lw,'color',[162/255,20/255,47/255],'MarkerSiz
 xlim([0 300])
 ylim([-2.2,1.7])
 ylabel('Rectification [%]','FontSize',fz)
-t = title('e)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
+t = title('c)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Medialuna 0.5  %%%%%%%%%%%%%%%%%%%%%%%
 subplot(6,2,[6,8])
@@ -95,7 +95,7 @@ plot(A3, (AB3/AE3)*100,'LineWidth',lw,'color',[162/255,20/255,47/255],'MarkerSiz
 xlim([0 250])
 ylim([-0.6,0.65])
 ylabel('Rectification [%]','FontSize',fz)
-t = title('f)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
+t = title('d)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Triangulo 0.75  %%%%%%%%%%%%%%%%%%%%%%%
 subplot(6,2,[9,11])
@@ -118,7 +118,7 @@ xlim([0 500])
 ylim([-7.5, 6])
 xlabel('Frecuency [\omega/\Omega]','FontSize',fz)
 ylabel('Rectification [%]','FontSize',fz)
-t = title('g)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
+t = title('e)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
 
 %%%%%%%%%%%%%%%%%%%  Gráfico Medialuna 0.75  %%%%%%%%%%%%%%%%%%%%%%%
 subplot(6,2,[10,12])
@@ -141,7 +141,7 @@ xlim([0 250])
 ylim([-1.3, 1.8])
 xlabel('Frecuency [\omega/\Omega]','FontSize',fz)
 ylabel('Rectification [%]','FontSize',fz)
-t = title('h)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
+t = title('f)', 'Units', 'normalized', 'Position', [-0.2, 1, 0],'FontSize',fz); % Set Title with correct Position
 
 x0=10;
 y0=10;
