@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4bb54cbaad52b83",
+            "id": "e4074b3115c9d4d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hole Pattern/Concepts/Thermal Capacitor.md",
+                "file": "Hole Pattern/Preguntas MECOM 2022/MECOM 2022.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ee66af8a0808806b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -77,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 297.5
   },
   "right": {
     "id": "a7e33999e0369be2",
@@ -101,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hole Pattern/Concepts/Thermal Capacitor.md",
+                "file": "Hole Pattern/Preguntas MECOM 2022/MECOM 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hole Pattern/Concepts/Thermal Capacitor.md",
+                "file": "Hole Pattern/Preguntas MECOM 2022/MECOM 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hole Pattern/Concepts/Thermal Capacitor.md"
+                "file": "Hole Pattern/Preguntas MECOM 2022/MECOM 2022.md"
               }
             }
           }
@@ -155,17 +147,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a4bb54cbaad52b83",
+  "active": "e4074b3115c9d4d9",
   "lastOpenFiles": [
+    "Audios/Recording 20221022030348.webm",
+    "Hole Pattern/Preguntas MECOM 2022/MECOM 2022.md",
+    "Anotaciones del protocolo del paper.md",
+    "Hole Pattern/Recording 20221022024621.webm",
+    "Recording 20221022024343.webm.md",
+    "Hole Pattern/Recording 20221022024343.webm",
     "Hole Pattern/Concepts/Thermal Capacitor.md",
     "Hole Pattern/Pappers/@wehmeyerThermalDiodesRegulators2017.md",
     "Hole Pattern/Pappers/@wongReviewStateArt2021.md",
-    "Hole Pattern/Pappers/@zhangReversalThermalRectification2009.md",
-    "Hole Pattern/Pappers/@Wang2017.md",
-    "Hole Pattern/Pappers/@luoDeterminingThermalCapacitance2011.md",
-    "Hole Pattern/Pappers/@baoReviewSimulationMethods2018.md",
-    "Hole Pattern/Pappers stagging/Anotaciones.md",
-    "Hole Pattern/Pappers stagging/s0360-54422900088-1.pdf",
-    "Anotaciones del protocolo del paper.md"
+    "Hole Pattern/Pappers/@zhangReversalThermalRectification2009.md"
   ]
 }
