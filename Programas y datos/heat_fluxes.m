@@ -80,7 +80,7 @@ xticklabels({'0','L'})
 yticks([0,200])
 yticklabels({'0','L'})
 ylabel('Length (y-direction)')
-t = title('b)', 'Units', 'normalized', 'Position', [-0.3, 0.9, 0]); % Set Title with correct Position
+t = title('b)', 'Units', 'normalized', 'Position', [-0.25, 0.9, 0]); % Set Title with correct Position
 %axis equal;
 %%%%%%%%%%%%%%%%%%%  Gráfico Triangulo 0.5  %%%%%%%%%%%%%%%%%%%%%%%
 subplot(3,2,[3,5])
@@ -212,7 +212,7 @@ ylabel('Heat Flux [J/J*]')
 xlabel('Frecuency [\omega/\Omega]','FontSize',10)
 set(gca,'YScale','log')
 ylim([0.01 1000])
-t = title('d)', 'Units', 'normalized', 'Position', [-0.3, 0.95, 0]); % Set Title with correct Position
+t = title('d)', 'Units', 'normalized', 'Position', [-0.25, 0.95, 0]); % Set Title with correct Position
 
 x0=10;
 y0=10;

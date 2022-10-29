@@ -11,11 +11,9 @@
             "id": "e4074b3115c9d4d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Hole Pattern/Preguntas MECOM 2022/MECOM 2022.md",
-                "mode": "source",
-                "source": false
+                "file": "Anotaciones del protocolo del paper.md"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a7e33999e0369be2",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hole Pattern/Preguntas MECOM 2022/MECOM 2022.md",
+                "file": "Anotaciones del protocolo del paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hole Pattern/Preguntas MECOM 2022/MECOM 2022.md",
+                "file": "Anotaciones del protocolo del paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hole Pattern/Preguntas MECOM 2022/MECOM 2022.md"
+                "file": "Anotaciones del protocolo del paper.md"
               }
             }
           }
@@ -149,15 +148,15 @@
   },
   "active": "e4074b3115c9d4d9",
   "lastOpenFiles": [
-    "Audios/Recording 20221022030348.webm",
+    "Tareas Paper.md",
     "Hole Pattern/Preguntas MECOM 2022/MECOM 2022.md",
+    "Audios/Recording 20221022030348.webm",
     "Anotaciones del protocolo del paper.md",
     "Hole Pattern/Recording 20221022024621.webm",
     "Recording 20221022024343.webm.md",
     "Hole Pattern/Recording 20221022024343.webm",
     "Hole Pattern/Concepts/Thermal Capacitor.md",
     "Hole Pattern/Pappers/@wehmeyerThermalDiodesRegulators2017.md",
-    "Hole Pattern/Pappers/@wongReviewStateArt2021.md",
-    "Hole Pattern/Pappers/@zhangReversalThermalRectification2009.md"
+    "Hole Pattern/Pappers/@wongReviewStateArt2021.md"
   ]
 }
